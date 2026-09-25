@@ -1,0 +1,11 @@
+{
+  "n_notes": 100,
+  "mean_words_original": 12.25,
+  "mean_words_reference": 14.74,
+  "mean_token_jaccard_orig_ref": 0.584,
+  "mean_tokens_removed_by_reference": 2.32,
+  "mean_tokens_added_by_reference": 4.32,
+  "mean_fkgl_original": 10.51,
+  "mean_fkgl_reference": 8.54,
+  "note": "References are minimal-edit lexical replacements. SARI and BERTScore against them under-credit any system that also restructures grammar; see metrics/sari.py for the worked counter-example."
+}

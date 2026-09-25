@@ -1,0 +1,29 @@
+==========================================================================
+  COST REPORT - together-muse-glimmer (together)  run `run100_20260815_222318`
+==========================================================================
+
+  notes                      100
+  attributed edits           200
+  ContextCite scoring calls  4,922   (24.6 per edit)
+  system prompt              ~404 tokens  (style: lean)
+  masks per NOTE             32 fit + 2 boundary + 32 held-out + top-k
+  glossary cap               16 entries
+
+  input tokens (estimate)    2,836,455
+    cacheable prefix         2,287,560  (81%)
+    varying glossary         548,895
+
+  LLM response cache (across runs):
+    hits 0   misses 0   hit rate None
+    dir  C:\Users\xhorx\Downloads\kaggle_C_pipeline_v2\BLUE\v8\runs\_cache
+
+  list price                 $0.350/M uncached, $0.040/M cached
+  cost, no prompt caching    $0.9928
+  cost, with prompt caching  $0.2836
+
+  projection to 100 notes    $0.99 / $0.28 (cached)
+
+  NOTE: token counts are ~4 chars/token estimates over the prompts we
+  built; they exclude output tokens (small: <=512 per generation) and
+  the Novita extraction/annotation calls, which are cached across runs
+  and shared by every model.

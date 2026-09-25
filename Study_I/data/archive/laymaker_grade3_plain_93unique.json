@@ -1,0 +1,702 @@
+[
+  {
+    "ID": 8,
+    "ORIGINAL": "He became anhedonic and disinterested in social activities, and had difficulty sleeping for frequent waking and restlessness.",
+    "REFERENCE": "He became unable to feel pleasure and disinterested in social activities, and had difficulty sleeping for frequent waking and restlessness.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 18,
+    "ORIGINAL": "Myocardial infarction can not be excluded.",
+    "REFERENCE": "Heart attack can not be excluded.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 21,
+    "ORIGINAL": "There was marked hematoma and swelling within the subdeltoid bursa.",
+    "REFERENCE": "There was obvious collection of blood and swelling within the side of the shoulder.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 26,
+    "ORIGINAL": "Smoking history, hypertension, and hyperlipidemia.",
+    "REFERENCE": "Smoking history, high blood pressure, and high fat in the blood.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 31,
+    "ORIGINAL": "She did complain of bladder spasms when she urinated and she did say that she has a history of chronic UTIs.",
+    "REFERENCE": "She did complain of bladder spasms when she urinated and she did say that she has a history of chronic urinary tract infections",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 32,
+    "ORIGINAL": "There was no instability of the knee and no effusion.",
+    "REFERENCE": "There was no instability of the knee and no fluid collection.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 64,
+    "ORIGINAL": "Two days later, the pain resolved and she has not had a recurrence.",
+    "REFERENCE": "Two days later, the pain got better and she has not had a recurrence.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 81,
+    "ORIGINAL": "Description : Fever, otitis media, and possible sepsis.",
+    "REFERENCE": "Description : Fever, ear infection, and possible general infection.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 101,
+    "ORIGINAL": "Currently, primary complaint is one of fatigue that she feels throughout the day.",
+    "REFERENCE": "Currently, primary complaint is one of feeling tired that she feels throughout the day.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 108,
+    "ORIGINAL": "He has noted some stool irregularity with occasional loose stools and new onset of pain predominantly in left neck.",
+    "REFERENCE": "He has noted some poop irregularity with occasional loose poop and new onset of pain predominantly in left neck.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 143,
+    "ORIGINAL": "Description : The patient presents for a followup for history of erythema nodosum.",
+    "REFERENCE": "Description : The patient presents for a followup for history of red, painful tender lumps around fatty areas.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 144,
+    "ORIGINAL": "She was iron deficient last year, and with her multiple surgeries and poor p. o. intake, may have become iron deficient again.",
+    "REFERENCE": "She was iron deficient last year, and with her multiple surgeries and poor food and fluid intake, may have become iron deficient again.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 150,
+    "ORIGINAL": "We will schedule him for the Holter monitor and refer him back to his cardiologist.",
+    "REFERENCE": "We will schedule him for the continuous heart monitor and refer him back to his cardiologist.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 161,
+    "ORIGINAL": "The patient wished to proceed with operative intervention.",
+    "REFERENCE": "The patient wished to proceed with an operation",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 178,
+    "ORIGINAL": "A KUB was obtained showing an abnormal bowel gas pattern.",
+    "REFERENCE": "An x-ray of the kidney, ureter and bladder was obtained showing an abnormal bowel gas pattern.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 185,
+    "ORIGINAL": "She has been sedated with Ativan and came into the emergency room obtunded and unable to give any history.",
+    "REFERENCE": "She has been sedated with Ativan and came into the emergency room very drowsy and unable to give any history.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 202,
+    "ORIGINAL": "He has no edema now, but has had some mild leg swelling in the past.",
+    "REFERENCE": "He has no swelling now, but has had some mild leg swelling in the past.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 231,
+    "ORIGINAL": "Mild secondary hyperparathyroidism.",
+    "REFERENCE": "Mild secondary hyperactive parathyroid gland",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 248,
+    "ORIGINAL": "Otherwise, a complete review of systems was obtained and was negative except for as mentioned above.",
+    "REFERENCE": "Otherwise, a complete review of systems was obtained and was normal except for as mentioned above.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 277,
+    "ORIGINAL": "Symptoms are worse when sitting for any length of time, such as driving a motor vehicle.",
+    "REFERENCE": "Symptoms are worse when sitting for any length of time, such as driving a car.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 290,
+    "ORIGINAL": "Forearm, elbow and shoulder exams reveal no neurologic compromise.",
+    "REFERENCE": "Forearm, elbow and shoulder exams reveal no nerve problems",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 296,
+    "ORIGINAL": "Thereafter, the local anesthesia was injected into the area around the tumor.",
+    "REFERENCE": "Thereafter, the numbing agent was injected into the area around the tumor.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 307,
+    "ORIGINAL": "There is no numbness or paresthesias in the hand or arm.",
+    "REFERENCE": "There is no numbness or abnormal sensation in the hand or arm.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 357,
+    "ORIGINAL": "I do not think she has an obvious current abscessed lesion, although there is some drainage.",
+    "REFERENCE": "I do not think she has an obvious current collection of pus, although there is some drainage.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 358,
+    "ORIGINAL": "At this time, we would rehydrate with intravenous fluids and reassess.",
+    "REFERENCE": "At this time, we would rehydrate with fluids through the vein and reassess.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 380,
+    "ORIGINAL": "Findings are compatible with acute appendicitis.",
+    "REFERENCE": "Findings are compatible with acute inflammation of the appendix",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 391,
+    "ORIGINAL": "She denies weight loss, but acknowledged decreased appetite and increased generalized fatigue for the past 3-4 months.",
+    "REFERENCE": "She denies weight loss, but acknowledged reduced appetite and more generalized tiredness for the past 3-4 months.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 392,
+    "ORIGINAL": "Consideration given to completion thyroidectomy.",
+    "REFERENCE": "Consideration given to remove remaining parts of the thyroid",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 394,
+    "ORIGINAL": "She notes that she had epistaxis a few days ago, requiring nasal packing and fortunately that had resolved now.",
+    "REFERENCE": "She notes that she had a nose bleed a few days ago, requiring nose packing and fortunately that had resolved now.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 396,
+    "ORIGINAL": "I also explained to the patient about conscious sedation.",
+    "REFERENCE": "I also explained to the patient about awake sedation.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 418,
+    "ORIGINAL": "Palpation of her right knee reveals no crepitus.",
+    "REFERENCE": "Palpation of her right knee reveals no crunchy feeling.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 427,
+    "ORIGINAL": "She stepped on ideas, concerns and expectations the evening prior and twisted her ankle.",
+    "REFERENCE": "She stepped on ice the evening prior and twisted her ankle.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 439,
+    "ORIGINAL": "Modifying Factors : Patient 's condition is aggravated by throwing.",
+    "REFERENCE": "Modifying Factors : Patient 's condition is made worse by throwing.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 451,
+    "ORIGINAL": "History of osteoarthritis, osteoporosis, hypothyroidism, allergic rhinitis and kidney stones.",
+    "REFERENCE": "History of joint inflammation, bone degeneration, underactive thyroid, hay fever and kidney stones.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 465,
+    "ORIGINAL": "The ultrasound was negative for intracranial hemorrhage.",
+    "REFERENCE": "The ultrasound was negative for bleeding in the brain.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 466,
+    "ORIGINAL": "He is status post laparoscopic appendicectomy, and he is tolerating oral diet.",
+    "REFERENCE": "He is status after keyhole surgery to remove appendix, and he is tolerating oral diet.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 478,
+    "ORIGINAL": "We believe that her walking is most likely not being affected by the hydrocephalus.",
+    "REFERENCE": "We believe that her walking is most likely not being affected by the excess fluid in the brain.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 505,
+    "ORIGINAL": "She noted complaints of fatigue, lightheadedness, and severe dyspnea on exertion.",
+    "REFERENCE": "She noted complaints of tiredness, lightheadedness, and severe shortness of breath on doing anything physical.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 516,
+    "ORIGINAL": "No significant amount of edema associated with these in the dorsum of the hand.",
+    "REFERENCE": "No significant amount of swelling associated with these in the back of the hand.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 523,
+    "ORIGINAL": "No cardio or pulmonary complaints.",
+    "REFERENCE": "No heart or lung complaints.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 553,
+    "ORIGINAL": "At that time, the Coreg had been held secondary to hypotension.",
+    "REFERENCE": "At that time, the Coreg had been held because of low blood pressure",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 554,
+    "ORIGINAL": "Her diarrhea now has settled down and she is having less urinary incontinence, less pedal edema.",
+    "REFERENCE": "Her watery poop now has settled down and she is having less uncontrolled peeing, less foot swelling.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 556,
+    "ORIGINAL": "Description : Nausea and abdominal pain after eating - Gall bladder disease - Laparoscopic cholecystectomy scheduled.",
+    "REFERENCE": "Description : Nausea and abdominal pain after eating - Gall bladder disease - keyhole surgery to remove the gall bladder scheduled.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 618,
+    "ORIGINAL": "She states that she has underlying history of heart disease but is not able to elaborate to any significant extent.",
+    "REFERENCE": "She states that she has underlying history of heart disease but is not able to go into detail to any significant extent.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 661,
+    "ORIGINAL": "There was some slight edema of the fourth digit, on which he still is wearing his wedding band.",
+    "REFERENCE": "There was some slight swelling of the fourth finger, on which he still is wearing his wedding band.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 669,
+    "ORIGINAL": "Parents do state that she does appear to breathe rapidly, tires somewhat with the feeding with increased respiratory effort and diaphoresis.",
+    "REFERENCE": "Parents do state that she does appear to breathe quickly, tires somewhat with the feeding with increased breathing effort and sweating.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 673,
+    "ORIGINAL": "The patient has not used amphetamines for at least four to five months, according to the patient ; however, he had onset of chest pain this evening.",
+    "REFERENCE": "The patient has not used amphetamines for at least four to five months, according to the patient ; however, he had chest pain this evening.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 675,
+    "ORIGINAL": "Orogastric suction carried out with only scant clear stomach contents.",
+    "REFERENCE": "Suction of stomach through the mouth carried out with only a small amount clear stomach contents",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 680,
+    "ORIGINAL": "Probably there is some restrictive element because of fibrosis.",
+    "REFERENCE": "Probably there is some restrictive element because of scarring of tissues.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 681,
+    "ORIGINAL": "The uterus was placed back into the abdominal cavity.",
+    "REFERENCE": "The womb was placed back into the abdomen",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 682,
+    "ORIGINAL": "This was viewed on the AP and lateral projections.",
+    "REFERENCE": "This was viewed from the front and sides.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 686,
+    "ORIGINAL": "The cords move normally with phonation and ventilation.",
+    "REFERENCE": "The cords move normally when speaking and breathing",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 688,
+    "ORIGINAL": "Once the abdomen was opened, there was noted to be gross purulent drainage.",
+    "REFERENCE": "Once the abdomen was opened, there was noted to be a lot of pus draining.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 692,
+    "ORIGINAL": "Once all four ports were placed, the right upper quadrant was then explored.",
+    "REFERENCE": "Once all four tubes were placed, the top right corner of her abdomen was then explored.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 693,
+    "ORIGINAL": "Options such as watchful waiting, robotic prostatectomy, seed implantation with and without radiation were discussed.",
+    "REFERENCE": "Options such as watch and wait, removing the prostate with the help of a robot, seed implantation with and without radiation were discussed.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 695,
+    "ORIGINAL": "He also reportedly was on Lasix prior to hospitalization, possible",
+    "REFERENCE": "He also was reportedly on water pills (lasix) before his admission to the hospital, possible",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 697,
+    "ORIGINAL": "The four cardiac chambers dimensions are within normal limits.",
+    "REFERENCE": "The sizes of the four parts of the heart are within normal limits.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 698,
+    "ORIGINAL": "Digital rectal examination was performed, which showed no masses.",
+    "REFERENCE": "Examination of the back passage was performed, which showed no lumps.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 699,
+    "ORIGINAL": "He then had a problem with seizures, hemiparesis, has been to the hospital, developed C-diff, and is in the nursing home currently.",
+    "REFERENCE": "He then had a problem with fits, weakness on one side, has been to the hospital, developed an infection in the gut, and is in the nursing home currently.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 700,
+    "ORIGINAL": "He has been on continuous positive airway pressure now for several months, and returns for followup to review his response to treatment.",
+    "REFERENCE": "He has been using a breathing mask now for several months, and returns for follow up to review how he is doing with the treatment.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 704,
+    "ORIGINAL": "Symptoms are worse when sitting for any length of time, such as driving a motor vehicle.",
+    "REFERENCE": "Problems are worse when sitting for any length of time, such as driving a car.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 709,
+    "ORIGINAL": "The patient to take small bite and small sips to help decrease the risk of aspiration and penetration.",
+    "REFERENCE": "The patient is to take small bite and small sips to help decrease the risk of having the food or drink going down the wrong pipe and piercing the pipe.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 713,
+    "ORIGINAL": "Forearm, elbow and shoulder exams reveal no neurologic compromise.",
+    "REFERENCE": "Forearm, elbow and shoulder examinations reveal no problems with the nerves that control movement and sensation",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 714,
+    "ORIGINAL": "The patient was awakened and extubated and moved to the recovery room in satisfactory condition.",
+    "REFERENCE": "The patient was awakened and tube was removed from the airway and moved to the recovery room in satisfactory condition.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 720,
+    "ORIGINAL": "Thereafter, the local anesthesia was injected into the area around the tumor.",
+    "REFERENCE": "Thereafter, the numbing medicine was injected into the area around the cancer.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 721,
+    "ORIGINAL": "PHYSICAL EXAMINATION : GENERAL : The patient was asleep, but easily aroused.",
+    "REFERENCE": "The patient was asleep, but easily woken up.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 725,
+    "ORIGINAL": "He is to follow up in approximately 10 days for recheck as well as prescription for intended AFOs, which he will need up to 6 months.",
+    "REFERENCE": "He is to come back in approximately 10 days for recheck as well as prescription for intended foot-drop braces, which he will need up to 6 months.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 726,
+    "ORIGINAL": "Genitourinary : The external genitalia appeared to be normal.",
+    "REFERENCE": "The penis/vagina/genitals appeared to be normal.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 727,
+    "ORIGINAL": "She is postop day 21 of an exploratory laparotomy with ovarian cancer staging.",
+    "REFERENCE": "She is 21 days after an open abdominal operation which explored how widespread the ovarian cancer was.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 731,
+    "ORIGINAL": "There is no numbness or paresthesias in the hand or arm.",
+    "REFERENCE": "There is no numbness or tingling in the hand or arm",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 732,
+    "ORIGINAL": "Prescription for prednisone as part of his chemotherapy has been given to him.",
+    "REFERENCE": "Prescription for steroid tablets as part of his cancer treatment has been given to him.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 738,
+    "ORIGINAL": "Photic stimulation was performed, but no clear-cut photic driving was seen.",
+    "REFERENCE": "Visual stimulation was performed, but no clear-cut changes in electrical activity of the brain was seen.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 739,
+    "ORIGINAL": "FAMILY HISTORY : Both parents died with myocardial infarctions.",
+    "REFERENCE": "Family history: Both parents died with heart attacks.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 740,
+    "ORIGINAL": "Extremities : 2+ bilateral pitting edema to the level of the knees.",
+    "REFERENCE": "Hands and feet: There is swelling in both feet up to the level of the knees (when pressed, causes an indentation in the skin for a few seconds)",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 741,
+    "ORIGINAL": "Following questions are mostly involved in a psychosocial donor evaluation.",
+    "REFERENCE": "Following questions are mostly involved in a donor evaluation of their psychological or social states.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 742,
+    "ORIGINAL": "Mild nonmobile descending aortic atherosclerosis.",
+    "REFERENCE": "Mild non-moving hardening of the part of aorta (the largest artery of the body) that goes down the chest and abdomen.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 749,
+    "ORIGINAL": "At this time, we would rehydrate with intravenous fluids and reassess.",
+    "REFERENCE": "At this time, we would rehydrate the body with fluids through a vein in the arm, and reassess.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 750,
+    "ORIGINAL": "The eustachian tube was obstructed with bone wax.",
+    "REFERENCE": "The passage between the nose and the ears was blocked with bone wax.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 752,
+    "ORIGINAL": "He was placed supine on the operating room table.",
+    "REFERENCE": "He was placed facing upwards on the operating room table.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 755,
+    "ORIGINAL": "A urinalysis was not performed this time.",
+    "REFERENCE": "A urine test was not performed this time.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 762,
+    "ORIGINAL": "Palpation of her right knee reveals no crepitus.",
+    "REFERENCE": "Feeling of her right knee reveals no crunchy feeling.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 766,
+    "ORIGINAL": "Vision and hearing appeared to be adequate for testing, although she did indicate that she needed to update her eyeglass prescription.",
+    "REFERENCE": "Vision and hearing appeared to be okay for testing, although she did indicate that she needed to update her glasses prescription.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 770,
+    "ORIGINAL": "Modifying Factors : Patient 's condition is aggravated by throwing.",
+    "REFERENCE": "Modifying Factors : Patient 's condition is made worse by throwing.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 771,
+    "ORIGINAL": "I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.",
+    "REFERENCE": "I have talked to him several times about a procedure to have a look inside the bowels (colonoscopy), which he has refused, and so we have been testing some stool samples in the lab to look for blood (which may be invisible to the naked eye).",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 783,
+    "ORIGINAL": "The knee was copiously irrigated and suction dried once again.",
+    "REFERENCE": "The knee was washed out thoroughly and dried with a suction (or mini-vacuum) once again",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 784,
+    "ORIGINAL": "She is not having painful urination, any blood in the urine, frequency or hesitancy.",
+    "REFERENCE": "She is not having painful peeing, any blood in the pee, needing to pee very often or having difficulty peeing.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 789,
+    "ORIGINAL": "Cardiovascular : Chest pain in the retrosternal area, Occasional anginal pain and patient describes it as a sensation of tightness.",
+    "REFERENCE": "Heart and blood vessels: Chest pain just behind the breastbone, occasional chest pain when exercising or exerting themselves, which gets better with rest and patient describes it as feeling 'tightness'.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 790,
+    "ORIGINAL": "We excised a good bit of his synovium and synovial pouch.",
+    "REFERENCE": "We cut out a bit of the soft tissue of the joint.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 801,
+    "ORIGINAL": "An inflammatory process such as infection or ischemia must be considered.",
+    "REFERENCE": "An inflammatory process such as infection or reduced blood flow must be considered.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 804,
+    "ORIGINAL": "I have asked her to increase her prednisone when she goes home.",
+    "REFERENCE": "I have asked her to increase her steroid when she goes home.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 844,
+    "ORIGINAL": "She may need other neuropathic pain medications as needed.",
+    "REFERENCE": "She may need other nerve pain medications as needed.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 852,
+    "ORIGINAL": "A prophylactic dose of antibiotics was given.",
+    "REFERENCE": "A prevention dose of antibiotics was given.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 854,
+    "ORIGINAL": "Chronic hypokalemia secondary to chronic diarrhea.",
+    "REFERENCE": "Long term low potassium due to long term diarrhea.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 859,
+    "ORIGINAL": "No hepatosplenomegaly or tenderness.",
+    "REFERENCE": "No enlarged liver or spleen or pain when pushed.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 881,
+    "ORIGINAL": "He did not experience his left anterior chest pain with exercise.",
+    "REFERENCE": "He did not experience his left front chest pain with exercise.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 891,
+    "ORIGINAL": "Also, would use it to control the atrial fibrillation.",
+    "REFERENCE": "Also, would use it to control the irregular heart beat",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 900,
+    "ORIGINAL": "Overall the patient is a seemingly good historian.",
+    "REFERENCE": "Overall the patient is seemingly good at remembering their history",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 933,
+    "ORIGINAL": "No active Crohn 's disease was found during the colonoscopy.",
+    "REFERENCE": "No active Crohn 's disease was found during the camera test through the gut.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 935,
+    "ORIGINAL": "Shortly after the patient's initial assessment, the patient apparently began to complain of chest pain and appeared to the nurse to have mounting exhaustion and respiratory distress.",
+    "REFERENCE": "Shortly after the patient's initial assessment, the patient apparently began to complain of chest pain and appeared to the nurse to have worsening exhaustion and breathing distress.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 968,
+    "ORIGINAL": "She has been referred for a pacemaker implantation.",
+    "REFERENCE": "She has been referred for a pacemaker fitting surgery.",
+    "grade": 3,
+    "fully_plain": true
+  }
+]

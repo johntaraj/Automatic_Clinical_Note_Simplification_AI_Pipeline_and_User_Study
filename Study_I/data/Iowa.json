@@ -1,0 +1,1162 @@
+[
+  {
+    "term": "ABDOMEN/ABDOMINAL",
+    "definition": "body cavity below diaphragm that contains stomach, intestines, liver and other organs"
+  },
+  {
+    "term": "ABSORB",
+    "definition": "take up fluids, take in"
+  },
+  {
+    "term": "ACIDOSIS",
+    "definition": "condition when blood contains more acid than normal"
+  },
+  {
+    "term": "ACUITY",
+    "definition": "clearness, keenness, esp. of vision and airways"
+  },
+  {
+    "term": "ACUTE",
+    "definition": "new, recent, sudden, urgent"
+  },
+  {
+    "term": "ADENOPATHY",
+    "definition": "swollen lymph nodes (glands)"
+  },
+  {
+    "term": "ADJUVANT",
+    "definition": "helpful, assisting, aiding, supportive"
+  },
+  {
+    "term": "ADJUVANT TREATMENT",
+    "definition": "added treatment (usually to a standard treatment)"
+  },
+  {
+    "term": "ANTIBIOTIC",
+    "definition": "drug that kills bacteria and other germs"
+  },
+  {
+    "term": "ANTIMICROBIAL",
+    "definition": "drug that kills bacteria and other germs"
+  },
+  {
+    "term": "ANTIRETROVIRAL",
+    "definition": "drug that works against the growth of certain viruses"
+  },
+  {
+    "term": "ADVERSE EFFECT",
+    "definition": "side effect, bad reaction, unwanted response"
+  },
+  {
+    "term": "ALLERGIC REACTION",
+    "definition": "rash, hives, swelling, trouble breathing"
+  },
+  {
+    "term": "AMBULATE/AMBULATION/AMBULATORY",
+    "definition": "walk, able to walk"
+  },
+  {
+    "term": "ANAPHYLAXIS",
+    "definition": "serious, potentially life-threatening allergic reaction"
+  },
+  {
+    "term": "ANEMIA",
+    "definition": "decreased red blood cells; low red cell blood count"
+  },
+  {
+    "term": "ANESTHETIC",
+    "definition": "a drug or agent used to decrease the feeling of pain, or eliminate the feeling of pain by putting you to sleep"
+  },
+  {
+    "term": "ANGINA",
+    "definition": "pain resulting from not enough blood flowing to the heart"
+  },
+  {
+    "term": "ANGINA PECTORIS",
+    "definition": "pain resulting from not enough blood flowing to the heart"
+  },
+  {
+    "term": "ANOREXIA",
+    "definition": "disorder in which person will not eat; lack of appetite"
+  },
+  {
+    "term": "ANTECUBITAL",
+    "definition": "related to the inner side of the forearm"
+  },
+  {
+    "term": "ANTIBODY",
+    "definition": "protein made in the body in response to foreign substance"
+  },
+  {
+    "term": "ANTICONVULSANT",
+    "definition": "drug used to prevent seizures"
+  },
+  {
+    "term": "ANTILIPEMIC",
+    "definition": "a drug that lowers fat levels in the blood"
+  },
+  {
+    "term": "ANTITUSSIVE",
+    "definition": "a drug used to relieve coughing"
+  },
+  {
+    "term": "ARRHYTHMIA",
+    "definition": "abnormal heartbeat; any change from the normal heartbeat"
+  },
+  {
+    "term": "ASPIRATION",
+    "definition": "fluid entering the lungs, such as after vomiting"
+  },
+  {
+    "term": "ASSAY",
+    "definition": "lab test"
+  },
+  {
+    "term": "ASSESS",
+    "definition": "to learn about, measure, evaluate, look at"
+  },
+  {
+    "term": "ASTHMA",
+    "definition": "lung disease associated with tightening of air passages, making breathing difficult"
+  },
+  {
+    "term": "ASYMPTOMATIC",
+    "definition": "without symptoms"
+  },
+  {
+    "term": "AXILLA",
+    "definition": "armpit"
+  },
+  {
+    "term": "BENIGN",
+    "definition": "not malignant, without serious consequences"
+  },
+  {
+    "term": "BID",
+    "definition": "twice a day"
+  },
+  {
+    "term": "BINDING/BOUND",
+    "definition": "carried by, to make stick together, transported"
+  },
+  {
+    "term": "BIOAVAILABILITY",
+    "definition": "the extent to which a drug or other substance becomes available to the body"
+  },
+  {
+    "term": "BLOOD PROFILE",
+    "definition": "series of blood tests"
+  },
+  {
+    "term": "BOLUS",
+    "definition": "a large amount given all at once"
+  },
+  {
+    "term": "BONE MASS",
+    "definition": "the amount of calcium and other minerals in a given amount of bone"
+  },
+  {
+    "term": "BRADYARRHYTHMIAS",
+    "definition": "slow, irregular heartbeats"
+  },
+  {
+    "term": "BRADYCARDIA",
+    "definition": "slow heartbeat"
+  },
+  {
+    "term": "BRONCHOSPASM",
+    "definition": "breathing distress caused by narrowing of the airways"
+  },
+  {
+    "term": "CARCINOGENIC",
+    "definition": "cancer-causing"
+  },
+  {
+    "term": "CARCINOMA",
+    "definition": "type of cancer"
+  },
+  {
+    "term": "CARDIAC",
+    "definition": "related to the heart"
+  },
+  {
+    "term": "CARDIOVERSION",
+    "definition": "return to normal heartbeat by electric shock"
+  },
+  {
+    "term": "CATHETER",
+    "definition": "a tube for withdrawing or giving fluids"
+  },
+  {
+    "term": "CATHETER",
+    "definition": "a tube placed near the spinal cord and used for anesthesia (indwelling epidural) during surgery"
+  },
+  {
+    "term": "CENTRAL NERVOUS SYSTEM (CNS)",
+    "definition": "brain and spinal cord"
+  },
+  {
+    "term": "CEREBRAL TRAUMA",
+    "definition": "damage to the brain"
+  },
+  {
+    "term": "CESSATION",
+    "definition": "stopping"
+  },
+  {
+    "term": "CHD",
+    "definition": "coronary heart disease"
+  },
+  {
+    "term": "CHEMOTHERAPY",
+    "definition": "treatment of disease, usually cancer, by chemical agents"
+  },
+  {
+    "term": "CHRONIC",
+    "definition": "continuing for a long time, ongoing"
+  },
+  {
+    "term": "CLINICAL",
+    "definition": "pertaining to medical care"
+  },
+  {
+    "term": "CLINICAL TRIAL",
+    "definition": "an experiment involving human subjects"
+  },
+  {
+    "term": "COMA",
+    "definition": "unconscious state"
+  },
+  {
+    "term": "COMPLETE RESPONSE",
+    "definition": "total disappearance of disease"
+  },
+  {
+    "term": "CONGENITAL",
+    "definition": "present before birth"
+  },
+  {
+    "term": "CONJUNCTIVITIS",
+    "definition": "redness and irritation of the thin membrane that covers the eye"
+  },
+  {
+    "term": "CONSOLIDATION PHASE",
+    "definition": "treatment phase intended to make a remission permanent (follows induction phase)"
+  },
+  {
+    "term": "CONTROLLED TRIAL",
+    "definition": "research study in which the experimental treatment or procedure is compared to a standard (control) treatment or procedure"
+  },
+  {
+    "term": "COOPERATIVE GROUP",
+    "definition": "association of multiple institutions to perform clinical trials"
+  },
+  {
+    "term": "CORONARY",
+    "definition": "related to the blood vessels that supply the heart, or to the heart itself"
+  },
+  {
+    "term": "CT SCAN (CAT)",
+    "definition": "computerized series of x-rays (computerized tomography)"
+  },
+  {
+    "term": "CULTURE",
+    "definition": "test for infection, or for organisms that could cause infection"
+  },
+  {
+    "term": "CUMULATIVE",
+    "definition": "added together from the beginning"
+  },
+  {
+    "term": "CUTANEOUS",
+    "definition": "relating to the skin"
+  },
+  {
+    "term": "CVA",
+    "definition": "stroke (cerebrovascular accident)"
+  },
+  {
+    "term": "DERMATOLOGIC",
+    "definition": "pertaining to the skin"
+  },
+  {
+    "term": "DIASTOLIC",
+    "definition": "lower number in a blood pressure reading"
+  },
+  {
+    "term": "DISTAL",
+    "definition": "toward the end, away from the center of the body"
+  },
+  {
+    "term": "DIURETIC",
+    "definition": "\"water pill\" or drug that causes increase in urination"
+  },
+  {
+    "term": "DOPPLER",
+    "definition": "device using sound waves to diagnose or test"
+  },
+  {
+    "term": "DOUBLE BLIND",
+    "definition": "study in which neither investigators nor subjects know what drug or treatment the subject is receiving"
+  },
+  {
+    "term": "DYSFUNCTION",
+    "definition": "state of improper function"
+  },
+  {
+    "term": "DYSPLASIA",
+    "definition": "abnormal cells"
+  },
+  {
+    "term": "ECHOCARDIOGRAM",
+    "definition": "sound wave test of the heart"
+  },
+  {
+    "term": "EDEMA",
+    "definition": "excess fluid collecting in tissue"
+  },
+  {
+    "term": "EEG",
+    "definition": "electric brain wave tracing (electroencephalogram)"
+  },
+  {
+    "term": "EFFICACY",
+    "definition": "effectiveness"
+  },
+  {
+    "term": "ELECTROCARDIOGRAM",
+    "definition": "electrical tracing of the heartbeat (ECG or EKG)"
+  },
+  {
+    "term": "ELECTROLYTE IMBALANCE",
+    "definition": "an imbalance of minerals in the blood"
+  },
+  {
+    "term": "EMESIS",
+    "definition": "vomiting"
+  },
+  {
+    "term": "EMPIRIC",
+    "definition": "based on experience"
+  },
+  {
+    "term": "ENDOSCOPIC EXAMINATION",
+    "definition": "viewing an internal part of the body with a lighted tube"
+  },
+  {
+    "term": "ENTERAL",
+    "definition": "by way of the intestines"
+  },
+  {
+    "term": "EPIDURAL",
+    "definition": "outside the spinal cord"
+  },
+  {
+    "term": "ERADICATE",
+    "definition": "get rid of (such as disease)"
+  },
+  {
+    "term": "EVALUATED, ASSESSED",
+    "definition": "examined for a medical condition"
+  },
+  {
+    "term": "EXPEDITED REVIEW",
+    "definition": "rapid review of a protocol by the IRB Chair without full committee approval, permitted with certain low-risk research studies"
+  },
+  {
+    "term": "EXTERNAL",
+    "definition": "outside the body"
+  },
+  {
+    "term": "EXTRAVASATE",
+    "definition": "to leak outside of a planned area, such as out of a blood vessel"
+  },
+  {
+    "term": "FDA",
+    "definition": "U.S. Food and Drug Administration, the branch of federal government that approves new drugs"
+  },
+  {
+    "term": "FIBROUS",
+    "definition": "having many fibers, such as scar tissue"
+  },
+  {
+    "term": "FIBRILLATION",
+    "definition": "irregular beat of the heart or other muscle"
+  },
+  {
+    "term": "GENERAL ANESTHESIA",
+    "definition": "pain prevention by giving drugs to cause loss of consciousness, as during surgery"
+  },
+  {
+    "term": "GESTATIONAL",
+    "definition": "pertaining to pregnancy"
+  },
+  {
+    "term": "HEMATOCRIT",
+    "definition": "amount of red blood cells in the blood"
+  },
+  {
+    "term": "HEMATOMA",
+    "definition": "a bruise, a black and blue mark"
+  },
+  {
+    "term": "HEMODYNAMIC",
+    "definition": "measuring blood flow"
+  },
+  {
+    "term": "HEMOLYSIS",
+    "definition": "breakdown in red blood cells"
+  },
+  {
+    "term": "HEPARIN LOCK",
+    "definition": "needle placed in the arm with blood thinner to keep the blood from clotting"
+  },
+  {
+    "term": "HEPATOMA",
+    "definition": "cancer or tumor of the liver"
+  },
+  {
+    "term": "HERITABLE DISEASE",
+    "definition": "can be transmitted to one's offspring, resulting in damage to future children"
+  },
+  {
+    "term": "HISTOPATHOLOGIC",
+    "definition": "pertaining to the disease status of body tissues or cells"
+  },
+  {
+    "term": "HOLTER MONITOR",
+    "definition": "a portable machine for recording heart beats"
+  },
+  {
+    "term": "HYPERCALCEMIA",
+    "definition": "high blood calcium level"
+  },
+  {
+    "term": "HYPERKALEMIA",
+    "definition": "high blood potassium level"
+  },
+  {
+    "term": "HYPERNATREMIA",
+    "definition": "high blood sodium level"
+  },
+  {
+    "term": "HYPERTENSION",
+    "definition": "high blood pressure"
+  },
+  {
+    "term": "HYPOCALCEMIA",
+    "definition": "low blood calcium level"
+  },
+  {
+    "term": "HYPOKALEMIA",
+    "definition": "low blood potassium level"
+  },
+  {
+    "term": "HYPONATREMIA",
+    "definition": "low blood sodium level"
+  },
+  {
+    "term": "HYPOTENSION",
+    "definition": "low blood pressure"
+  },
+  {
+    "term": "HYPOXEMIA",
+    "definition": "a decrease of oxygen in the blood"
+  },
+  {
+    "term": "HYPOXIA",
+    "definition": "a decrease of oxygen reaching body tissues"
+  },
+  {
+    "term": "HYSTERECTOMY",
+    "definition": "surgical removal of the uterus, ovaries (female sex glands), or both uterus and ovaries"
+  },
+  {
+    "term": "IATROGENIC",
+    "definition": "caused by a physician or by treatment"
+  },
+  {
+    "term": "IDE",
+    "definition": "investigational device exemption, the license to test an unapproved new medical device"
+  },
+  {
+    "term": "IDIOPATHIC",
+    "definition": "of unknown cause"
+  },
+  {
+    "term": "IMMUNITY",
+    "definition": "defense against, protection from"
+  },
+  {
+    "term": "IMMUNOGLOBIN",
+    "definition": "a protein that makes antibodies"
+  },
+  {
+    "term": "IMMUNOSUPPRESSIVE",
+    "definition": "drug which works against the body's immune (protective) response, often used in transplantation and diseases caused by immune system malfunction"
+  },
+  {
+    "term": "IMMUNOTHERAPY",
+    "definition": "giving of drugs to help the body's immune (protective) system; usually used to destroy cancer cells"
+  },
+  {
+    "term": "IMPAIRED FUNCTION",
+    "definition": "abnormal function"
+  },
+  {
+    "term": "IMPLANTED",
+    "definition": "placed in the body"
+  },
+  {
+    "term": "IND",
+    "definition": "investigational new drug, the license to test an unapproved new drug"
+  },
+  {
+    "term": "INDUCTION PHASE",
+    "definition": "beginning phase or stage of a treatment"
+  },
+  {
+    "term": "INDURATION",
+    "definition": "hardening"
+  },
+  {
+    "term": "INDWELLING",
+    "definition": "remaining in a given location, such as a catheter"
+  },
+  {
+    "term": "INFARCT",
+    "definition": "death of tissue due to lack of blood supply"
+  },
+  {
+    "term": "INFECTIOUS DISEASE",
+    "definition": "transmitted from one person to the next"
+  },
+  {
+    "term": "INFLAMMATION",
+    "definition": "swelling that is generally painful, red, and warm"
+  },
+  {
+    "term": "INFUSION",
+    "definition": "slow injection of a substance into the body, usually into the blood by means of a catheter"
+  },
+  {
+    "term": "INGESTION",
+    "definition": "eating; taking by mouth"
+  },
+  {
+    "term": "INTERFERON",
+    "definition": "drug which acts against viruses; antiviral agent"
+  },
+  {
+    "term": "INTERMITTENT",
+    "definition": "occurring (regularly or irregularly) between two time points; repeatedly stopping, then starting again"
+  },
+  {
+    "term": "INTERNAL",
+    "definition": "within the body"
+  },
+  {
+    "term": "INTERIOR",
+    "definition": "inside of the body"
+  },
+  {
+    "term": "INTRAMUSCULAR",
+    "definition": "into the muscle; within the muscle"
+  },
+  {
+    "term": "INTRAPERITONEAL",
+    "definition": "into the abdominal cavity"
+  },
+  {
+    "term": "INTRATHECAL",
+    "definition": "into the spinal fluid"
+  },
+  {
+    "term": "INTRAVENOUS (IV)",
+    "definition": "through the vein"
+  },
+  {
+    "term": "INTRAVESICAL",
+    "definition": "in the bladder"
+  },
+  {
+    "term": "INTUBATE",
+    "definition": "the placement of a tube into the airway"
+  },
+  {
+    "term": "INVASIVE PROCEDURE",
+    "definition": "puncturing, opening, or cutting the skin"
+  },
+  {
+    "term": "INVESTIGATIONAL NEW DRUG (IND)",
+    "definition": "a new drug that has not been approved by the FDA"
+  },
+  {
+    "term": "INVESTIGATIONAL METHOD",
+    "definition": "a treatment method which has not been proven to be beneficial or has not been accepted as standard care"
+  },
+  {
+    "term": "ISCHEMIA",
+    "definition": "decreased oxygen in a tissue (usually because of decreased blood flow)"
+  },
+  {
+    "term": "LAPAROTOMY",
+    "definition": "surgical procedure in which an incision is made in the abdominal wall to enable a doctor to look at the organs inside"
+  },
+  {
+    "term": "LESION",
+    "definition": "wound or injury; a diseased patch of skin"
+  },
+  {
+    "term": "LETHARGY",
+    "definition": "sleepiness, tiredness"
+  },
+  {
+    "term": "LEUKOPENIA",
+    "definition": "low white blood cell count"
+  },
+  {
+    "term": "LIPID",
+    "definition": "fat"
+  },
+  {
+    "term": "LIPID CONTENT",
+    "definition": "fat content in the blood"
+  },
+  {
+    "term": "LIPID PROFILE (PANEL)",
+    "definition": "fat and cholesterol levels in the blood"
+  },
+  {
+    "term": "LOCAL ANESTHESIA",
+    "definition": "creation of insensitivity to pain in a small, local area of the body, usually by injection of numbing drugs"
+  },
+  {
+    "term": "LOCALIZED",
+    "definition": "restricted to one area, limited to one area"
+  },
+  {
+    "term": "LUMEN",
+    "definition": "the cavity of an organ or tube (e.g., blood vessel)"
+  },
+  {
+    "term": "LYMPHANGIOGRAPHY",
+    "definition": "an x-ray of the lymph nodes or tissues after injecting dye into lymph vessels (e.g., in feet)"
+  },
+  {
+    "term": "LYMPHOCYTE",
+    "definition": "a type of white blood cell important in immunity (protection) against infection"
+  },
+  {
+    "term": "LYMPHOMA",
+    "definition": "a cancer of the lymph nodes (or tissues)"
+  },
+  {
+    "term": "MALAISE",
+    "definition": "a vague feeling of bodily discomfort, feeling badly"
+  },
+  {
+    "term": "MALFUNCTION",
+    "definition": "condition in which something is not functioning properly"
+  },
+  {
+    "term": "MALIGNANCY",
+    "definition": "cancer or other progressively enlarging and spreading tumor, usually fatal if not successfully treated"
+  },
+  {
+    "term": "MEDULLABLASTOMA",
+    "definition": "a type of brain tumor"
+  },
+  {
+    "term": "MEGALOBLASTOSIS",
+    "definition": "change in red blood cells"
+  },
+  {
+    "term": "METABOLIZE",
+    "definition": "process of breaking down substances in the cells to obtain energy"
+  },
+  {
+    "term": "METASTASIS",
+    "definition": "spread of cancer cells from one part of the body to another"
+  },
+  {
+    "term": "METRONIDAZOLE",
+    "definition": "drug used to treat infections caused by parasites (invading organisms that take up living in the body) or other causes of anaerobic infection (not requiring oxygen to survive)"
+  },
+  {
+    "term": "MI",
+    "definition": "myocardial infarction, heart attack"
+  },
+  {
+    "term": "MINIMAL",
+    "definition": "slight"
+  },
+  {
+    "term": "MINIMIZE",
+    "definition": "reduce as much as possible"
+  },
+  {
+    "term": "MONITOR",
+    "definition": "check on; keep track of; watch carefully"
+  },
+  {
+    "term": "MOBILITY",
+    "definition": "ease of movement"
+  },
+  {
+    "term": "MORBIDITY",
+    "definition": "undesired result or complication"
+  },
+  {
+    "term": "MORTALITY",
+    "definition": "death"
+  },
+  {
+    "term": "MOTILITY",
+    "definition": "the ability to move"
+  },
+  {
+    "term": "MRI",
+    "definition": "magnetic resonance imaging, diagnostic pictures of the inside of the body, created using magnetic rather than x-ray energy"
+  },
+  {
+    "term": "MUCOSA, MUCOUS MEMBRANE",
+    "definition": "moist lining of digestive, respiratory, reproductive, and urinary tracts"
+  },
+  {
+    "term": "MYALGIA",
+    "definition": "muscle aches"
+  },
+  {
+    "term": "MYOCARDIAL",
+    "definition": "pertaining to the heart muscle"
+  },
+  {
+    "term": "MYOCARDIAL INFARCTION",
+    "definition": "heart attack"
+  },
+  {
+    "term": "NASOGASTRIC TUBE",
+    "definition": "placed in the nose, reaching to the stomach"
+  },
+  {
+    "term": "NCI",
+    "definition": "the National Cancer Institute"
+  },
+  {
+    "term": "NECROSIS",
+    "definition": "death of tissue"
+  },
+  {
+    "term": "NEOPLASIA/NEOPLASM",
+    "definition": "tumor, may be benign or malignant"
+  },
+  {
+    "term": "NEUROBLASTOMA",
+    "definition": "a cancer of nerve tissue"
+  },
+  {
+    "term": "NEUROLOGICAL",
+    "definition": "pertaining to the nervous system"
+  },
+  {
+    "term": "NEUTROPENIA",
+    "definition": "decrease in the main part of the white blood cells"
+  },
+  {
+    "term": "NIH",
+    "definition": "the National Institutes of Health"
+  },
+  {
+    "term": "NONINVASIVE",
+    "definition": "not breaking, cutting, or entering the skin"
+  },
+  {
+    "term": "NOSOCOMIAL",
+    "definition": "acquired in the hospital"
+  },
+  {
+    "term": "OCCLUSION",
+    "definition": "closing; blockage; obstruction"
+  },
+  {
+    "term": "ONCOLOGY",
+    "definition": "the study of tumors or cancer"
+  },
+  {
+    "term": "OPHTHALMIC",
+    "definition": "pertaining to the eye"
+  },
+  {
+    "term": "OPTIMAL",
+    "definition": "best, most favorable or desirable"
+  },
+  {
+    "term": "ORAL ADMINISTRATION",
+    "definition": "by mouth"
+  },
+  {
+    "term": "ORTHOPEDIC",
+    "definition": "pertaining to the bones"
+  },
+  {
+    "term": "OSTEOPETROSIS",
+    "definition": "rare bone disorder characterized by dense bone"
+  },
+  {
+    "term": "OSTEOPOROSIS",
+    "definition": "softening of the bones"
+  },
+  {
+    "term": "OVARIES",
+    "definition": "female sex glands"
+  },
+  {
+    "term": "PARENTERAL",
+    "definition": "given by injection"
+  },
+  {
+    "term": "PATENCY",
+    "definition": "condition of being open"
+  },
+  {
+    "term": "PATHOGENESIS",
+    "definition": "development of a disease or unhealthy condition"
+  },
+  {
+    "term": "PERCUTANEOUS",
+    "definition": "through the skin"
+  },
+  {
+    "term": "PERIPHERAL",
+    "definition": "not central"
+  },
+  {
+    "term": "PER OS (PO)",
+    "definition": "by mouth"
+  },
+  {
+    "term": "PHARMACOKINETICS",
+    "definition": "the study of the way the body absorbs, distributes, and gets rid of a drug"
+  },
+  {
+    "term": "PHASE I",
+    "definition": "first phase of study of a new drug in humans to determine action, safety, and proper dosing"
+  },
+  {
+    "term": "PHASE II",
+    "definition": "second phase of study of a new drug in humans, intended to gather information about safety and effectiveness of the drug for certain uses"
+  },
+  {
+    "term": "PHASE III",
+    "definition": "large-scale studies to confirm and expand information on safety and effectiveness of new drug for certain uses, and to study common side effects"
+  },
+  {
+    "term": "PHASE IV",
+    "definition": "studies done after the drug is approved by the FDA, especially to compare it to standard care or to try it for new uses"
+  },
+  {
+    "term": "PHLEBITIS",
+    "definition": "irritation or inflammation of the vein"
+  },
+  {
+    "term": "PLACEBO",
+    "definition": "an inactive substance; a pill/liquid that contains no medicine"
+  },
+  {
+    "term": "PLACEBO EFFECT",
+    "definition": "improvement seen with giving subjects a placebo, though it contains no active drug/treatment"
+  },
+  {
+    "term": "PLATELETS",
+    "definition": "small particles in the blood that help with clotting"
+  },
+  {
+    "term": "POTENTIAL",
+    "definition": "possible"
+  },
+  {
+    "term": "POTENTIATE",
+    "definition": "increase or multiply the effect of a drug or toxin (poison) by giving another drug or toxin at the same time (sometimes an unintentional result)"
+  },
+  {
+    "term": "POTENTIATOR",
+    "definition": "an agent that helps another agent work better"
+  },
+  {
+    "term": "PRENATAL",
+    "definition": "before birth"
+  },
+  {
+    "term": "PROPHYLAXIS",
+    "definition": "a drug given to prevent disease or infection"
+  },
+  {
+    "term": "PRN",
+    "definition": "as needed"
+  },
+  {
+    "term": "PROGNOSIS",
+    "definition": "outlook, probable outcomes"
+  },
+  {
+    "term": "PRONE",
+    "definition": "lying on the stomach"
+  },
+  {
+    "term": "PROSPECTIVE STUDY",
+    "definition": "following patients forward in time"
+  },
+  {
+    "term": "PROSTHESIS",
+    "definition": "artificial part, most often limbs, such as arms or legs"
+  },
+  {
+    "term": "PROTOCOL",
+    "definition": "plan of study"
+  },
+  {
+    "term": "PROXIMAL",
+    "definition": "closer to the center of the body, away from the end"
+  },
+  {
+    "term": "PULMONARY",
+    "definition": "pertaining to the lungs"
+  },
+  {
+    "term": "QD",
+    "definition": "every day; daily"
+  },
+  {
+    "term": "QID",
+    "definition": "four times a day"
+  },
+  {
+    "term": "RADIATION THERAPY",
+    "definition": "x-ray or cobalt treatment"
+  },
+  {
+    "term": "RANDOM",
+    "definition": "by chance (like the flip of a coin)"
+  },
+  {
+    "term": "RANDOMIZATION",
+    "definition": "chance selection"
+  },
+  {
+    "term": "RBC",
+    "definition": "red blood cell"
+  },
+  {
+    "term": "RECOMBINANT",
+    "definition": "formation of new combinations of genes"
+  },
+  {
+    "term": "RECONSTITUTION",
+    "definition": "putting back together the original parts or elements"
+  },
+  {
+    "term": "RECUR",
+    "definition": "happen again"
+  },
+  {
+    "term": "REFRACTORY",
+    "definition": "not responding to treatment"
+  },
+  {
+    "term": "REGENERATION",
+    "definition": "re-growth of a structure or of lost tissue"
+  },
+  {
+    "term": "REGIMEN",
+    "definition": "pattern of giving treatment"
+  },
+  {
+    "term": "RELAPSE",
+    "definition": "the return of a disease"
+  },
+  {
+    "term": "REMISSION",
+    "definition": "disappearance of evidence of cancer or other disease"
+  },
+  {
+    "term": "RENAL",
+    "definition": "pertaining to the kidneys"
+  },
+  {
+    "term": "REPLICABLE",
+    "definition": "possible to duplicate"
+  },
+  {
+    "term": "RESECT",
+    "definition": "remove or cut out surgically"
+  },
+  {
+    "term": "RETROSPECTIVE STUDY",
+    "definition": "looking back over past experience"
+  },
+  {
+    "term": "SARCOMA",
+    "definition": "a type of cancer"
+  },
+  {
+    "term": "SEDATIVE",
+    "definition": "a drug to calm or make less anxious"
+  },
+  {
+    "term": "SEMINOMA",
+    "definition": "a type of testicular cancer (found in the male sex glands)"
+  },
+  {
+    "term": "SEQUENTIALLY",
+    "definition": "in a row, in order"
+  },
+  {
+    "term": "SOMNOLENCE",
+    "definition": "sleepiness"
+  },
+  {
+    "term": "SPIROMETER",
+    "definition": "an instrument to measure the amount of air taken into and exhaled from the lungs"
+  },
+  {
+    "term": "STAGING",
+    "definition": "an evaluation of the extent of the disease"
+  },
+  {
+    "term": "STANDARD OF CARE",
+    "definition": "a treatment plan that the majority of the medical community would accept as appropriate"
+  },
+  {
+    "term": "STENOSIS",
+    "definition": "narrowing of a duct, tube, or one of the blood vessels in the heart"
+  },
+  {
+    "term": "STOMATITIS",
+    "definition": "mouth sores, inflammation of the mouth"
+  },
+  {
+    "term": "STRATIFY",
+    "definition": "arrange in groups for analysis of results (e.g., stratify by age, sex, etc.)"
+  },
+  {
+    "term": "STUPOR",
+    "definition": "stunned state in which it is difficult to get a response or the attention of the subject"
+  },
+  {
+    "term": "SUBCLAVIAN",
+    "definition": "under the collarbone"
+  },
+  {
+    "term": "SUBCUTANEOUS",
+    "definition": "under the skin"
+  },
+  {
+    "term": "SUPINE",
+    "definition": "lying on the back"
+  },
+  {
+    "term": "SUPPORTIVE CARE",
+    "definition": "general medical care aimed at symptoms, not intended to improve or cure underlying disease"
+  },
+  {
+    "term": "SYMPTOMATIC",
+    "definition": "having symptoms"
+  },
+  {
+    "term": "SYNDROME",
+    "definition": "a condition characterized by a set of symptoms"
+  },
+  {
+    "term": "SYSTOLIC",
+    "definition": "top number in blood pressure; pressure during active contraction of the heart"
+  },
+  {
+    "term": "TERATOGENIC",
+    "definition": "capable of causing malformations in a fetus (developing baby still inside the mother's body)"
+  },
+  {
+    "term": "TESTES/TESTICLES",
+    "definition": "male sex glands"
+  },
+  {
+    "term": "THROMBOSIS",
+    "definition": "clotting"
+  },
+  {
+    "term": "THROMBUS",
+    "definition": "blood clot"
+  },
+  {
+    "term": "TID",
+    "definition": "three times a day"
+  },
+  {
+    "term": "TITRATION",
+    "definition": "a method for deciding on the strength of a drug or solution; gradually increasing the dose"
+  },
+  {
+    "term": "T-LYMPHOCYTES",
+    "definition": "type of white blood cells"
+  },
+  {
+    "term": "TOPICAL",
+    "definition": "on the surface"
+  },
+  {
+    "term": "TOPICAL ANESTHETIC",
+    "definition": "applied to a certain area of the skin and reducing pain only in the area to which applied"
+  },
+  {
+    "term": "TOXICITY",
+    "definition": "side effects or undesirable effects of a drug or treatment"
+  },
+  {
+    "term": "TRANSDERMAL",
+    "definition": "through the skin"
+  },
+  {
+    "term": "TRANSIENTLY",
+    "definition": "temporarily"
+  },
+  {
+    "term": "TRAUMA",
+    "definition": "injury; wound"
+  },
+  {
+    "term": "TREADMILL",
+    "definition": "walking machine used to test heart function"
+  },
+  {
+    "term": "UPTAKE",
+    "definition": "absorbing and taking in of a substance by living tissue"
+  },
+  {
+    "term": "VALVULOPLASTY",
+    "definition": "plastic repair of a valve, especially a heart valve"
+  },
+  {
+    "term": "VARICES",
+    "definition": "enlarged veins"
+  },
+  {
+    "term": "VASOSPASM",
+    "definition": "narrowing of the blood vessels"
+  },
+  {
+    "term": "VECTOR",
+    "definition": "a carrier that can transmit disease-causing microorganisms (germs and viruses)"
+  },
+  {
+    "term": "VENIPUNCTURE",
+    "definition": "needle stick, blood draw, entering the skin with a needle"
+  },
+  {
+    "term": "VERTICAL TRANSMISSION",
+    "definition": "spread of disease"
+  },
+  {
+    "term": "WBC",
+    "definition": "white blood cell"
+  }
+]

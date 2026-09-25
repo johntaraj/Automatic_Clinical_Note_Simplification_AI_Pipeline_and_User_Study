@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Patient-Friendly Medical Text — Your Feedback</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:ital,opsz@0,6..72;1,6..72&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <script src="jatos.js"></script>
+</head>
+<body>
+  <div class="aurora"></div>
+
+  <header class="topbar">
+    <div class="brand">
+      <img class="logo-img" src="images/logo_Survey.png" alt="study logo" />
+      <div class="brand-text">
+        <h1>Patient-Friendly Medical Text</h1>
+        <span>Quality &amp; Usability Lab, TU Berlin · with Charité Universitätsmedizin Berlin</span>
+      </div>
+    </div>
+    <div class="steps-pill" id="stepsPill">—</div>
+  </header>
+  <div class="progress-top"><div class="fill" id="progFill"></div></div>
+
+  <main id="app"></main>
+
+  <div class="popover" id="popover" role="tooltip"></div>
+
+  <nav class="nav">
+    <div class="nav-inner">
+      <button class="btn btn-ghost" id="backBtn" style="visibility:hidden">Back</button>
+      <div style="flex:1"></div>
+      <button class="btn btn-primary" id="nextBtn">Continue
+        <svg viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+    </div>
+    <div class="save-note" id="saveNote"></div>
+  </nav>
+
+  <script src="locales.js"></script>
+  <script src="study.js"></script>
+</body>
+</html>

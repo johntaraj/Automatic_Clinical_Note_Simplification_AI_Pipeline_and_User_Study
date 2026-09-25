@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+Study_I/keys/
+Study_I/roberta-large/
+Study_I/roberta-large-mnli/
+Study_I/runs/_cache/
+Study_I/runs/_smoke/
+Study_I/figures/
+Study_II/figures/
+Study_I/data/dorland_medical_abbreviations.csv
+Study_I/data/justplainclear_en_clean.json
+Study_I/data/michigan_plmd.json

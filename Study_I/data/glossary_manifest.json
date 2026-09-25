@@ -1,0 +1,81 @@
+{
+  "generated_at_utc": "2026-08-09T19:51:28.787014+00:00",
+  "tool": "tools/clean_glossaries.py",
+  "note": "nih.json is cleaned separately by tools/repair_nih.py and is tracked in data/nih_manifest.json",
+  "files": {
+    "readme_exp_good.jsonl": {
+      "rows_before": 113435,
+      "rows_after": 11559,
+      "dropped_exact_duplicate": 101876,
+      "dropped_empty": 0,
+      "unique_terms_after": 7857,
+      "output_sha256": "848ec7e708c1ecc844c984df7d4dc6a664ad4ea2102034451f75597487fd8726",
+      "archived_original": "archive/readme_exp_good.jsonl"
+    },
+    "dictonary.csv": {
+      "rows_before": 176048,
+      "rows_after": 175658,
+      "resolved_inflection_pointers": 19707,
+      "dropped_unresolvable_pointer": 2,
+      "dropped_duplicate": 372,
+      "dropped_empty": 2,
+      "dropped_self_definition": 14,
+      "rows_with_repaired_encoding": 92,
+      "unique_words_after": 111723,
+      "output_sha256": "e462c9c254aa1ed62fd5360b284932720836869a6f7dd39fdbe6139cc9cb1132",
+      "archived_original": "archive/dictonary.csv"
+    },
+    "dorland_medical_abbreviations.csv": {
+      "rows_before": 47211,
+      "rows_after": 47107,
+      "dropped_empty": 11,
+      "dropped_sentence_fragment": 60,
+      "dropped_self_definition": 32,
+      "dropped_duplicate": 1,
+      "unique_terms_after": 31435,
+      "note": "candidate_id and num_candidates_for_term are recomputed",
+      "output_sha256": "8e6b1d827b7d8b6e2f40e43b0863246bea3493c9e350a11980508728ab71b2c5",
+      "archived_original": "archive/dorland_medical_abbreviations.csv"
+    },
+    "thesarus.json": {
+      "rows_before": 894,
+      "rows_after": 892,
+      "dropped_duplicate": 0,
+      "dropped_empty": 0,
+      "dropped_self_definition": 2,
+      "unique_terms_after": 883,
+      "output_sha256": "6a62fdc50b757affca776065d75d20ec9c0d5a04a3e078108df5bcaa7d31cff9",
+      "archived_original": "archive/thesarus.json"
+    },
+    "Iowa.json": {
+      "rows_before": 290,
+      "rows_after": 290,
+      "dropped_duplicate": 0,
+      "dropped_empty": 0,
+      "dropped_self_definition": 0,
+      "unique_terms_after": 289,
+      "output_sha256": "5acb2e5e8c4c0f111260d7a15a7abb5f25746969fe5cf164d6d26fb4a50f0c8e",
+      "archived_original": "archive/Iowa.json"
+    },
+    "michigan_plmd.json": {
+      "rows_before": 1962,
+      "rows_after": 1962,
+      "dropped_duplicate": 0,
+      "dropped_empty": 0,
+      "dropped_self_definition": 0,
+      "unique_terms_after": 1962,
+      "output_sha256": "64cef2227138d4cb8f09bb392f97987db165d3b89805051268deac073d1a89a3",
+      "archived_original": "archive/michigan_plmd.json"
+    },
+    "justplainclear_en_clean.json": {
+      "rows_before": 2705,
+      "rows_after": 2705,
+      "dropped_duplicate": 0,
+      "dropped_empty": 0,
+      "dropped_self_definition": 0,
+      "unique_terms_after": 2705,
+      "output_sha256": "6de1bcd39fea9e53898a67b3ec7dab830c613f086f81474b047193f95d018f87",
+      "archived_original": "archive/justplainclear_en_clean.json"
+    }
+  }
+}

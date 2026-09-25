@@ -1,0 +1,29 @@
+==========================================================================
+  COST REPORT - together-nemotron-ultra (together)  run `run100_20260815_222318`
+==========================================================================
+
+  notes                      100
+  attributed edits           168
+  ContextCite scoring calls  4,313   (25.7 per edit)
+  system prompt              ~404 tokens  (style: lean)
+  masks per NOTE             32 fit + 2 boundary + 32 held-out + top-k
+  glossary cap               16 entries
+
+  input tokens (estimate)    2,460,776
+    cacheable prefix         1,996,324  (81%)
+    varying glossary         464,452
+
+  LLM response cache (across runs):
+    hits 0   misses 0   hit rate None
+    dir  C:\Users\xhorx\Downloads\kaggle_C_pipeline_v2\BLUE\v8\runs\_cache
+
+  list price                 $0.600/M uncached, $0.200/M cached
+  cost, no prompt caching    $1.4765
+  cost, with prompt caching  $0.6779
+
+  projection to 100 notes    $1.48 / $0.68 (cached)
+
+  NOTE: token counts are ~4 chars/token estimates over the prompts we
+  built; they exclude output tokens (small: <=512 per generation) and
+  the Novita extraction/annotation calls, which are cached across runs
+  and shared by every model.

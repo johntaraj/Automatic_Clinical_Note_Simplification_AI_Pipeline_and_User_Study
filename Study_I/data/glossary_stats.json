@@ -1,0 +1,269 @@
+{
+  "generated_at_utc": "2026-08-09T21:32:09.596733+00:00",
+  "tool": "tools/glossary_stats.py",
+  "fkgl_note": "computed only over definitions of >= 5 words; pct_scoreable_for_fkgl gives the share that qualified",
+  "zipf_note": "zipf_mean = average commonness of a definition's content words (higher = easier); zipf_min = its rarest content word",
+  "sources": {
+    "readme": {
+      "entries": 11559,
+      "unique_terms": 7857,
+      "unique_definitions": 11363,
+      "definitions_per_term": 1.47,
+      "definition_words": {
+        "mean": 11.0,
+        "median": 11
+      },
+      "pct_scoreable_for_fkgl": 94.9,
+      "fkgl": {
+        "mean": 6.74,
+        "median": 6.73
+      },
+      "zipf_mean": {
+        "mean": 5.22,
+        "median": 5.25
+      },
+      "zipf_min": {
+        "mean": 3.48,
+        "median": 3.57
+      },
+      "term_zipf_min": {
+        "mean": 2.77,
+        "median": 2.72
+      },
+      "file": "readme_exp_good.jsonl",
+      "description": "Patient-education definitions, lay-written"
+    },
+    "nih": {
+      "entries": 8235,
+      "unique_terms": 8234,
+      "unique_definitions": 8171,
+      "definitions_per_term": 1.0,
+      "definition_words": {
+        "mean": 50.0,
+        "median": 45
+      },
+      "pct_scoreable_for_fkgl": 99.2,
+      "fkgl": {
+        "mean": 9.1,
+        "median": 8.86
+      },
+      "zipf_mean": {
+        "mean": 5.14,
+        "median": 5.15
+      },
+      "zipf_min": {
+        "mean": 2.37,
+        "median": 2.26
+      },
+      "term_zipf_min": {
+        "mean": 2.77,
+        "median": 2.7
+      },
+      "file": "nih.json",
+      "description": "NCI Dictionary of Cancer Terms (patient audience)"
+    },
+    "michigan": {
+      "entries": 1962,
+      "unique_terms": 1962,
+      "unique_definitions": 1935,
+      "definitions_per_term": 1.0,
+      "definition_words": {
+        "mean": 11.6,
+        "median": 9.0
+      },
+      "pct_scoreable_for_fkgl": 80.1,
+      "fkgl": {
+        "mean": 5.01,
+        "median": 4.83
+      },
+      "zipf_mean": {
+        "mean": 5.4,
+        "median": 5.45
+      },
+      "zipf_min": {
+        "mean": 4.0,
+        "median": 4.08
+      },
+      "term_zipf_min": {
+        "mean": 3.32,
+        "median": 3.34
+      },
+      "file": "michigan_plmd.json",
+      "description": "Michigan plain-language medical dictionary"
+    },
+    "justplainclear": {
+      "entries": 2705,
+      "unique_terms": 2705,
+      "unique_definitions": 2696,
+      "definitions_per_term": 1.0,
+      "definition_words": {
+        "mean": 18.1,
+        "median": 15
+      },
+      "pct_scoreable_for_fkgl": 89.6,
+      "fkgl": {
+        "mean": 8.5,
+        "median": 8.18
+      },
+      "zipf_mean": {
+        "mean": 5.29,
+        "median": 5.34
+      },
+      "zipf_min": {
+        "mean": 3.52,
+        "median": 3.58
+      },
+      "term_zipf_min": {
+        "mean": 3.25,
+        "median": 3.28
+      },
+      "file": "justplainclear_en_clean.json",
+      "description": "JustPlainClear patient glossary"
+    },
+    "iowa": {
+      "entries": 290,
+      "unique_terms": 289,
+      "unique_definitions": 286,
+      "definitions_per_term": 1.0,
+      "definition_words": {
+        "mean": 7.1,
+        "median": 6.0
+      },
+      "pct_scoreable_for_fkgl": 61.4,
+      "fkgl": {
+        "mean": 7.48,
+        "median": 7.28
+      },
+      "zipf_mean": {
+        "mean": 5.04,
+        "median": 5.07
+      },
+      "zipf_min": {
+        "mean": 3.91,
+        "median": 3.87
+      },
+      "term_zipf_min": {
+        "mean": 2.94,
+        "median": 2.89
+      },
+      "file": "Iowa.json",
+      "description": "Iowa health-literacy glossary"
+    },
+    "thesaurus": {
+      "entries": 892,
+      "unique_terms": 883,
+      "unique_definitions": 876,
+      "definitions_per_term": 1.01,
+      "definition_words": {
+        "mean": 5.6,
+        "median": 4.0
+      },
+      "pct_scoreable_for_fkgl": 48.8,
+      "fkgl": {
+        "mean": 5.38,
+        "median": 5.23
+      },
+      "zipf_mean": {
+        "mean": 5.09,
+        "median": 5.17
+      },
+      "zipf_min": {
+        "mean": 4.22,
+        "median": 4.25
+      },
+      "term_zipf_min": {
+        "mean": 3.5,
+        "median": 3.56
+      },
+      "file": "thesarus.json",
+      "description": "Plain-language synonyms (comma-separated lists)"
+    },
+    "wiktionary": {
+      "entries": 62814,
+      "unique_terms": 50812,
+      "unique_definitions": 33450,
+      "definitions_per_term": 1.24,
+      "definition_words": {
+        "mean": 12.5,
+        "median": 11.0
+      },
+      "pct_scoreable_for_fkgl": 98.2,
+      "fkgl": {
+        "mean": 6.53,
+        "median": 6.28
+      },
+      "zipf_mean": {
+        "mean": 5.25,
+        "median": 5.3
+      },
+      "zipf_min": {
+        "mean": 3.32,
+        "median": 3.35
+      },
+      "term_zipf_min": {
+        "mean": 3.2,
+        "median": 3.19
+      },
+      "file": "wiktionary.json",
+      "description": "Simple English Wiktionary, learner-written"
+    },
+    "dorland": {
+      "entries": 47107,
+      "unique_terms": 29222,
+      "unique_definitions": 44009,
+      "definitions_per_term": 1.61,
+      "definition_words": {
+        "mean": 3.3,
+        "median": 3
+      },
+      "pct_scoreable_for_fkgl": 17.5,
+      "fkgl": {
+        "mean": 14.96,
+        "median": 14.68
+      },
+      "zipf_mean": {
+        "mean": 3.91,
+        "median": 4.03
+      },
+      "zipf_min": {
+        "mean": 3.09,
+        "median": 3.09
+      },
+      "term_zipf_min": {
+        "mean": 2.83,
+        "median": 2.64
+      },
+      "file": "dorland_medical_abbreviations.csv",
+      "description": "Abbreviation expansions (names, not sentences)"
+    },
+    "dictionary": {
+      "entries": 175658,
+      "unique_terms": 111723,
+      "unique_definitions": 153598,
+      "definitions_per_term": 1.57,
+      "definition_words": {
+        "mean": 13.7,
+        "median": 10.0
+      },
+      "pct_scoreable_for_fkgl": 78.0,
+      "fkgl": {
+        "mean": 8.59,
+        "median": 8.37
+      },
+      "zipf_mean": {
+        "mean": 4.67,
+        "median": 4.8
+      },
+      "zipf_min": {
+        "mean": 2.93,
+        "median": 2.91
+      },
+      "term_zipf_min": {
+        "mean": 3.13,
+        "median": 3.1
+      },
+      "file": "dictonary.csv",
+      "description": "General English dictionary (Webster's 1913)"
+    }
+  }
+}

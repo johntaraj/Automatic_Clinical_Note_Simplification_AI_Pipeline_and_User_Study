@@ -1,0 +1,29 @@
+==========================================================================
+  COST REPORT - qwen3p7-plus (fireworks)  run `run100_20260815_222318`
+==========================================================================
+
+  notes                      100
+  attributed edits           178
+  ContextCite scoring calls  4,619   (25.9 per edit)
+  system prompt              ~404 tokens  (style: lean)
+  masks per NOTE             32 fit + 2 boundary + 32 held-out + top-k
+  glossary cap               16 entries
+
+  input tokens (estimate)    2,650,417
+    cacheable prefix         2,142,257  (81%)
+    varying glossary         508,160
+
+  LLM response cache (across runs):
+    hits 0   misses 0   hit rate None
+    dir  C:\Users\xhorx\Downloads\kaggle_C_pipeline_v2\BLUE\v8\runs\_cache
+
+  list price                 $0.400/M uncached, $0.080/M cached
+  cost, no prompt caching    $1.0602
+  cost, with prompt caching  $0.3746
+
+  projection to 100 notes    $1.06 / $0.37 (cached)
+
+  NOTE: token counts are ~4 chars/token estimates over the prompts we
+  built; they exclude output tokens (small: <=512 per generation) and
+  the Novita extraction/annotation calls, which are cached across runs
+  and shared by every model.

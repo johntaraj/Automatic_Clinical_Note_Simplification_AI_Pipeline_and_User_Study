@@ -1,0 +1,1443 @@
+
+==============================================================================
+  STAGE 2 — hard-term extraction + classification (Novita)
+==============================================================================
+  AoA table            : 31104 entries
+  extraction model     : deepseek/deepseek-v4-flash-0731
+
+  -- note 1  (8) ------------------------------------------------------------
+    He became anhedonic and disinterested in social activities, and had difficulty sleeping for frequent waking and restlessness.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    disinterested                   word         general_hard_word       replace                   2.91  12.4
+    anhedonic                       word         medical_descriptor      replace                   1.11     -
+
+  -- note 2  (18) -----------------------------------------------------------
+    Myocardial infarction can not be excluded.
+    stability (2nd extraction): Jaccard 0.3333
+    term                            kind         category                action                    zipf   aoa
+    Myocardial infarction           phrase       medical_essential       elaborate                 2.58  16.6
+    can not be excluded             phrase       general_hard_word       replace                   3.89   5.1
+
+  -- note 3  (21) -----------------------------------------------------------
+    There was marked hematoma and swelling within the subdeltoid bursa.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    subdeltoid bursa                phrase       medical_essential       elaborate                 0.00  15.8
+    hematoma                        word         medical_essential       elaborate                 2.61  14.8
+    marked                          word         general_hard_word       replace                   4.50     -
+
+  -- note 4  (26) -----------------------------------------------------------
+    Smoking history, hypertension, and hyperlipidemia.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hyperlipidemia                  word         medical_essential       elaborate                 1.95     -
+    hypertension                    word         medical_essential       elaborate                 3.41  16.3
+
+  -- note 5  (31) -----------------------------------------------------------
+    She did complain of bladder spasms when she urinated and she did say that she has a history of chronic UTIs.
+    stability (2nd extraction): Jaccard 0.4
+    term                            kind         category                action                    zipf   aoa
+    bladder spasms                  phrase       medical_descriptor      replace                   2.89  10.8
+    chronic UTIs                    phrase       abbreviation_essential  abbr_expand_elaborate     2.05  11.2
+    urinated                        word         general_hard_word       replace                   2.31     -
+
+  -- note 6  (32) -----------------------------------------------------------
+    There was no instability of the knee and no effusion.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    instability                     word         general_hard_word       replace                   3.71  12.6
+    effusion                        word         medical_descriptor      replace                   2.41  14.3
+
+  -- note 7  (64) -----------------------------------------------------------
+    Two days later, the pain resolved and she has not had a recurrence.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    recurrence                      word         general_hard_word       replace                   3.20  11.8
+    resolved                        word         general_hard_word       replace                   4.10     -
+
+  -- note 8  (81) -----------------------------------------------------------
+    Description : Fever, otitis media, and possible sepsis.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    otitis media                    phrase       medical_essential       elaborate                 2.16     -
+    sepsis                          word         medical_essential       elaborate                 3.01  16.3
+
+  -- note 9  (101) ----------------------------------------------------------
+    Currently, primary complaint is one of fatigue that she feels throughout the day.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    primary complaint               phrase       general_hard_word       replace                   4.21   8.9
+    fatigue                         word         medical_descriptor      replace                   3.86  11.8
+
+  -- note 10  (108) ---------------------------------------------------------
+    He has noted some stool irregularity with occasional loose stools and new onset of pain predominantly in left neck.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    stool irregularity              phrase       medical_descriptor      replace                   2.52  12.6
+    predominantly                   word         general_hard_word       replace                   3.80     -
+    loose stools                    phrase       medical_descriptor      replace                   3.03   7.7
+    new onset                       phrase       general_hard_word       replace                   3.72  10.7
+
+  -- note 11  (143) ---------------------------------------------------------
+    Description : The patient presents for a followup for history of erythema nodosum.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    erythema nodosum                phrase       medical_essential       elaborate                 1.39     -
+      sanitiser: DROP 'presents': morphological variant 'presents' — a 6th-grader knows it
+
+  -- note 12  (144) ---------------------------------------------------------
+    She was iron deficient last year, and with her multiple surgeries and poor p. o. intake, may have become iron deficient again.
+      [truncated at 4096 tokens] retrying with 8192
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    iron deficient                  phrase       medical_descriptor      replace                   3.31  11.6
+    p. o.                           phrase       general_hard_word       replace                   4.82     -
+      sanitiser: FIX  'p. o.': abbr->general_hard_word ('p. o.' is a full word)
+
+  -- note 13  (150) ---------------------------------------------------------
+    We will schedule him for the Holter monitor and refer him back to his cardiologist.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    Holter monitor                  phrase       medical_essential       elaborate                 2.12   9.7
+    cardiologist                    word         medical_essential       elaborate                 2.90  13.4
+
+  -- note 14  (161) ---------------------------------------------------------
+    The patient wished to proceed with operative intervention.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    operative intervention          phrase       medical_descriptor      replace                   3.71  13.1
+    proceed                         word         general_hard_word       replace                   4.18   8.3
+
+  -- note 15  (178) ---------------------------------------------------------
+    A KUB was obtained showing an abnormal bowel gas pattern.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    abnormal bowel gas pattern      phrase       medical_descriptor      replace                   3.29  10.1
+    obtained                        word         general_hard_word       replace                   4.49     -
+    KUB                             abbreviation abbreviation_essential  abbr_expand_elaborate        -     -
+
+  -- note 16  (185) ---------------------------------------------------------
+    She has been sedated with Ativan and came into the emergency room obtunded and unable to give any history.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 0.75
+    term                            kind         category                action                    zipf   aoa
+    obtunded                        word         medical_descriptor      replace                   1.01     -
+    sedated                         word         medical_descriptor      replace                   2.78     -
+    Ativan                          word         medical_essential       elaborate                 2.31     -
+
+  -- note 17  (202) ---------------------------------------------------------
+    He has no edema now, but has had some mild leg swelling in the past.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    edema                           word         medical_descriptor      replace                   2.95  15.1
+
+  -- note 18  (231) ---------------------------------------------------------
+    Mild secondary hyperparathyroidism.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    secondary hyperparathyroidism   phrase       medical_essential       elaborate                 1.88  19.1
+
+  -- note 19  (248) ---------------------------------------------------------
+    Otherwise, a complete review of systems was obtained and was negative except for as mentioned above.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    review of systems               phrase       medical_essential       elaborate                 4.79   8.8
+    negative                        word         medical_descriptor      replace                   4.79   7.5
+    obtained                        word         general_hard_word       replace                   4.49     -
+
+  -- note 20  (277) ---------------------------------------------------------
+    Symptoms are worse when sitting for any length of time, such as driving a motor vehicle.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    motor vehicle                   phrase       general_hard_word       replace                   4.33   7.4
+
+  -- note 21  (290) ---------------------------------------------------------
+    Forearm, elbow and shoulder exams reveal no neurologic compromise.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    neurologic compromise           phrase       medical_descriptor      replace                   2.55  13.8
+
+  -- note 22  (296) ---------------------------------------------------------
+    Thereafter, the local anesthesia was injected into the area around the tumor.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    local anesthesia                phrase       medical_essential       elaborate                 3.39  12.5
+    Thereafter                      word         general_hard_word       replace                   3.97     -
+    tumor                           word         medical_essential       elaborate                 3.97  10.3
+
+  -- note 23  (307) ---------------------------------------------------------
+    There is no numbness or paresthesias in the hand or arm.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    paresthesias                    word         medical_descriptor      replace                   1.23     -
+
+  -- note 24  (357) ---------------------------------------------------------
+    I do not think she has an obvious current abscessed lesion, although there is some drainage.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    abscessed lesion                phrase       medical_descriptor      replace                   1.60  12.8
+    drainage                        word         medical_descriptor      replace                   3.77  10.8
+
+  -- note 25  (358) ---------------------------------------------------------
+    At this time, we would rehydrate with intravenous fluids and reassess.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    intravenous fluids              phrase       medical_essential       elaborate                 3.03  15.3
+    rehydrate                       word         general_hard_word       replace                   2.20  13.6
+    reassess                        word         general_hard_word       replace                   2.80  12.8
+
+  -- note 26  (380) ---------------------------------------------------------
+    Findings are compatible with acute appendicitis.
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    acute appendicitis              phrase       medical_essential       elaborate                 2.74  12.0
+    compatible with                 phrase       general_hard_word       replace                   3.97  10.2
+    Findings                        word         general_hard_word       replace                   4.38     -
+
+  -- note 27  (391) ---------------------------------------------------------
+    She denies weight loss, but acknowledged decreased appetite and increased generalized fatigue for the past 3-4 months.
+    stability (2nd extraction): Jaccard 0.75
+    term                            kind         category                action                    zipf   aoa
+    generalized fatigue             phrase       medical_descriptor      replace                   3.29  11.8
+    decreased appetite              phrase       medical_descriptor      replace                   3.63   8.8
+    acknowledged                    word         general_hard_word       replace                   4.08     -
+    denies                          word         general_hard_word       replace                   3.73     -
+
+  -- note 28  (392) ---------------------------------------------------------
+    Consideration given to completion thyroidectomy.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    completion thyroidectomy        phrase       medical_essential       elaborate                 1.69   8.6
+    Consideration given to          phrase       general_hard_word       replace                   4.25   9.5
+
+  -- note 29  (394) ---------------------------------------------------------
+    She notes that she had epistaxis a few days ago, requiring nasal packing and fortunately that had resolved now.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    nasal packing                   phrase       medical_essential       elaborate                 3.39   8.8
+    epistaxis                       word         medical_descriptor      replace                   1.60     -
+    requiring                       word         general_hard_word       replace                   4.14     -
+    resolved                        word         general_hard_word       replace                   4.10     -
+
+  -- note 30  (396) ---------------------------------------------------------
+    I also explained to the patient about conscious sedation.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    conscious sedation              phrase       medical_essential       elaborate                 2.93  13.2
+
+  -- note 31  (762) ---------------------------------------------------------
+    Palpation of her right knee reveals no crepitus.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    Palpation                       word         general_hard_word       replace                   2.05  15.3
+    crepitus                        word         medical_descriptor      replace                   1.39     -
+
+  -- note 32  (427) ---------------------------------------------------------
+    She stepped on ideas, concerns and expectations the evening prior and twisted her ankle.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    the evening prior               phrase       general_hard_word       replace                   4.55  10.6
+
+  -- note 33  (439) ---------------------------------------------------------
+    Modifying Factors : Patient 's condition is aggravated by throwing.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    Modifying Factors               phrase       general_hard_word       replace                   3.37     -
+    aggravated                      word         general_hard_word       replace                   3.47   8.6
+
+  -- note 34  (451) ---------------------------------------------------------
+    History of osteoarthritis, osteoporosis, hypothyroidism, allergic rhinitis and kidney stones.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    allergic rhinitis               phrase       medical_essential       elaborate                 2.37  18.1
+    osteoarthritis                  word         medical_essential       elaborate                 2.76     -
+    hypothyroidism                  word         medical_essential       elaborate                 2.68  15.4
+    kidney stones                   phrase       medical_essential       elaborate                 3.85   9.3
+    osteoporosis                    word         medical_essential       elaborate                 2.99  14.3
+
+  -- note 35  (465) ---------------------------------------------------------
+    The ultrasound was negative for intracranial hemorrhage.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    intracranial hemorrhage         phrase       medical_essential       elaborate                 2.55  14.9
+
+  -- note 36  (466) ---------------------------------------------------------
+    He is status post laparoscopic appendicectomy, and he is tolerating oral diet.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    laparoscopic appendicectomy     phrase       medical_essential       elaborate                 0.00     -
+    tolerating oral diet            phrase       general_hard_word       replace                   2.73   9.4
+    status post                     phrase       general_hard_word       replace                   4.76  11.6
+
+  -- note 37  (478) ---------------------------------------------------------
+    We believe that her walking is most likely not being affected by the hydrocephalus.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hydrocephalus                   word         medical_essential       elaborate                 2.32  15.8
+
+  -- note 38  (505) ---------------------------------------------------------
+    She noted complaints of fatigue, lightheadedness, and severe dyspnea on exertion.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    noted complaints of             phrase       general_hard_word       replace                   4.10   4.5
+    dyspnea on exertion             phrase       medical_descriptor      replace                   2.09  11.6
+    lightheadedness                 word         medical_descriptor      replace                   1.92  10.1
+    fatigue                         word         medical_descriptor      replace                   3.86  11.8
+
+  -- note 39  (516) ---------------------------------------------------------
+    No significant amount of edema associated with these in the dorsum of the hand.
+      [truncated at 4096 tokens] retrying with 8192
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 0.1429
+    term                            kind         category                action                    zipf   aoa
+    significant amount              phrase       general_hard_word       replace                   4.75   9.9
+    associated with                 phrase       general_hard_word       replace                   4.89   4.4
+    dorsum                          word         medical_descriptor      replace                   2.47     -
+    edema                           word         medical_descriptor      replace                   2.95  15.1
+
+  -- note 40  (523) ---------------------------------------------------------
+    No cardio or pulmonary complaints.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    pulmonary                       word         medical_descriptor      replace                   3.50  13.1
+    cardio                          word         medical_descriptor      replace                   3.44     -
+
+  -- note 41  (553) ---------------------------------------------------------
+    At that time, the Coreg had been held secondary to hypotension.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    secondary to                    phrase       general_hard_word       replace                   4.53   9.1
+    hypotension                     word         medical_descriptor      replace                   2.52  14.4
+    Coreg                           word         medical_essential       elaborate                 1.16     -
+      sanitiser: DROP 'held': morphological variant 'held' — a 6th-grader knows it
+
+  -- note 42  (554) ---------------------------------------------------------
+    Her diarrhea now has settled down and she is having less urinary incontinence, less pedal edema.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    urinary incontinence            phrase       medical_descriptor      replace                   2.77  14.4
+    pedal edema                     phrase       medical_descriptor      replace                   2.87  15.1
+    diarrhea                        word         medical_descriptor      replace                   3.55     -
+
+  -- note 43  (556) ---------------------------------------------------------
+    Description : Nausea and abdominal pain after eating - Gall bladder disease - Laparoscopic cholecystectomy scheduled.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    Laparoscopic cholecystectomy    phrase       medical_essential       elaborate                 1.73     -
+    Gall bladder disease            phrase       medical_essential       elaborate                 3.12  12.4
+    abdominal pain                  phrase       medical_descriptor      replace                   3.56  10.2
+    Nausea                          word         medical_descriptor      replace                   3.54   8.6
+
+  -- note 44  (618) ---------------------------------------------------------
+    She states that she has underlying history of heart disease but is not able to elaborate to any significant extent.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 0.1667
+    term                            kind         category                action                    zipf   aoa
+    to any significant extent       phrase       general_hard_word       replace                   4.34  10.7
+    underlying                      word         general_hard_word       replace                   4.17  12.1
+    elaborate                       word         general_hard_word       replace                   4.06  11.5
+    states                          word         general_hard_word       replace                   5.52     -
+
+  -- note 45  (661) ---------------------------------------------------------
+    There was some slight edema of the fourth digit, on which he still is wearing his wedding band.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    fourth digit                    phrase       medical_descriptor      replace                   3.73   9.3
+    edema                           word         medical_descriptor      replace                   2.95  15.1
+
+  -- note 46  (669) ---------------------------------------------------------
+    Parents do state that she does appear to breathe rapidly, tires somewhat with the feeding with increased respiratory effort and diaphoresis.
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    respiratory effort              phrase       medical_descriptor      replace                   3.78  11.0
+    diaphoresis                     word         medical_descriptor      replace                   1.28  15.2
+    rapidly                         word         general_hard_word       replace                   4.34     -
+    state                           word         general_hard_word       replace                   5.78   6.4
+
+  -- note 47  (673) ---------------------------------------------------------
+    The patient has not used amphetamines for at least four to five months, according to the patient ; however, he had onset of chest pain this evening.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    amphetamines                    word         medical_essential       elaborate                 2.82     -
+    onset                           word         general_hard_word       replace                   3.72  10.7
+
+  -- note 48  (675) ---------------------------------------------------------
+    Orogastric suction carried out with only scant clear stomach contents.
+    stability (2nd extraction): Jaccard 0.4
+    term                            kind         category                action                    zipf   aoa
+    clear stomach contents          phrase       medical_descriptor      replace                   3.96   8.5
+    Orogastric suction              phrase       medical_essential       elaborate                 0.00   9.4
+    carried out                     phrase       general_hard_word       replace                   4.76   3.3
+    scant                           word         general_hard_word       replace                   3.10  12.2
+
+  -- note 49  (680) ---------------------------------------------------------
+    Probably there is some restrictive element because of fibrosis.
+    stability (2nd extraction): Jaccard 0.3333
+    term                            kind         category                action                    zipf   aoa
+    restrictive element             phrase       medical_descriptor      replace                   3.49  11.0
+    fibrosis                        word         medical_essential       elaborate                 3.19  14.9
+
+  -- note 50  (681) ---------------------------------------------------------
+    The uterus was placed back into the abdominal cavity.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    abdominal cavity                phrase       medical_essential       elaborate                 3.29  10.2
+    uterus                          word         medical_essential       elaborate                 3.40  12.8
+
+  -- note 51  (682) ---------------------------------------------------------
+    This was viewed on the AP and lateral projections.
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    lateral projections             phrase       medical_descriptor      replace                   3.43  12.4
+    AP                              abbreviation abbreviation_essential  abbr_expand_elaborate        -     -
+
+  -- note 52  (686) ---------------------------------------------------------
+    The cords move normally with phonation and ventilation.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    ventilation                     word         medical_descriptor      replace                   3.60  10.4
+    phonation                       word         medical_descriptor      replace                   1.80     -
+    cords                           word         medical_essential       elaborate                 3.35     -
+
+  -- note 53  (688) ---------------------------------------------------------
+    Once the abdomen was opened, there was noted to be gross purulent drainage.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    gross purulent drainage         phrase       medical_descriptor      replace                   1.92  15.5
+    abdomen                         word         medical_essential       elaborate                 3.56   8.6
+
+  -- note 54  (692) ---------------------------------------------------------
+    Once all four ports were placed, the right upper quadrant was then explored.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    right upper quadrant            phrase       medical_essential       elaborate                 3.26  12.8
+    explored                        word         general_hard_word       replace                   3.90     -
+    ports                           word         medical_essential       elaborate                 4.07     -
+
+  -- note 55  (693) ---------------------------------------------------------
+    Options such as watchful waiting, robotic prostatectomy, seed implantation with and without radiation were discussed.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    robotic prostatectomy           phrase       medical_essential       elaborate                 2.13  15.3
+    seed implantation               phrase       medical_essential       elaborate                 2.99  11.9
+    watchful waiting                phrase       medical_essential       elaborate                 3.09   8.2
+    radiation                       word         medical_essential       elaborate                 4.27  11.4
+
+  -- note 56  (695) ---------------------------------------------------------
+    He also reportedly was on Lasix prior to hospitalization, possible
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hospitalization                 word         general_hard_word       replace                   3.09   9.5
+    reportedly                      word         general_hard_word       replace                   4.13     -
+    prior to                        phrase       general_hard_word       replace                   4.85  10.6
+    Lasix                           word         medical_essential       elaborate                 1.98     -
+
+  -- note 57  (697) ---------------------------------------------------------
+    The four cardiac chambers dimensions are within normal limits.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    within normal limits            phrase       medical_descriptor      replace                   4.32   7.7
+    cardiac chambers                phrase       medical_essential       elaborate                 3.64  11.7
+    dimensions                      word         general_hard_word       replace                   4.05     -
+
+  -- note 58  (698) ---------------------------------------------------------
+    Digital rectal examination was performed, which showed no masses.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    Digital rectal examination      phrase       medical_essential       elaborate                 2.88  13.1
+    performed                       word         general_hard_word       replace                   4.68     -
+    masses                          word         medical_descriptor      replace                   3.94   9.4
+
+  -- note 59  (699) ---------------------------------------------------------
+    He then had a problem with seizures, hemiparesis, has been to the hospital, developed C-diff, and is in the nursing home currently.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hemiparesis                     word         medical_descriptor      replace                   1.49     -
+    seizures                        word         medical_essential       elaborate                 3.59     -
+    C-diff                          abbreviation abbreviation_essential  abbr_expand_elaborate        -     -
+
+  -- note 60  (700) ---------------------------------------------------------
+    He has been on continuous positive airway pressure now for several months, and returns for followup to review his response to treatment.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    continuous positive airway pres phrase       medical_essential       elaborate                 3.14  11.4
+    followup                        word         general_hard_word       replace                   2.87     -
+
+  -- note 61  (709) ---------------------------------------------------------
+    The patient to take small bite and small sips to help decrease the risk of aspiration and penetration.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    penetration                     word         medical_descriptor      replace                   3.71  11.1
+    aspiration                      word         medical_descriptor      replace                   3.30  11.5
+
+  -- note 62  (714) ---------------------------------------------------------
+    The patient was awakened and extubated and moved to the recovery room in satisfactory condition.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    satisfactory                    word         general_hard_word       replace                   3.57   8.8
+    extubated                       word         medical_essential       elaborate                 1.26     -
+    awakened                        word         general_hard_word       replace                   3.30     -
+
+  -- note 63  (721) ---------------------------------------------------------
+    PHYSICAL EXAMINATION : GENERAL : The patient was asleep, but easily aroused.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    aroused                         word         general_hard_word       replace                   3.35     -
+
+  -- note 64  (725) ---------------------------------------------------------
+    He is to follow up in approximately 10 days for recheck as well as prescription for intended AFOs, which he will need up to 6 months.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    approximately                   word         general_hard_word       replace                   4.64     -
+    AFOs                            abbreviation abbreviation_essential  abbr_expand_elaborate     1.36     -
+
+  -- note 65  (726) ---------------------------------------------------------
+    Genitourinary : The external genitalia appeared to be normal.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    external genitalia              phrase       medical_essential       elaborate                 3.08  11.8
+    Genitourinary                   word         general_hard_word       replace                   2.02     -
+
+  -- note 66  (727) ---------------------------------------------------------
+    She is postop day 21 of an exploratory laparotomy with ovarian cancer staging.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    exploratory laparotomy          phrase       medical_essential       elaborate                 2.01  12.9
+    ovarian cancer staging          phrase       medical_essential       elaborate                 3.24  14.4
+    postop                          abbreviation abbreviation_essential  abbr_expand_elaborate     1.53     -
+
+  -- note 67  (732) ---------------------------------------------------------
+    Prescription for prednisone as part of his chemotherapy has been given to him.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    chemotherapy                    word         medical_essential       elaborate                 3.56  12.5
+    prednisone                      word         medical_essential       elaborate                 2.56  17.2
+
+  -- note 68  (738) ---------------------------------------------------------
+    Photic stimulation was performed, but no clear-cut photic driving was seen.
+    stability (2nd extraction): Jaccard 0.6667
+    term                            kind         category                action                    zipf   aoa
+    Photic stimulation              phrase       medical_essential       elaborate                 1.80   8.6
+    photic driving                  phrase       medical_essential       elaborate                 1.81     -
+    clear-cut                       word         general_hard_word       replace                   4.94     -
+
+  -- note 69  (739) ---------------------------------------------------------
+    FAMILY HISTORY : Both parents died with myocardial infarctions.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    myocardial infarctions          phrase       medical_essential       elaborate                 1.57  16.6
+
+  -- note 70  (740) ---------------------------------------------------------
+    Extremities : 2+ bilateral pitting edema to the level of the knees.
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    bilateral pitting edema         phrase       medical_descriptor      replace                   2.64  15.1
+    Extremities                     word         general_hard_word       replace                   2.97     -
+
+  -- note 71  (741) ---------------------------------------------------------
+    Following questions are mostly involved in a psychosocial donor evaluation.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    psychosocial                    word         medical_descriptor      replace                   2.88  15.4
+
+  -- note 72  (742) ---------------------------------------------------------
+    Mild nonmobile descending aortic atherosclerosis.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    descending aortic atheroscleros phrase       medical_essential       elaborate                 2.55  13.1
+    nonmobile                       word         medical_descriptor      replace                   0.00     -
+
+  -- note 73  (750) ---------------------------------------------------------
+    The eustachian tube was obstructed with bone wax.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    eustachian tube                 phrase       medical_essential       elaborate                 1.90   5.5
+    obstructed                      word         medical_descriptor      replace                   2.98     -
+    bone wax                        phrase       medical_essential       elaborate                 3.81   6.0
+
+  -- note 74  (752) ---------------------------------------------------------
+    He was placed supine on the operating room table.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    supine                          word         medical_descriptor      replace                   2.42  16.4
+
+  -- note 75  (755) ---------------------------------------------------------
+    A urinalysis was not performed this time.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    urinalysis                      word         medical_essential       elaborate                 2.20  14.7
+
+  -- note 76  (766) ---------------------------------------------------------
+    Vision and hearing appeared to be adequate for testing, although she did indicate that she needed to update her eyeglass prescription.
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    eyeglass prescription           phrase       general_hard_word       replace                   2.32   9.2
+    did indicate                    phrase       general_hard_word       replace                   4.34   9.7
+    adequate                        word         general_hard_word       replace                   4.05  10.3
+
+  -- note 77  (771) ---------------------------------------------------------
+    I have talked to him several times about a colonoscopy, which he has refused, and so we have been doing stools for occult blood.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    occult blood                    phrase       medical_descriptor      replace                   3.28  12.7
+    colonoscopy                     word         medical_essential       elaborate                 2.74  15.8
+    stools                          word         general_hard_word       replace                   3.05     -
+
+  -- note 78  (783) ---------------------------------------------------------
+    The knee was copiously irrigated and suction dried once again.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 0.25
+    term                            kind         category                action                    zipf   aoa
+    copiously irrigated             phrase       general_hard_word       replace                   1.98     -
+    suction dried                   phrase       general_hard_word       replace                   3.28   9.4
+
+  -- note 79  (784) ---------------------------------------------------------
+    She is not having painful urination, any blood in the urine, frequency or hesitancy.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    frequency                       word         medical_descriptor      replace                   4.36   9.8
+    hesitancy                       word         medical_descriptor      replace                   2.35  12.1
+
+  -- note 80  (789) ---------------------------------------------------------
+    Cardiovascular : Chest pain in the retrosternal area, Occasional anginal pain and patient describes it as a sensation of tightness.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    retrosternal area               phrase       medical_descriptor      replace                   0.00   6.6
+    Cardiovascular                  word         medical_descriptor      replace                   3.68  13.3
+    anginal pain                    phrase       medical_descriptor      replace                   1.10   4.3
+
+  -- note 81  (790) ---------------------------------------------------------
+    We excised a good bit of his synovium and synovial pouch.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    synovial pouch                  phrase       medical_essential       elaborate                 2.32  16.0
+    synovium                        word         medical_essential       elaborate                 1.46     -
+    excised                         word         general_hard_word       replace                   2.58     -
+
+  -- note 82  (801) ---------------------------------------------------------
+    An inflammatory process such as infection or ischemia must be considered.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    inflammatory process            phrase       medical_descriptor      replace                   3.71  13.3
+    ischemia                        word         medical_essential       elaborate                 2.85  18.0
+
+  -- note 83  (804) ---------------------------------------------------------
+    I have asked her to increase her prednisone when she goes home.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    prednisone                      word         medical_essential       elaborate                 2.56  17.2
+
+  -- note 84  (844) ---------------------------------------------------------
+    She may need other neuropathic pain medications as needed.
+    stability (2nd extraction): Jaccard 0.0
+    term                            kind         category                action                    zipf   aoa
+    neuropathic                     word         medical_descriptor      replace                   2.35  15.4
+
+  -- note 85  (852) ---------------------------------------------------------
+    A prophylactic dose of antibiotics was given.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    prophylactic                    word         general_hard_word       replace                   2.59  15.2
+    antibiotics                     word         medical_essential       elaborate                 3.74   9.6
+
+  -- note 86  (854) ---------------------------------------------------------
+    Chronic hypokalemia secondary to chronic diarrhea.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    Chronic hypokalemia             phrase       medical_essential       elaborate                 1.76  11.2
+    chronic diarrhea                phrase       medical_descriptor      replace                   3.46  11.2
+    secondary to                    phrase       general_hard_word       replace                   4.53   9.1
+
+  -- note 87  (859) ---------------------------------------------------------
+    No hepatosplenomegaly or tenderness.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hepatosplenomegaly              word         medical_descriptor      replace                   1.12     -
+    tenderness                      word         medical_descriptor      replace                   3.24   8.8
+
+  -- note 88  (881) ---------------------------------------------------------
+    He did not experience his left anterior chest pain with exercise.
+    stability (2nd extraction): Jaccard 0.0
+    term                            kind         category                action                    zipf   aoa
+    experience                      word         general_hard_word       replace                   5.27   8.9
+    anterior                        word         medical_descriptor      replace                   3.51  14.1
+
+  -- note 89  (891) ---------------------------------------------------------
+    Also, would use it to control the atrial fibrillation.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    atrial fibrillation             phrase       medical_essential       elaborate                 2.58  14.6
+
+  -- note 90  (900) ---------------------------------------------------------
+    Overall the patient is a seemingly good historian.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    good historian                  phrase       medical_descriptor      replace                   3.90  11.6
+    seemingly                       word         general_hard_word       replace                   4.10   9.8
+
+  -- note 91  (933) ---------------------------------------------------------
+    No active Crohn 's disease was found during the colonoscopy.
+    stability (2nd extraction): Jaccard 0.3333
+    term                            kind         category                action                    zipf   aoa
+    active Crohn 's disease         phrase       medical_essential       elaborate                 1.52   7.5
+    colonoscopy                     word         medical_essential       elaborate                 2.74  15.8
+
+  -- note 92  (935) ---------------------------------------------------------
+    Shortly after the patient's initial assessment, the patient apparently began to complain of chest pain and appeared to the nurse to have mounting exhaustion and respiratory distress.
+      [truncated at 4096 tokens] retrying with 8192
+    stability (2nd extraction): Jaccard 0.2
+    term                            kind         category                action                    zipf   aoa
+    respiratory distress            phrase       medical_descriptor      replace                   3.57  11.2
+    mounting exhaustion             phrase       medical_descriptor      replace                   3.34   7.6
+
+  -- note 93  (968) ---------------------------------------------------------
+    She has been referred for a pacemaker implantation.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    pacemaker implantation          phrase       medical_essential       elaborate                 2.69  12.4
+    referred                        word         general_hard_word       replace                   4.61     -
+
+  -- note 94  (116) ---------------------------------------------------------
+    There was some hematoma at the cath site.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    cath site                       phrase       abbreviation_essential  abbr_expand_elaborate     2.90   8.6
+    hematoma                        word         medical_descriptor      replace                   2.61  14.8
+
+  -- note 95  (592) ---------------------------------------------------------
+    The necrotic tissue was lifted out of the abdomen.
+    stability (2nd extraction): Jaccard 0.5
+    term                            kind         category                action                    zipf   aoa
+    necrotic tissue                 phrase       medical_descriptor      replace                   2.54  15.1
+
+  -- note 96  (249) ---------------------------------------------------------
+    Pressure was held and the area was hemostatic.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hemostatic                      word         medical_descriptor      replace                   1.73     -
+
+  -- note 97  (701) ---------------------------------------------------------
+    The area was lavaged with some saline and cleared.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    lavaged                         word         general_hard_word       replace                   0.00     -
+    saline                          word         medical_essential       elaborate                 3.33  11.7
+
+  -- note 98  (826) ---------------------------------------------------------
+    Pain and inability to ambulate brought him in.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    inability to ambulate           phrase       general_hard_word       replace                   1.40  10.7
+
+  -- note 99  (751) ---------------------------------------------------------
+    There is a hernia on the left side.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    hernia                          word         medical_essential       elaborate                 3.00  12.3
+
+  -- note 100  (496) --------------------------------------------------------
+    Other systems were reviewed and were found to be unremarkable.
+    stability (2nd extraction): Jaccard 1.0
+    term                            kind         category                action                    zipf   aoa
+    unremarkable                    word         medical_descriptor      replace                   2.83  11.1
+
+==============================================================================
+  STAGE 3 — glossary retrieval + coverage
+==============================================================================
+  loading glossaries ...
+    readme   7857 keys | nih   8234 | dorland  31436 | dictionary 111723
+    iowa  289 | michigan  1962 | jpc  2705 | wiktionary  50812 | thesaurus   883
+    hop index  8349 rare tokens
+
+  -- note 1  (8) ------------------------------------------------------------
+    disinterested                      2 def(s)  [wiktionary]
+    anhedonic                          --  NO DEFINITION
+    coverage 0.5   glossary budget: 2/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'anhedonic'
+
+  -- note 2  (18) -----------------------------------------------------------
+    Myocardial infarction              5 def(s)  [iowa, justplainclear, michigan, readme]
+    can not be excluded                --  NO DEFINITION
+        split -> can                        2 def(s)
+        split -> not                        2 def(s)
+        split -> be                         2 def(s)
+        split -> excluded                   1 def(s)
+    coverage 0.5   glossary budget: 12/16 entries
+
+  -- note 3  (21) -----------------------------------------------------------
+    subdeltoid bursa                   --  NO DEFINITION
+        split -> bursa                      2 def(s)
+    hematoma                           4 def(s)  [iowa, justplainclear, michigan, nih]
+    marked                             2 def(s)  [wiktionary]
+    coverage 0.6667   glossary budget: 8/16 entries
+
+  -- note 4  (26) -----------------------------------------------------------
+    hyperlipidemia                     4 def(s)  [justplainclear, michigan, readme]
+    hypertension                       7 def(s)  [iowa, justplainclear, michigan, nih, readme, wiktionary]
+    coverage 1.0   glossary budget: 11/16 entries
+
+  -- note 5  (31) -----------------------------------------------------------
+    bladder spasms                     --  NO DEFINITION
+        split -> bladder                    7 def(s)
+        split -> spasms                     2 def(s)
+    chronic UTIs                       --  NO DEFINITION
+        split -> chronic                    9 def(s)
+        split -> UTIs                       2 def(s)
+    urinated                           1 def(s)  [wiktionary]
+    coverage 0.3333   glossary budget: 16/16 entries
+
+  -- note 6  (32) -----------------------------------------------------------
+    instability                        1 def(s)  [wiktionary]
+    effusion                           1 def(s)  [nih]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 7  (64) -----------------------------------------------------------
+    recurrence                         3 def(s)  [nih, readme, wiktionary]
+    resolved                           2 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 8  (81) -----------------------------------------------------------
+    otitis media                       3 def(s)  [michigan, readme, thesaurus]
+    sepsis                             4 def(s)  [michigan, nih, readme]
+    coverage 1.0   glossary budget: 7/16 entries
+
+  -- note 9  (101) ----------------------------------------------------------
+    primary complaint                  --  NO DEFINITION
+        split -> primary                    2 def(s)
+        split -> complaint                  5 def(s)
+    fatigue                            6 def(s)  [justplainclear, michigan, nih, readme, wiktionary]
+    coverage 0.5   glossary budget: 13/16 entries
+
+  -- note 10  (108) ---------------------------------------------------------
+    stool irregularity                 --  NO DEFINITION
+        split -> stool                      6 def(s)
+        split -> irregularity               1 def(s)
+    predominantly                      1 def(s)  [dictionary]
+    loose stools                       1 def(s)  [readme]
+    new onset                          --  NO DEFINITION
+        split -> new                        2 def(s)
+        split -> onset                      2 def(s)
+    coverage 0.5   glossary budget: 13/16 entries
+
+  -- note 11  (143) ---------------------------------------------------------
+    erythema nodosum                   --  NO DEFINITION
+        split -> erythema                   3 def(s)
+    coverage 0.0   glossary budget: 3/16 entries
+
+  -- note 12  (144) ---------------------------------------------------------
+    iron deficient                     --  NO DEFINITION
+        split -> iron                       5 def(s)
+        split -> deficient                  3 def(s)
+    p. o.                              --  NO DEFINITION
+        split -> p                          2 def(s)
+        split -> o                          1 def(s)
+    coverage 0.0   glossary budget: 11/16 entries
+
+  -- note 13  (150) ---------------------------------------------------------
+    Holter monitor                     1 def(s)  [iowa]
+    cardiologist                       4 def(s)  [justplainclear, michigan, nih, wiktionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 14  (161) ---------------------------------------------------------
+    operative intervention             --  NO DEFINITION
+        split -> operative                  4 def(s)
+        split -> intervention               6 def(s)
+    proceed                            4 def(s)  [michigan, thesaurus, wiktionary]
+    coverage 0.5   glossary budget: 14/16 entries
+
+  -- note 15  (178) ---------------------------------------------------------
+    abnormal bowel gas pattern         --  NO DEFINITION
+        split -> abnormal                   5 def(s)
+        split -> bowel                      4 def(s)
+        split -> gas                        2 def(s)
+        split -> pattern                    2 def(s)
+    obtained                           1 def(s)  [wiktionary]
+    KUB                                1 def(s)  [dorland]
+    coverage 0.6667   glossary budget: 15/16 entries
+
+  -- note 16  (185) ---------------------------------------------------------
+    obtunded                           1 def(s)  [readme]
+    sedated                            3 def(s)  [readme, wiktionary]
+    Ativan                             --  NO DEFINITION
+    coverage 0.6667   glossary budget: 4/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'Ativan'
+
+  -- note 17  (202) ---------------------------------------------------------
+    edema                              5 def(s)  [iowa, michigan, nih, readme]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 18  (231) ---------------------------------------------------------
+    secondary hyperparathyroidism      --  NO DEFINITION
+        split -> secondary                  2 def(s)
+        split -> hyperparathyroidism        2 def(s)
+    coverage 0.0   glossary budget: 4/16 entries
+
+  -- note 19  (248) ---------------------------------------------------------
+    review of systems                  1 def(s)  [readme]
+    negative                           2 def(s)  [wiktionary]
+    obtained                           1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 4/16 entries
+
+  -- note 20  (277) ---------------------------------------------------------
+    motor vehicle                      1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 1/16 entries
+
+  -- note 21  (290) ---------------------------------------------------------
+    neurologic compromise              --  NO DEFINITION
+        split -> neurologic                 4 def(s)
+        split -> compromise                 2 def(s)
+    coverage 0.0   glossary budget: 6/16 entries
+
+  -- note 22  (296) ---------------------------------------------------------
+    local anesthesia                   4 def(s)  [iowa, michigan, nih, readme]
+    Thereafter                         2 def(s)  [dictionary]
+    tumor                              5 def(s)  [justplainclear, michigan, nih, thesaurus, wiktionary]
+    coverage 1.0   glossary budget: 11/16 entries
+
+  -- note 23  (307) ---------------------------------------------------------
+    paresthesias                       --  NO DEFINITION
+    coverage 0.0   glossary budget: 0/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'paresthesias'
+
+  -- note 24  (357) ---------------------------------------------------------
+    abscessed lesion                   --  NO DEFINITION
+        split -> lesion                     6 def(s)
+    drainage                           3 def(s)  [readme, wiktionary]
+    coverage 0.5   glossary budget: 9/16 entries
+
+  -- note 25  (358) ---------------------------------------------------------
+    intravenous fluids                 1 def(s)  [readme]  via 'intravenous fluid'
+    rehydrate                          1 def(s)  [wiktionary]
+    reassess                           1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 26  (380) ---------------------------------------------------------
+    acute appendicitis                 --  NO DEFINITION
+        split -> acute                      6 def(s)
+        split -> appendicitis               1 def(s)
+    compatible with                    --  NO DEFINITION
+        split -> compatible                 1 def(s)
+        split -> with                       2 def(s)
+    Findings                           1 def(s)  [wiktionary]
+    coverage 0.3333   glossary budget: 11/16 entries
+
+  -- note 27  (391) ---------------------------------------------------------
+    generalized fatigue                --  NO DEFINITION
+        split -> generalized                3 def(s)
+        split -> fatigue                    6 def(s)
+    decreased appetite                 --  NO DEFINITION
+        split -> decreased                  1 def(s)
+        split -> appetite                   3 def(s)
+    acknowledged                       1 def(s)  [wiktionary]
+    denies                             1 def(s)  [wiktionary]
+    coverage 0.5   glossary budget: 15/16 entries
+
+  -- note 28  (392) ---------------------------------------------------------
+    completion thyroidectomy           --  NO DEFINITION
+        split -> completion                 2 def(s)
+        split -> thyroidectomy              3 def(s)
+    Consideration given to             --  NO DEFINITION
+        split -> Consideration              2 def(s)
+        split -> given                      2 def(s)
+        split -> to                         2 def(s)
+    coverage 0.0   glossary budget: 11/16 entries
+
+  -- note 29  (394) ---------------------------------------------------------
+    nasal packing                      --  NO DEFINITION
+        split -> nasal                      5 def(s)
+        split -> packing                    3 def(s)
+    epistaxis                          3 def(s)  [readme, wiktionary]
+    requiring                          1 def(s)  [wiktionary]
+    resolved                           2 def(s)  [wiktionary]
+    coverage 0.75   glossary budget: 14/16 entries
+
+  -- note 30  (396) ---------------------------------------------------------
+    conscious sedation                 2 def(s)  [nih, readme]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 31  (762) ---------------------------------------------------------
+    Palpation                          3 def(s)  [nih, readme]
+    crepitus                           2 def(s)  [dictionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 32  (427) ---------------------------------------------------------
+    the evening prior                  --  NO DEFINITION
+        split -> the evening                2 def(s)
+        split -> prior                      1 def(s)
+    coverage 0.0   glossary budget: 3/16 entries
+
+  -- note 33  (439) ---------------------------------------------------------
+    Modifying Factors                  --  NO DEFINITION
+        split -> Modifying                  1 def(s)
+        split -> Factors                    1 def(s)
+    aggravated                         2 def(s)  [readme, wiktionary]
+    coverage 0.5   glossary budget: 4/16 entries
+
+  -- note 34  (451) ---------------------------------------------------------
+    allergic rhinitis                  2 def(s)  [justplainclear, michigan]
+    osteoarthritis                     3 def(s)  [justplainclear, readme]
+    hypothyroidism                     2 def(s)  [justplainclear, nih]
+    kidney stones                      3 def(s)  [michigan, readme]
+    osteoporosis                       7 def(s)  [iowa, michigan, nih, readme, thesaurus, wiktionary]
+    coverage 1.0   glossary budget: 16/16 entries
+
+  -- note 35  (465) ---------------------------------------------------------
+    intracranial hemorrhage            2 def(s)  [readme]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 36  (466) ---------------------------------------------------------
+    laparoscopic appendicectomy        --  NO DEFINITION
+        split -> laparoscopic               2 def(s)
+    tolerating oral diet               --  NO DEFINITION
+        split -> tolerating                 1 def(s)
+        split -> oral                       7 def(s)
+        split -> diet                       3 def(s)
+    status post                        --  NO DEFINITION
+        split -> status                     6 def(s)
+        split -> post                       2 def(s)
+    coverage 0.0   glossary budget: 16/16 entries
+
+  -- note 37  (478) ---------------------------------------------------------
+    hydrocephalus                      4 def(s)  [justplainclear, nih, readme]
+    coverage 1.0   glossary budget: 4/16 entries
+
+  -- note 38  (505) ---------------------------------------------------------
+    noted complaints of                --  NO DEFINITION
+        split -> noted                      2 def(s)
+        split -> complaints                 2 def(s)
+        split -> of                         2 def(s)
+    dyspnea on exertion                --  NO DEFINITION
+        split -> dyspnea                    4 def(s)
+        split -> on                         2 def(s)
+        split -> exertion                   3 def(s)
+    lightheadedness                    1 def(s)  [readme]
+    fatigue                            6 def(s)  [justplainclear, michigan, nih, readme, wiktionary]
+    coverage 0.5   glossary budget: 16/16 entries
+
+  -- note 39  (516) ---------------------------------------------------------
+    significant amount                 --  NO DEFINITION
+        split -> significant                6 def(s)
+        split -> amount                     3 def(s)
+    associated with                    3 def(s)  [justplainclear, readme]
+    dorsum                             1 def(s)  [readme]
+    edema                              5 def(s)  [iowa, michigan, nih, readme]
+    coverage 0.75   glossary budget: 16/16 entries
+
+  -- note 40  (523) ---------------------------------------------------------
+    pulmonary                          6 def(s)  [iowa, justplainclear, nih, readme, thesaurus]
+    cardio                             --  NO DEFINITION
+    coverage 0.5   glossary budget: 6/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'cardio'
+
+  -- note 41  (553) ---------------------------------------------------------
+    secondary to                       --  NO DEFINITION
+        split -> secondary                  2 def(s)
+        split -> to                         2 def(s)
+    hypotension                        6 def(s)  [iowa, michigan, nih, readme, wiktionary]
+    Coreg                              1 def(s)  [nih]
+    coverage 0.6667   glossary budget: 11/16 entries
+
+  -- note 42  (554) ---------------------------------------------------------
+    urinary incontinence               3 def(s)  [michigan, nih, readme]
+    pedal edema                        1 def(s)  [readme]
+    diarrhea                           6 def(s)  [justplainclear, michigan, nih, readme, wiktionary]
+    coverage 1.0   glossary budget: 10/16 entries
+
+  -- note 43  (556) ---------------------------------------------------------
+    Laparoscopic cholecystectomy       --  NO DEFINITION
+        split -> Laparoscopic               2 def(s)
+        split -> cholecystectomy            3 def(s)
+    Gall bladder disease               --  NO DEFINITION
+        split -> Gall                       2 def(s)
+        split -> bladder disease            1 def(s)
+    abdominal pain                     1 def(s)  [readme]
+    Nausea                             3 def(s)  [justplainclear, nih, wiktionary]
+    coverage 0.5   glossary budget: 12/16 entries
+
+  -- note 44  (618) ---------------------------------------------------------
+    to any significant extent          --  NO DEFINITION
+        split -> to                         2 def(s)
+        split -> any                        2 def(s)
+        split -> significant                6 def(s)
+        split -> extent                     2 def(s)
+    underlying                         2 def(s)  [wiktionary]
+    elaborate                          1 def(s)  [wiktionary]
+    states                             1 def(s)  [wiktionary]
+    coverage 0.75   glossary budget: 16/16 entries
+
+  -- note 45  (661) ---------------------------------------------------------
+    fourth digit                       --  NO DEFINITION
+        split -> fourth                     2 def(s)
+        split -> digit                      4 def(s)
+    edema                              5 def(s)  [iowa, michigan, nih, readme]
+    coverage 0.5   glossary budget: 11/16 entries
+
+  -- note 46  (669) ---------------------------------------------------------
+    respiratory effort                 --  NO DEFINITION
+        split -> respiratory                3 def(s)
+        split -> effort                     1 def(s)
+    diaphoresis                        4 def(s)  [justplainclear, michigan, readme]
+    rapidly                            1 def(s)  [wiktionary]
+    state                              4 def(s)  [michigan, thesaurus, wiktionary]
+    coverage 0.75   glossary budget: 13/16 entries
+
+  -- note 47  (673) ---------------------------------------------------------
+    amphetamines                       1 def(s)  [wiktionary]
+    onset                              2 def(s)  [michigan, wiktionary]
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 48  (675) ---------------------------------------------------------
+    clear stomach contents             --  NO DEFINITION
+        split -> clear                      2 def(s)
+        split -> stomach                    5 def(s)
+        split -> contents                   1 def(s)
+    Orogastric suction                 --  NO DEFINITION
+        split -> Orogastric                 1 def(s)
+        split -> suction                    3 def(s)
+    carried out                        --  NO DEFINITION
+        split -> carried                    1 def(s)
+        split -> out                        2 def(s)
+    scant                              2 def(s)  [wiktionary]
+    coverage 0.25   glossary budget: 16/16 entries
+
+  -- note 49  (680) ---------------------------------------------------------
+    restrictive element                --  NO DEFINITION
+        split -> restrictive                1 def(s)
+        split -> element                    3 def(s)
+    fibrosis                           2 def(s)  [nih, readme]
+    coverage 0.5   glossary budget: 6/16 entries
+
+  -- note 50  (681) ---------------------------------------------------------
+    abdominal cavity                   1 def(s)  [readme]
+    uterus                             5 def(s)  [justplainclear, michigan, nih, thesaurus, wiktionary]
+    coverage 1.0   glossary budget: 6/16 entries
+
+  -- note 51  (682) ---------------------------------------------------------
+    lateral projections                --  NO DEFINITION
+        split -> lateral                    4 def(s)
+        split -> projections                1 def(s)
+    AP                                 4 def(s)  [dorland, justplainclear, readme]
+    coverage 0.5   glossary budget: 9/16 entries
+
+  -- note 52  (686) ---------------------------------------------------------
+    ventilation                        3 def(s)  [readme, wiktionary]
+    phonation                          1 def(s)  [dictionary]
+    cords                              1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 53  (688) ---------------------------------------------------------
+    gross purulent drainage            --  NO DEFINITION
+        split -> gross                      2 def(s)
+        split -> purulent                   1 def(s)
+        split -> drainage                   3 def(s)
+    abdomen                            4 def(s)  [nih, thesaurus, wiktionary]
+    coverage 0.5   glossary budget: 10/16 entries
+
+  -- note 54  (692) ---------------------------------------------------------
+    right upper quadrant               --  NO DEFINITION
+        split -> right upper                2 def(s)
+        split -> quadrant                   2 def(s)
+    explored                           1 def(s)  [wiktionary]
+    ports                              1 def(s)  [wiktionary]
+    coverage 0.6667   glossary budget: 6/16 entries
+
+  -- note 55  (693) ---------------------------------------------------------
+    robotic prostatectomy              --  NO DEFINITION
+        split -> prostatectomy              2 def(s)
+    seed implantation                  --  NO DEFINITION
+        split -> seed                       2 def(s)
+        split -> implantation               2 def(s)
+    watchful waiting                   1 def(s)  [nih]
+    radiation                          5 def(s)  [nih, readme, thesaurus, wiktionary]
+    coverage 0.5   glossary budget: 12/16 entries
+
+  -- note 56  (695) ---------------------------------------------------------
+    hospitalization                    4 def(s)  [readme, wiktionary]
+    reportedly                         1 def(s)  [wiktionary]
+    prior to                           1 def(s)  [michigan]
+    Lasix                              --  NO DEFINITION
+    coverage 0.75   glossary budget: 6/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'Lasix'
+
+  -- note 57  (697) ---------------------------------------------------------
+    within normal limits               --  NO DEFINITION
+        split -> within                     2 def(s)
+        split -> normal                     3 def(s)
+        split -> limits                     2 def(s)
+    cardiac chambers                   --  NO DEFINITION
+        split -> cardiac                    5 def(s)
+        split -> chambers                   1 def(s)
+    dimensions                         1 def(s)  [wiktionary]
+    coverage 0.3333   glossary budget: 14/16 entries
+
+  -- note 58  (698) ---------------------------------------------------------
+    Digital rectal examination         1 def(s)  [nih]
+    performed                          1 def(s)  [wiktionary]
+    masses                             2 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 4/16 entries
+
+  -- note 59  (699) ---------------------------------------------------------
+    hemiparesis                        1 def(s)  [readme]
+    seizures                           3 def(s)  [readme, wiktionary]
+    C-diff                             3 def(s)  [dorland, nih, readme]
+    coverage 1.0   glossary budget: 7/16 entries
+
+  -- note 60  (700) ---------------------------------------------------------
+    continuous positive airway pressure --  NO DEFINITION
+        split -> continuous                 3 def(s)
+        split -> positive                   4 def(s)
+        split -> airway                     2 def(s)
+        split -> pressure                   2 def(s)
+    followup                           2 def(s)  [readme]
+    coverage 0.5   glossary budget: 13/16 entries
+
+  -- note 61  (709) ---------------------------------------------------------
+    penetration                        2 def(s)  [wiktionary]
+    aspiration                         4 def(s)  [iowa, nih, readme]
+    coverage 1.0   glossary budget: 6/16 entries
+
+  -- note 62  (714) ---------------------------------------------------------
+    satisfactory                       2 def(s)  [michigan, wiktionary]
+    extubated                          2 def(s)  [readme]
+    awakened                           1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 63  (721) ---------------------------------------------------------
+    aroused                            1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 1/16 entries
+
+  -- note 64  (725) ---------------------------------------------------------
+    approximately                      1 def(s)  [wiktionary]
+    AFOs                               2 def(s)  [dorland, justplainclear]  via 'afo'
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 65  (726) ---------------------------------------------------------
+    external genitalia                 --  NO DEFINITION
+        split -> external                   3 def(s)
+        split -> genitalia                  1 def(s)
+    Genitourinary                      2 def(s)  [readme]
+    coverage 0.5   glossary budget: 6/16 entries
+
+  -- note 66  (727) ---------------------------------------------------------
+    exploratory laparotomy             2 def(s)  [readme]
+    ovarian cancer staging             --  NO DEFINITION
+        split -> ovarian                    3 def(s)
+        split -> cancer staging             1 def(s)
+    postop                             3 def(s)  [dorland, readme]
+    coverage 0.6667   glossary budget: 9/16 entries
+
+  -- note 67  (732) ---------------------------------------------------------
+    chemotherapy                       7 def(s)  [iowa, justplainclear, michigan, nih, readme, wiktionary]
+    prednisone                         3 def(s)  [nih, readme]
+    coverage 1.0   glossary budget: 10/16 entries
+
+  -- note 68  (738) ---------------------------------------------------------
+    Photic stimulation                 --  NO DEFINITION
+        split -> Photic                     1 def(s)
+        split -> stimulation                2 def(s)
+    photic driving                     --  NO DEFINITION
+        split -> photic                     1 def(s)
+        split -> driving                    2 def(s)
+    clear-cut                          2 def(s)  [dictionary]
+    coverage 0.3333   glossary budget: 8/16 entries
+
+  -- note 69  (739) ---------------------------------------------------------
+    myocardial infarctions             5 def(s)  [iowa, justplainclear, michigan, readme]  via 'myocardial infarction'
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 70  (740) ---------------------------------------------------------
+    bilateral pitting edema            --  NO DEFINITION
+        split -> bilateral                  8 def(s)
+        split -> pitting edema              2 def(s)
+    Extremities                        1 def(s)  [wiktionary]
+    coverage 0.5   glossary budget: 11/16 entries
+
+  -- note 71  (741) ---------------------------------------------------------
+    psychosocial                       2 def(s)  [michigan, nih]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 72  (742) ---------------------------------------------------------
+    descending aortic atherosclerosis  --  NO DEFINITION
+        split -> descending aortic          1 def(s)
+        split -> atherosclerosis            3 def(s)
+    nonmobile                          --  NO DEFINITION
+    coverage 0.0   glossary budget: 4/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'nonmobile'
+
+  -- note 73  (750) ---------------------------------------------------------
+    eustachian tube                    1 def(s)  [justplainclear]
+    obstructed                         1 def(s)  [wiktionary]
+    bone wax                           --  NO DEFINITION
+        split -> bone                       2 def(s)
+        split -> wax                        3 def(s)
+    coverage 0.6667   glossary budget: 7/16 entries
+
+  -- note 74  (752) ---------------------------------------------------------
+    supine                             4 def(s)  [iowa, michigan, readme]
+    coverage 1.0   glossary budget: 4/16 entries
+
+  -- note 75  (755) ---------------------------------------------------------
+    urinalysis                         5 def(s)  [justplainclear, michigan, nih, readme]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 76  (766) ---------------------------------------------------------
+    eyeglass prescription              --  NO DEFINITION
+        split -> eyeglass                   1 def(s)
+        split -> prescription               5 def(s)
+    did indicate                       --  NO DEFINITION
+        split -> did                        1 def(s)
+        split -> indicate                   4 def(s)
+    adequate                           4 def(s)  [justplainclear, michigan, thesaurus, wiktionary]
+    coverage 0.3333   glossary budget: 15/16 entries
+
+  -- note 77  (771) ---------------------------------------------------------
+    occult blood                       --  NO DEFINITION
+        split -> occult                     4 def(s)
+        split -> blood                      7 def(s)
+    colonoscopy                        5 def(s)  [justplainclear, michigan, nih, readme]
+    stools                             3 def(s)  [readme, wiktionary]
+    coverage 0.6667   glossary budget: 16/16 entries
+
+  -- note 78  (783) ---------------------------------------------------------
+    copiously irrigated                --  NO DEFINITION
+        split -> copiously                  1 def(s)
+        split -> irrigated                  1 def(s)
+    suction dried                      --  NO DEFINITION
+        split -> suction                    3 def(s)
+        split -> dried                      1 def(s)
+    coverage 0.0   glossary budget: 6/16 entries
+
+  -- note 79  (784) ---------------------------------------------------------
+    frequency                          3 def(s)  [readme, wiktionary]
+    hesitancy                          2 def(s)  [readme]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 80  (789) ---------------------------------------------------------
+    retrosternal area                  --  NO DEFINITION
+    Cardiovascular                     6 def(s)  [justplainclear, michigan, nih, readme, thesaurus]
+    anginal pain                       --  NO DEFINITION
+        split -> pain                       3 def(s)
+    coverage 0.3333   glossary budget: 9/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'retrosternal area'
+
+  -- note 81  (790) ---------------------------------------------------------
+    synovial pouch                     --  NO DEFINITION
+        split -> synovial                   2 def(s)
+        split -> pouch                      2 def(s)
+    synovium                           1 def(s)  [readme]
+    excised                            1 def(s)  [wiktionary]
+    coverage 0.6667   glossary budget: 6/16 entries
+
+  -- note 82  (801) ---------------------------------------------------------
+    inflammatory process               1 def(s)  [readme]
+    ischemia                           5 def(s)  [iowa, michigan, nih, readme]
+    coverage 1.0   glossary budget: 6/16 entries
+
+  -- note 83  (804) ---------------------------------------------------------
+    prednisone                         3 def(s)  [nih, readme]
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 84  (844) ---------------------------------------------------------
+    neuropathic                        2 def(s)  [readme]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 85  (852) ---------------------------------------------------------
+    prophylactic                       6 def(s)  [justplainclear, nih, readme, wiktionary]
+    antibiotics                        2 def(s)  [readme, wiktionary]
+    coverage 1.0   glossary budget: 8/16 entries
+
+  -- note 86  (854) ---------------------------------------------------------
+    Chronic hypokalemia                --  NO DEFINITION
+        split -> Chronic                    9 def(s)
+        split -> hypokalemia                4 def(s)
+    chronic diarrhea                   --  NO DEFINITION
+        split -> chronic                    9 def(s)
+        split -> diarrhea                   6 def(s)
+    secondary to                       --  NO DEFINITION
+        split -> secondary                  2 def(s)
+        split -> to                         2 def(s)
+    coverage 0.0   glossary budget: 16/16 entries
+
+  -- note 87  (859) ---------------------------------------------------------
+    hepatosplenomegaly                 --  NO DEFINITION
+    tenderness                         4 def(s)  [readme, wiktionary]
+    coverage 0.5   glossary budget: 4/16 entries
+    [orphan] 1 term(s) have NO entry about them in the prompt: 'hepatosplenomegaly'
+
+  -- note 88  (881) ---------------------------------------------------------
+    experience                         3 def(s)  [thesaurus, wiktionary]
+    anterior                           5 def(s)  [michigan, nih, readme, wiktionary]
+    coverage 1.0   glossary budget: 8/16 entries
+
+  -- note 89  (891) ---------------------------------------------------------
+    atrial fibrillation                3 def(s)  [justplainclear, readme]
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 90  (900) ---------------------------------------------------------
+    good historian                     --  NO DEFINITION
+        split -> good                       2 def(s)
+        split -> historian                  1 def(s)
+    seemingly                          1 def(s)  [dictionary]
+    coverage 0.5   glossary budget: 4/16 entries
+
+  -- note 91  (933) ---------------------------------------------------------
+    active Crohn 's disease            --  NO DEFINITION
+        split -> active                     5 def(s)
+        split -> s disease                  2 def(s)
+    colonoscopy                        5 def(s)  [justplainclear, michigan, nih, readme]
+    coverage 0.5   glossary budget: 12/16 entries
+
+  -- note 92  (935) ---------------------------------------------------------
+    respiratory distress               2 def(s)  [readme]
+    mounting exhaustion                --  NO DEFINITION
+        split -> mounting                   1 def(s)
+        split -> exhaustion                 2 def(s)
+    coverage 0.5   glossary budget: 5/16 entries
+
+  -- note 93  (968) ---------------------------------------------------------
+    pacemaker implantation             --  NO DEFINITION
+        split -> pacemaker                  4 def(s)
+        split -> implantation               2 def(s)
+    referred                           2 def(s)  [readme, wiktionary]
+    coverage 0.5   glossary budget: 8/16 entries
+
+  -- note 94  (116) ---------------------------------------------------------
+    cath site                          --  NO DEFINITION
+        split -> site                       2 def(s)
+    hematoma                           4 def(s)  [iowa, justplainclear, michigan, nih]
+    coverage 0.5   glossary budget: 6/16 entries
+
+  -- note 95  (592) ---------------------------------------------------------
+    necrotic tissue                    --  NO DEFINITION
+        split -> necrotic                   2 def(s)
+        split -> tissue                     6 def(s)
+    coverage 0.0   glossary budget: 8/16 entries
+
+  -- note 96  (249) ---------------------------------------------------------
+    hemostatic                         2 def(s)  [readme]
+    coverage 1.0   glossary budget: 2/16 entries
+
+  -- note 97  (701) ---------------------------------------------------------
+    lavaged                            1 def(s)  [readme]
+    saline                             4 def(s)  [nih, readme, wiktionary]
+    coverage 1.0   glossary budget: 5/16 entries
+
+  -- note 98  (826) ---------------------------------------------------------
+    inability to ambulate              --  NO DEFINITION
+        split -> inability                  2 def(s)
+        split -> to                         2 def(s)
+        split -> ambulate                   4 def(s)
+    coverage 0.0   glossary budget: 8/16 entries
+
+  -- note 99  (751) ---------------------------------------------------------
+    hernia                             3 def(s)  [justplainclear, nih, readme]
+    coverage 1.0   glossary budget: 3/16 entries
+
+  -- note 100  (496) --------------------------------------------------------
+    unremarkable                       1 def(s)  [wiktionary]
+    coverage 1.0   glossary budget: 1/16 entries

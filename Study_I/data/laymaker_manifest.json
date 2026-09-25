@@ -1,0 +1,49 @@
+{
+  "built": "2026-08-12",
+  "output": "laymaker_grade3_plain.json",
+  "output_sha256": "d9cfebc393956d9b284bcf27079c0dc805eadfb60d6646f1f5a0a48e96d0bc94",
+  "n_rows": 100,
+  "n_unique_inputs": 100,
+  "archived_input": "data\\archive\\laymaker_grade3_plain_93unique.json",
+  "deduplicated_pairs": [
+    {
+      "dropped": 704,
+      "kept": 277
+    },
+    {
+      "dropped": 713,
+      "kept": 290
+    },
+    {
+      "dropped": 720,
+      "kept": 296
+    },
+    {
+      "dropped": 731,
+      "kept": 307
+    },
+    {
+      "dropped": 749,
+      "kept": 358
+    },
+    {
+      "dropped": 418,
+      "kept": 762
+    },
+    {
+      "dropped": 770,
+      "kept": 439
+    }
+  ],
+  "added_from_pool": [
+    116,
+    592,
+    249,
+    701,
+    826,
+    751,
+    496
+  ],
+  "pool": "laymaker.json",
+  "constraints": "grade == 3, fully_plain, complete reference, unique ID and unique input text"
+}

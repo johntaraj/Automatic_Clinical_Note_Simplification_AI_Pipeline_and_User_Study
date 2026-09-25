@@ -1,0 +1,2942 @@
+[
+  {
+    "ID": 8,
+    "ORIGINAL": "He became anhedonic and disinterested in social activities , and had difficulty sleeping for frequent waking and restlessness .",
+    "REFERENCE": "He became unable to feel pleasure and disinterested in social activities , and had difficulty sleeping for frequent waking and restlessness .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 13,
+    "ORIGINAL": "A long discussion was carried out with Dr. X and myself , and we decided to proceed with exploration of the brachial artery .",
+    "REFERENCE": "A long discussion was carried out with Dr. X and myself , and we decided to proceed with looking at the brachial artery .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 16,
+    "ORIGINAL": "We irrigated thoroughly .",
+    "REFERENCE": "We washed out thoroughly .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 17,
+    "ORIGINAL": "She is not requiring oxygen .",
+    "REFERENCE": "She is not needing oxygen .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 18,
+    "ORIGINAL": "Myocardial infarction can not be excluded .",
+    "REFERENCE": "Heart attack can not be excluded .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 21,
+    "ORIGINAL": "There was marked hematoma and swelling within the subdeltoid bursa .",
+    "REFERENCE": "There was obvious collection of blood and swelling within the side of the shoulder .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 22,
+    "ORIGINAL": "CRANIAL NERVES : II : Visual fields full to confrontation .",
+    "REFERENCE": "CRANIAL NERVES : II : Visual fields ok.",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 26,
+    "ORIGINAL": "Smoking history , hypertension , and hyperlipidemia .",
+    "REFERENCE": "Smoking history , high blood pressure , and high fat in the blood .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 27,
+    "ORIGINAL": "I doubt whether the patient has Behcet disease given the absence of oral or genital ulcers .",
+    "REFERENCE": "I doubt whether the patient has Behcet disease given the absence of mouth or genital ulcers .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 28,
+    "ORIGINAL": "ABDOMEN : Soft , nontender with the exception of mild-to-moderate tenderness in the bilateral lower pelvic quadrants .",
+    "REFERENCE": "ABDOMEN : Soft , nontender with the exception of mild-to-moderate tenderness in both sides of the lower pelvis .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 29,
+    "ORIGINAL": "HISTORY OF PRESENT ILLNESS : The patient is a 51-year-old Caucasian female with past medical history of morbid obesity and chronic lower extremity lymphedema .",
+    "REFERENCE": "HISTORY OF PRESENT ILLNESS : The patient is a 51-year-old Caucasian female with past medical history of morbid obesity and chronic lower leg swelling .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 31,
+    "ORIGINAL": "She did complain of bladder spasms when she urinated and she did say that she has a history of chronic UTIs .",
+    "REFERENCE": "She did complain of bladder spasms when she urinated and she did say that she has a history of chronic urinary tract infections",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 32,
+    "ORIGINAL": "There was no instability of the knee and no effusion .",
+    "REFERENCE": "There was no instability of the knee and no fluid collection .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 35,
+    "ORIGINAL": "Deep venous thrombosis prophylaxis .",
+    "REFERENCE": "Deep venous thrombosis prevention.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 42,
+    "ORIGINAL": "GEN EXAM : No rashes .",
+    "REFERENCE": "GENeral EXAM : No rashes .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 44,
+    "ORIGINAL": "Film was reviewed .",
+    "REFERENCE": "Film was looked at",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 51,
+    "ORIGINAL": "CARDIOVASCULAR : Hypercholesterolemia .",
+    "REFERENCE": "CARDIOVASCULAR : high cholesterol in the blood .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 61,
+    "ORIGINAL": "FAMILY HISTORY : Patient admits a family history of cancer of breast associated with mother .",
+    "REFERENCE": "FAMILY HISTORY : Patient admits a family history of breast cancer with mother .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 62,
+    "ORIGINAL": "The differential diagnosis includes paralytic ileus and mechanical obstruction .",
+    "REFERENCE": "The differential diagnosis includes paralysis of the intestine and mechanical blockage",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 63,
+    "ORIGINAL": "REASON FOR VISIT : Followup of laparoscopic fundoplication and gastrostomy .",
+    "REFERENCE": "REASON FOR VISIT : Followup of key hole surgery to change shape and size of the stomach",
+    "grade": 1,
+    "fully_plain": false
+  },
+  {
+    "ID": 64,
+    "ORIGINAL": "Two days later , the pain resolved and she has not had a recurrence .",
+    "REFERENCE": "Two days later , the pain got better and she has not had a recurrence .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 71,
+    "ORIGINAL": "He then had a tracheostomy placed .",
+    "REFERENCE": "He then had a breathing tube placed .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 74,
+    "ORIGINAL": "Followed simple commands on occasion .",
+    "REFERENCE": "Followed simple commands sometimes",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 75,
+    "ORIGINAL": "He does not have any siblings for a match-related transplant .",
+    "REFERENCE": "He does not have any bothers or sisters for a match-related transplant .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 76,
+    "ORIGINAL": "PAST MEDICAL HISTORY : Significant for hypertension and hyperlipidemia .",
+    "REFERENCE": "PAST MEDICAL HISTORY : Significant for high blood pressure and high fat in the blood.",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 78,
+    "ORIGINAL": "There are clearly nonobstructive .",
+    "REFERENCE": "There are clearly not blocking",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 81,
+    "ORIGINAL": "Description : Fever , otitis media , and possible sepsis .",
+    "REFERENCE": "Description : Fever , ear infection , and possible general infection .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 86,
+    "ORIGINAL": "Genital : Penis normal shape without lesions .",
+    "REFERENCE": "Genital : Penis normal shape without damage.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 87,
+    "ORIGINAL": "This a. m. , he continued to be aggressive and required administration of four-point soft restraints in addition to Haldol 1 mg intramuscularly .",
+    "REFERENCE": "This a. m. , he continued to be aggressive and needed four-point soft restraints in addition to Haldol 1 mg intramuscularly .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 88,
+    "ORIGINAL": "The patient has an AV fistula that was placed in late 2006 .",
+    "REFERENCE": "The patient has arterio-venous fistula that was placed in late 2006 .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 89,
+    "ORIGINAL": "6 , systolic is 110/60 with MAP of 80 , and heart rate is 120 , sinus rhythm .",
+    "REFERENCE": "6 , systolic is 110/60 with mean arterial pressure of 80 , and heart rate is 120 , sinus rhythm .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 91,
+    "ORIGINAL": "He has some mild vesicular breath sounds in the left .",
+    "REFERENCE": "He has some mild low-pitched breath sounds in the left .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 92,
+    "ORIGINAL": "PREOPERATIVE DIAGNOSIS : Dysphagia .",
+    "REFERENCE": "PREOPERATIVE DIAGNOSIS : difficulty swallowing food.",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 94,
+    "ORIGINAL": "REVIEW OF SYSTEMS : As mentioned denies any oropharyngeal swelling .",
+    "REFERENCE": "REVIEW OF SYSTEMS : As mentioned denies any mouth or throat swelling .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 95,
+    "ORIGINAL": "PROCEDURE PERFORMED : Right shoulder hemiarthroplasty .",
+    "REFERENCE": "PROCEDURE PERFORMED : Right shoulder keyhole surgery to look inside the shoulder .",
+    "grade": 1,
+    "fully_plain": false
+  },
+  {
+    "ID": 98,
+    "ORIGINAL": "Pupils are reactive to accommodation .",
+    "REFERENCE": "Pupils are reactive to near and distant vision .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 99,
+    "ORIGINAL": "CBC and BMP were normal and cardiac enzymes were negative x1 .",
+    "REFERENCE": "Complete blood count and basal metabolic panel were normal and cardiac enzymes were negative x1 .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 101,
+    "ORIGINAL": "Currently , primary complaint is one of fatigue that she feels throughout the day .",
+    "REFERENCE": "Currently , primary complaint is one of feeling tired that she feels throughout the day .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 102,
+    "ORIGINAL": "Upper respiratory tract infection , persistent .",
+    "REFERENCE": "Upper chest infection that keeps going.",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 108,
+    "ORIGINAL": "He has noted some stool irregularity with occasional loose stools and new onset of pain predominantly in left neck .",
+    "REFERENCE": "He has noted some poop irregularity with occasional loose poop and new onset of pain predominantly in left neck .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 116,
+    "ORIGINAL": "There was some hematoma at the cath site .",
+    "REFERENCE": "There was some swelling due to collection of blood at the catheter site .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 122,
+    "ORIGINAL": "History : This 78y/o RHM was referred for an episode of unusual behavior and RUE numbness .",
+    "REFERENCE": "History : This 78y/o relatively healthy male was referred for an episode of unusual behavior and right upper extremity numbness .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 124,
+    "ORIGINAL": "Speech , no aphasia , no dysarthria .",
+    "REFERENCE": "Speech , no loss of understanding ,or loss of speech .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 127,
+    "ORIGINAL": "One day ago , mom also noticed a tactile temperature and gave the patient Tylenol .",
+    "REFERENCE": "One day ago , mom also noticed a high temperature on touch and gave the patient Tylenol .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 131,
+    "ORIGINAL": "PROCEDURE : The patient was taken to the operating room and placed on the table in the supine position .",
+    "REFERENCE": "PROCEDURE : The patient was taken to the operating room and placed lying flat on the back .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 135,
+    "ORIGINAL": "Serous otitis .",
+    "REFERENCE": "Ear inflammation with pus",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 143,
+    "ORIGINAL": "Description : The patient presents for a followup for history of erythema nodosum .",
+    "REFERENCE": "Description : The patient presents for a followup for history of red, painful tender lumps around fatty areas .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 144,
+    "ORIGINAL": "She was iron deficient last year , and with her multiple surgeries and poor p. o. intake , may have become iron deficient again .",
+    "REFERENCE": "She was iron deficient last year , and with her multiple surgeries and poor food and fluid intake , may have become iron deficient again .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 148,
+    "ORIGINAL": "Gait : The patient has a spastic and slightly broad based gait .",
+    "REFERENCE": "Gait : The patient has a spastic and slightly broad walking style",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 149,
+    "ORIGINAL": "Hospital Course : The patient was admitted to the hospital to begin workup of liver failure .",
+    "REFERENCE": "Hospital Course : The patient was admitted to the hospital to begin investigation of liver failure .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 150,
+    "ORIGINAL": "We will schedule him for the Holter monitor and refer him back to his cardiologist .",
+    "REFERENCE": "We will schedule him for the continuous heart monitor and refer him back to his cardiologist .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 154,
+    "ORIGINAL": "Ears : No tinnitus or vertigo .",
+    "REFERENCE": "Ears : No ringing in the ears or vertigo .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 155,
+    "ORIGINAL": "It usually occurs from the 20th week of pregnancy to 7 days postpartum .",
+    "REFERENCE": "It usually occurs from the 20th week of pregnancy to 7 days giving birth.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 161,
+    "ORIGINAL": "The patient wished to proceed with operative intervention .",
+    "REFERENCE": "The patient wished to proceed with an operation",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 165,
+    "ORIGINAL": "There is some evidence of ideomotor apraxia .",
+    "REFERENCE": "There is some evidence of inability to repeat motion task .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 169,
+    "ORIGINAL": "No problems with her bowels or bladder .",
+    "REFERENCE": "Mouth cavity was clear",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 175,
+    "ORIGINAL": "Evaluation of chest pain .",
+    "REFERENCE": "Investigation for chest pain .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 176,
+    "ORIGINAL": "Rapid alternating movements are slightly off bilaterally .",
+    "REFERENCE": "Rapid alternating movements are slightly off between the 2 sides",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 178,
+    "ORIGINAL": "A KUB was obtained showing an abnormal bowel gas pattern .",
+    "REFERENCE": "An x-ray of the kidney, ureter and bladder was obtained showing an abnormal bowel gas pattern .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 179,
+    "ORIGINAL": "The patient has equal and strong distal and proximal muscle group strength in all four extremities .",
+    "REFERENCE": "The patient has equal and strong distal and proximal muscle group strength in all four arms and legs",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 185,
+    "ORIGINAL": "She has been sedated with Ativan and came into the emergency room obtunded and unable to give any history .",
+    "REFERENCE": "She has been sedated with Ativan and came into the emergency room very drowsy and unable to give any history .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 187,
+    "ORIGINAL": "ABDOMEN : Soft , nontender , nondistended .",
+    "REFERENCE": "ABDOMEN : Soft , nontender , non swollen",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 188,
+    "ORIGINAL": "POSTOPERATIVE DIAGNOSES : Moderate stenosis of aortic valve replacement .",
+    "REFERENCE": "POSTOPERATIVE DIAGNOSES : Moderate narrowing of aortic valve replacement .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 191,
+    "ORIGINAL": "The area was then copiously irrigated with gentamicin solution .",
+    "REFERENCE": "The area was then irrigated with lots of gentamicin solution .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 199,
+    "ORIGINAL": "Description : Laparoscopic cholecystectomy with cholangiogram .",
+    "REFERENCE": "Description : Laparoscopic removal of the gall bladder with gall bladder scan",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 202,
+    "ORIGINAL": "He has no edema now , but has had some mild leg swelling in the past .",
+    "REFERENCE": "He has no swelling now , but has had some mild leg swelling in the past .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 204,
+    "ORIGINAL": "He has no respiratory or cardiovascular complaints .",
+    "REFERENCE": "He has no respiratory or cardiovascular problems",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 205,
+    "ORIGINAL": "Description : Patient presented to the bariatric surgery service for consideration of laparoscopic roux en Y gastric bypass surgery .",
+    "REFERENCE": "Description : Patient presented to the bariatric surgery service for consideration of laparoscopic stomach bypass surgery .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 206,
+    "ORIGINAL": "Cardiovascular : No exertional chest pain , orthopnea , PND , or pedal edema .",
+    "REFERENCE": "Cardiovascular : No chest pain on exertion , shortness of breath when lying flat , PND , or foot swelling .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 209,
+    "ORIGINAL": "A very mild , purely sensory length-dependent peripheral neuropathy .",
+    "REFERENCE": "A very mild , purely sensory length-dependent peripheral nerve condition",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 213,
+    "ORIGINAL": "POSTOPERATIVE DIAGNOSIS : Left hemothorax .",
+    "REFERENCE": "POSTOPERATIVE DIAGNOSIS : Left blood collection around the lung",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 214,
+    "ORIGINAL": "IMPRESSION : Q-fever endocarditis .",
+    "REFERENCE": "IMPRESSION : Q-fever inflammation around the heart",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 218,
+    "ORIGINAL": "TRACHEA : There is mild chronic inflammation in the submucosa of the trachea .",
+    "REFERENCE": "TRACHEA : There is mild chronic inflammation in the submucosa of the breathing pipe .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 229,
+    "ORIGINAL": "Probably there is some restrictive element because of fibrosis .",
+    "REFERENCE": "Probably there is some restrictive element because of thick connective tissue .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 231,
+    "ORIGINAL": "Mild secondary hyperparathyroidism .",
+    "REFERENCE": "Mild secondary hyperactive parathyroid gland",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 248,
+    "ORIGINAL": "Otherwise , a complete review of systems was obtained and was negative except for as mentioned above .",
+    "REFERENCE": "Otherwise , a complete review of systems was obtained and was normal except for as mentioned above .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 249,
+    "ORIGINAL": "Pressure was held and the area was hemostatic .",
+    "REFERENCE": "Pressure was held and the area stopped bleeding .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 253,
+    "ORIGINAL": "Intrauterine pregnancy at term with previous cesarean section .",
+    "REFERENCE": "Normal pregnancy at term with previous cesarean section .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 257,
+    "ORIGINAL": "Obstructive sleep apnea syndrome , supine position dependent , moderate ( 780 .",
+    "REFERENCE": "Blocked breathing during sleep , supine position dependent , moderate ( 780 .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 263,
+    "ORIGINAL": "Depressive disorder , not otherwise specified .",
+    "REFERENCE": "Depressive disorder , cause not known",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 267,
+    "ORIGINAL": "No masses or polyps were noted .",
+    "REFERENCE": "No lumps or polyps were noted .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 271,
+    "ORIGINAL": "STATION/GAIT/COORD : Unremarkable .",
+    "REFERENCE": "Walking/standing : Normal",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 273,
+    "ORIGINAL": "The area was lavaged with some saline and cleared .",
+    "REFERENCE": "The area was washed with some sterile water and cleared .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 277,
+    "ORIGINAL": "Symptoms are worse when sitting for any length of time , such as driving a motor vehicle .",
+    "REFERENCE": "Symptoms are worse when sitting for any length of time , such as driving a car .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 285,
+    "ORIGINAL": "She had had recent difficulty rolling over in bed and has occasional falls when turning .",
+    "REFERENCE": "She had had recent problems rolling over in bed and has occasional falls when turning .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 286,
+    "ORIGINAL": "The patient to take small bite and small sips to help decrease the risk of aspiration and penetration .",
+    "REFERENCE": "The patient to take small bite and small sips to help decrease the risk of choking",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 287,
+    "ORIGINAL": "The labia are dry .",
+    "REFERENCE": "The skin folds are dry .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 290,
+    "ORIGINAL": "Forearm , elbow and shoulder exams reveal no neurologic compromise .",
+    "REFERENCE": "Forearm , elbow and shoulder exams reveal no nerve problems",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 291,
+    "ORIGINAL": "Risk and complications of bleeding , infection , alteration of with speech or swallowing , failure to improve her airway , and loss of voice .",
+    "REFERENCE": "Risk and complications of bleeding , infection , alteration of with speech or swallowing , failure to improve her breathing, and loss of voice .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 293,
+    "ORIGINAL": "EXTREMITIES : No edema .",
+    "REFERENCE": "EXTREMITIES : No swelling .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 296,
+    "ORIGINAL": "Thereafter , the local anesthesia was injected into the area around the tumor .",
+    "REFERENCE": "Thereafter , the numbing agent was injected into the area around the tumor .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 297,
+    "ORIGINAL": "PHYSICAL EXAMINATION : GENERAL : The patient was asleep , but easily aroused .",
+    "REFERENCE": "PHYSICAL EXAMINATION : GENERAL : The patient was asleep , but easily woken .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 303,
+    "ORIGINAL": "Description : An example/template for a routine normal male ROS .",
+    "REFERENCE": "Description : An example/template for a routine normal male review of systems",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 304,
+    "ORIGINAL": "At this time , he has been admitted for anemia with hemoglobin of 7 .",
+    "REFERENCE": "At this time , he has been admitted for low hemoglobin with hemoglobin of 7 .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 307,
+    "ORIGINAL": "There is no numbness or paresthesias in the hand or arm .",
+    "REFERENCE": "There is no numbness or abnormal sensation in the hand or arm .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 317,
+    "ORIGINAL": "Knee abrasions .",
+    "REFERENCE": "Knee cuts",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 319,
+    "ORIGINAL": "FAMILY HISTORY : Both parents died with myocardial infarctions .",
+    "REFERENCE": "FAMILY HISTORY : Both parents died with heart attacks",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 320,
+    "ORIGINAL": "Extremities : 2+ bilateral pitting edema to the level of the knees .",
+    "REFERENCE": "Legs : 2+fluid based swelling both sides to the level of the knees .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 322,
+    "ORIGINAL": "The chest x-ray , reviewed by myself in the emergency room , showed no significant change from previous x-ray , but the patient does has some bronchial wall thickening .",
+    "REFERENCE": "The chest x-ray , reviewed by myself in the emergency room , showed no significant change from previous x-ray , but the patient does has some breathing pipe thickening .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 324,
+    "ORIGINAL": "Ambien 5 mg p. o. at bedtime .",
+    "REFERENCE": "Ambien 5 mg orally. at bedtime .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 329,
+    "ORIGINAL": "Gait and station testing were unremarkable .",
+    "REFERENCE": "Walking and standing testing were normal",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 334,
+    "ORIGINAL": "He reports that he has had constipation alternating with diarrhea , although there has been no loss of control of either his bowel or bladder .",
+    "REFERENCE": "He reports that he has had constipation alternating with watery poop , although there has been no loss of control of either his poop or peeing .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 339,
+    "ORIGINAL": "Tourniquet was released .",
+    "REFERENCE": "Compressing band was released .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 340,
+    "ORIGINAL": "Anterior abdominal wall hernia with mesenteric fat-containing stranding , suggestive of incarcerated fat .",
+    "REFERENCE": "Front abdominal wall outpouching with internal fat-containing stranding , suggestive of closed off fat .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 342,
+    "ORIGINAL": "BRIEF HISTORY : This is a 66-year-old Caucasian female who presented to ABCD General Hospital for an elective cholecystectomy .",
+    "REFERENCE": "BRIEF HISTORY : This is a 66-year-old Caucasian female who presented to ABCD General Hospital for an planned removal of the gall bladder .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 346,
+    "ORIGINAL": "Joint effusion and plica .",
+    "REFERENCE": "Joint fluid and membrane .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 351,
+    "ORIGINAL": "ASA monitors were attached as stated .",
+    "REFERENCE": "American Society of Anesthesiology monitors were attached as stated .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 357,
+    "ORIGINAL": "I do not think she has an obvious current abscessed lesion , although there is some drainage .",
+    "REFERENCE": "I do not think she has an obvious current collection of pus , although there is some drainage .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 358,
+    "ORIGINAL": "At this time , we would rehydrate with intravenous fluids and reassess .",
+    "REFERENCE": "At this time , we would rehydrate with fluids through the vein and reassess .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 359,
+    "ORIGINAL": "The eustachian tube was obstructed with bone wax .",
+    "REFERENCE": "The hearing tube was obstructed with bone wax .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 361,
+    "ORIGINAL": "DISCHARGE MEDICATIONS : A 2-week supply of the following was phoned into the patient 's pharmacy : Seroquel 25 mg p. o. nightly .",
+    "REFERENCE": "DISCHARGE MEDICATIONS : A 2-week supply of the following was phoned into the patient 's pharmacy : Seroquel 25 mg orally nightly .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 366,
+    "ORIGINAL": "Tissue cultures ( bacterial , fungal , AFB ) were negative times 3 .",
+    "REFERENCE": "Tissue cultures ( bacterial , fungal , AFB ) were all negative",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 371,
+    "ORIGINAL": "Conjunctiva and sclera are clear and benign .",
+    "REFERENCE": "Conjunctiva and sclera are clear and stable",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 376,
+    "ORIGINAL": "The patient regained bowel function .",
+    "REFERENCE": "The patient regained the ability to go to the toilet and pass poop",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 378,
+    "ORIGINAL": "Metastatic adenocarcinoma , left obturator lymph node ; see description .",
+    "REFERENCE": "Spreading cancer , left obturator lymph node ; see description .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 380,
+    "ORIGINAL": "Findings are compatible with acute appendicitis .",
+    "REFERENCE": "Findings are compatible with acute inflammation of the appendix",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 381,
+    "ORIGINAL": "He comes in for an urgent visit because of increasing questions about what to do next for his anaplastic astrocytoma .",
+    "REFERENCE": "He comes in for an urgent visit because of increasing questions about what to do next for his rare brain tumor .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 382,
+    "ORIGINAL": "A urinalysis was not performed this time .",
+    "REFERENCE": "A pee analysis was not performed this time .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 383,
+    "ORIGINAL": "Father has an unspecified heart problem and diabetes .",
+    "REFERENCE": "Father has an unknown heart problem and diabetes .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 384,
+    "ORIGINAL": "There has been some suggestion that the second injury of 03/29/1997 was actually a flare-up or exacerbation of his old injury of 06/29/1994 .",
+    "REFERENCE": "There has been some suggestion that the second injury of 03/29/1997 was actually a flare-up or because of his old injury of 06/29/1994 .",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 386,
+    "ORIGINAL": "No hepatosplenomegaly .",
+    "REFERENCE": "No enlarged spleen or liver",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 391,
+    "ORIGINAL": "She denies weight loss , but acknowledged decreased appetite and increased generalized fatigue for the past 3-4 months .",
+    "REFERENCE": "She denies weight loss , but acknowledged reduced appetite and more generalized tiredness for the past 3-4 months .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 392,
+    "ORIGINAL": "Consideration given to completion thyroidectomy .",
+    "REFERENCE": "Consideration given to remove remaining parts of the thyroid",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 394,
+    "ORIGINAL": "She notes that she had epistaxis a few days ago , requiring nasal packing and fortunately that had resolved now .",
+    "REFERENCE": "She notes that she had a nose bleed a few days ago , requiring nose packing and fortunately that had resolved now .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 396,
+    "ORIGINAL": "I also explained to the patient about conscious sedation .",
+    "REFERENCE": "I also explained to the patient about awake sedation .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 401,
+    "ORIGINAL": "Successful DC cardioversion of atrial fibrillation .",
+    "REFERENCE": "Successful direct current cardioversion of atrial fibrillation .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 403,
+    "ORIGINAL": "HISTORY OF PRESENT ILLNESS : The patient is a 53-year-old right-handed gentleman who presents to the clinic for further evaluation of diplopia .",
+    "REFERENCE": "HISTORY OF PRESENT ILLNESS : The patient is a 53-year-old right-handed gentleman who presents to the clinic for further evaluation of double vision .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 404,
+    "ORIGINAL": "The right lower extremity was then sterilely prepped and draped in the usual fashion .",
+    "REFERENCE": "The right lower legs was then sterilely prepped and draped in the usual fashion .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 405,
+    "ORIGINAL": "No hemorrhage is identified .",
+    "REFERENCE": "No bleeding is identified .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 409,
+    "ORIGINAL": "History of urinary incontinence .",
+    "REFERENCE": "History of uncontrolled peeing.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 410,
+    "ORIGINAL": "Hearing is grossly intact and normal .",
+    "REFERENCE": "Hearing is normal .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 416,
+    "ORIGINAL": "NEUROLOGIC : Negative .",
+    "REFERENCE": "Nerves : Normal",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 417,
+    "ORIGINAL": "On the night of presentation , the patient was found by a cousin in his bathroom lethargic and disoriented .",
+    "REFERENCE": "On the night of presentation , the patient was found by a cousin in his bathroom sleepy and disoriented .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 418,
+    "ORIGINAL": "Palpation of her right knee reveals no crepitus .",
+    "REFERENCE": "Palpation of her right knee reveals no crunchy feeling .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 419,
+    "ORIGINAL": "Description : Patient with a diagnosis of pancreatitis , developed hypotension and possible sepsis and respiratory , as well as renal failure .",
+    "REFERENCE": "Description : Patient with a diagnosis of pancreatitis , developed low blood pressure and possible generalized severe infection and breathing , as well as kidney failure .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 420,
+    "ORIGINAL": "The patient will report 60 % improvement or greater in functional transfers in general ADL activity .",
+    "REFERENCE": "The patient will report 60 % improvement or greater in functional transfers in general activity of daily living activity .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 423,
+    "ORIGINAL": "Left lower quadrant abscess drainage in 12/07FAMILY MEDICAL HISTORY : Significant for lung and brain cancer .",
+    "REFERENCE": "Left lower quadrant collection of pus drainage in 12/07FAMILY MEDICAL HISTORY : Significant for lung and brain cancer .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 427,
+    "ORIGINAL": "She stepped on ideas , concerns and expectations the evening prior and twisted her ankle .",
+    "REFERENCE": "She stepped on ice the evening prior and twisted her ankle .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 429,
+    "ORIGINAL": "Posterior pressure like headache , also appears to be improving .",
+    "REFERENCE": "Back pressure like headache , also appears to be improving .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 439,
+    "ORIGINAL": "Modifying Factors : Patient 's condition is aggravated by throwing .",
+    "REFERENCE": "Modifying Factors : Patient 's condition is made worse by throwing .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 441,
+    "ORIGINAL": "Sample Name : Abscess Excision",
+    "REFERENCE": "Sample Name : collection of pus removal",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 443,
+    "ORIGINAL": "The MRI of the brain shows that one of the prior lesions has resolved and there appear to be one or two more lesions .",
+    "REFERENCE": "The MRI of the brain shows that one of the prior mass has got better and there appear to be one or two more areas of damage .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 444,
+    "ORIGINAL": "PHYSICAL EXAMINATION : Examination of ears reveals retracted poorly mobile tympanic membranes on the right side with a middle ear effusion present .",
+    "REFERENCE": "PHYSICAL EXAMINATION : Examination of ears reveals retracted poorly mobile ear drums on the right side with a middle ear fluid present .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 447,
+    "ORIGINAL": "There was minimal associated edema and no mass effect .",
+    "REFERENCE": "There was minimal associated swelling and no mass effect .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 451,
+    "ORIGINAL": "History of osteoarthritis , osteoporosis , hypothyroidism , allergic rhinitis and kidney stones .",
+    "REFERENCE": "History of joint inflammation , bone degeneration, underactive thyroid , hay fever and kidney stones .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 458,
+    "ORIGINAL": "She says she knows when she has to void .",
+    "REFERENCE": "She says she knows when she has to poop",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 459,
+    "ORIGINAL": "MUSCULOSKELETAL : Extremities are normal with good motor tone and strength , normal reflexes , and normal joint strength and sensation .",
+    "REFERENCE": "MUSCULOSKELETAL : arms and legs are normal with good motor tone and strength , normal reflexes , and normal joint strength and sensation .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 460,
+    "ORIGINAL": "IMPRESSION : Normal upper gastrointestinal tract endoscopy without any evidence of anatomical narrowing .",
+    "REFERENCE": "IMPRESSION : Normal upper food pipe endoscopy without any evidence of narrowing .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 465,
+    "ORIGINAL": "The ultrasound was negative for intracranial hemorrhage .",
+    "REFERENCE": "The ultrasound was negative for bleeding in the brain .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 466,
+    "ORIGINAL": "He is status post laparoscopic appendicectomy , and he is tolerating oral diet .",
+    "REFERENCE": "He is status after keyhole surgery to remove appendix , and he is tolerating oral diet .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 475,
+    "ORIGINAL": "His sclerae are anicteric .",
+    "REFERENCE": "His sclerae are non yellow .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 476,
+    "ORIGINAL": "ABDOMEN : Soft and nontender and shows the spleen palpable about 10 cm below the right costal margin .",
+    "REFERENCE": "ABDOMEN : Soft and nontender and shows the spleen palpable about 10 cm below the right edge of the ribs .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 478,
+    "ORIGINAL": "We believe that her walking is most likely not being affected by the hydrocephalus .",
+    "REFERENCE": "We believe that her walking is most likely not being affected by the excess fluid in the brain.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 481,
+    "ORIGINAL": "HEART : Regular with normal S1 and S2 .",
+    "REFERENCE": "HEART : Regular with normal sound 1 and sound 2",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 484,
+    "ORIGINAL": "Motor examination shows no drift of the outstretched arms .",
+    "REFERENCE": "Motor nerve examination shows no drift of the outstretched arms .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 487,
+    "ORIGINAL": "She is to be prescribed Ultram for a 7-day course p. r. n. use b. i. d. for the muscle sprain .",
+    "REFERENCE": "She is to be prescribed Ultram for a 7-day course when required. use twice daily for the muscle sprain .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 489,
+    "ORIGINAL": "INDICATION : Rectal bleeding .",
+    "REFERENCE": "INDICATION : Bleeding from back passage .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 491,
+    "ORIGINAL": "There is no ankle clonus .",
+    "REFERENCE": "There is no ankle stiffening.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 493,
+    "ORIGINAL": "The patient has urinary symptoms that include hesitancy and urgency .",
+    "REFERENCE": "The patient has urinary symptoms that include trouble starting to pee and suddenly starting.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 495,
+    "ORIGINAL": "He required temporary PEG placement for feeding .",
+    "REFERENCE": "He required temporary percutaneous endoscopic gastrostomy placement for feeding .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 496,
+    "ORIGINAL": "Other systems were reviewed and were found to be unremarkable .",
+    "REFERENCE": "Other systems were reviewed and were found to be normal.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 499,
+    "ORIGINAL": "At this time , I do not see any signs of abscesses , they are just indurations secondary to cellulitis .",
+    "REFERENCE": "At this time , I do not see any signs of collections of pus , they are just indurations secondary to skin inflammation (rash) .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 505,
+    "ORIGINAL": "She noted complaints of fatigue , lightheadedness , and severe dyspnea on exertion .",
+    "REFERENCE": "She noted complaints of tiredness , lightheadedness , and severe shortness of breath on doing anything physical .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 506,
+    "ORIGINAL": "There is no evidence of effusion or consolidation .",
+    "REFERENCE": "There is no evidence of fluid or thickening in the lung .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 508,
+    "ORIGINAL": "The pacemaker was noted to function appropriately .",
+    "REFERENCE": "The pacemaker was noted to function properly",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 511,
+    "ORIGINAL": "CHEST : Clear to auscultation bilaterally , no wheezes , rales , or rhonchi .",
+    "REFERENCE": "CHEST : Clear to listening bilaterally , no wheezes , rales , or rhonchi .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 516,
+    "ORIGINAL": "No significant amount of edema associated with these in the dorsum of the hand .",
+    "REFERENCE": "No significant amount of swelling associated with these in the back of the hand .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 517,
+    "ORIGINAL": "In my opinion , lymphedema wraps could be initiated .",
+    "REFERENCE": "In my opinion , fluid swelling wraps could be initiated .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 521,
+    "ORIGINAL": "Bowel and bladder function are reported as normal .",
+    "REFERENCE": "Pooping and peeing function are reported as normal .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 523,
+    "ORIGINAL": "No cardio or pulmonary complaints .",
+    "REFERENCE": "No heart or lung complaints .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 526,
+    "ORIGINAL": "ASSESSMENT AND RECOMMENDATIONS : In light of her history and physical , clearly the patient would be well served with an upper and lower endoscopy .",
+    "REFERENCE": "ASSESSMENT AND RECOMMENDATIONS : In light of her history and physical , clearly the patient would be well served with an upper and lower scope camera test .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 528,
+    "ORIGINAL": "FAMILY HISTORY : Father is deceased .",
+    "REFERENCE": "FAMILY HISTORY : Father is dead",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 534,
+    "ORIGINAL": "The patient was then hooked up to better irrigation .",
+    "REFERENCE": "The patient was then connected up to better irrigation .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 541,
+    "ORIGINAL": "She has a past ocular history including cataract extraction with lens implants in both eyes in 2001 and 2003 .",
+    "REFERENCE": "She has a past eye history including cataract extraction with lens implants in both eyes in 2001 and 2003 .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 549,
+    "ORIGINAL": "Decision to proceed with laparoscopic cystectomy was decided .",
+    "REFERENCE": "Decision to proceed with keyhole surgery removal of the gall bladder was decided .",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 551,
+    "ORIGINAL": "There was no CSF drainage .",
+    "REFERENCE": "There was no cerebro spinal fluid drainage .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 553,
+    "ORIGINAL": "At that time , the Coreg had been held secondary to hypotension .",
+    "REFERENCE": "At that time , the Coreg had been held because of low blood pressure",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 554,
+    "ORIGINAL": "Her diarrhea now has settled down and she is having less urinary incontinence , less pedal edema .",
+    "REFERENCE": "Her watery poop now has settled down and she is having less uncontrolled peeing , less foot swelling .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 555,
+    "ORIGINAL": "NECK : No lymphadenopathy .",
+    "REFERENCE": "NECK : No lymph node swelling .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 556,
+    "ORIGINAL": "Description : Nausea and abdominal pain after eating - Gall bladder disease - Laparoscopic cholecystectomy scheduled .",
+    "REFERENCE": "Description : Nausea and abdominal pain after eating - Gall bladder disease - keyhole surgery to remove the gall bladder scheduled .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 557,
+    "ORIGINAL": "The wound was irrigated with irrigant solution containing antibiotics .",
+    "REFERENCE": "The wound was washed with irrigant solution containing antibiotics .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 559,
+    "ORIGINAL": "He has been significantly hypotensive during his stay in the intensive care unit and has had minimal urine output .",
+    "REFERENCE": "He has been significantly low blood pressure during his stay in the intensive care unit and has had minimal urine output .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 563,
+    "ORIGINAL": "NEUROLOGIC : Cranial nerves II through XII are intact .",
+    "REFERENCE": "NEUROLOGIC : Cranial nerves II through XII are normal",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 566,
+    "ORIGINAL": "FOLLOWUP : We will follow up on both urinalysis and cultures .",
+    "REFERENCE": "FOLLOWUP : We will follow up on both analysis of pee and cultures .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 567,
+    "ORIGINAL": "No axillary nodes are palpable .",
+    "REFERENCE": "No axillary nodes could be felt",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 575,
+    "ORIGINAL": "His evaluation today continues to reveal restriction of range of motion of the cervical and lumbar region with tenderness and spasm in the paraspinal musculature .",
+    "REFERENCE": "His evaluation today continues to reveal restriction of range of motion of the upper and lower back region with tenderness and spasm in the side of the spine",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 579,
+    "ORIGINAL": "No blood or CSF was obtained on aspiration .",
+    "REFERENCE": "No blood or cerebrospinal fluid was obtained on removal .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 588,
+    "ORIGINAL": "Left carpal tunnel syndrome ( 354 .",
+    "REFERENCE": "Left carpal tunnel syndrome (",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 589,
+    "ORIGINAL": "LUNGS : Clear to auscultation on the right .",
+    "REFERENCE": "LUNGS : Clear to listening on the right .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 592,
+    "ORIGINAL": "The necrotic tissue was lifted out of the abdomen .",
+    "REFERENCE": "The dead flesh was lifted out of the abdomen .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 597,
+    "ORIGINAL": "She struck herself in the head with the flag .",
+    "REFERENCE": "She hit herself in the head with the flag .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 601,
+    "ORIGINAL": "She denies any bowel or bladder dysfunction or loss of sensation in her genital area .",
+    "REFERENCE": "She denies any bowel or bladder problems or loss of sensation in her genital area .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 604,
+    "ORIGINAL": "On admission on 12/19/08 , a CT scan of the chest , abdomen , and pelvis was done for full staging purposes .",
+    "REFERENCE": "On admission on 12/19/08 , a CT scan of the chest , abdomen , and pelvis was done for full cancer stage checking",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 605,
+    "ORIGINAL": "Daytime frequency every two to three hours , nocturia times one , no incontinence , improving stress urinary incontinence after Prometheus pelvic rehabilitation .",
+    "REFERENCE": "Daytime peeing every two to three hours , nighttime peeing times one , no peeing accidents , improving stress urinary incontinence after Prometheus pelvic rehabilitation .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 606,
+    "ORIGINAL": "The remainder of the systems negative .",
+    "REFERENCE": "The remainder of the systems normal",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 610,
+    "ORIGINAL": "Her strength was good in the bilateral upper and lower extremities without any distal to proximal variation .",
+    "REFERENCE": "Her strength was good in the both arms and legs without any variation .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 618,
+    "ORIGINAL": "She states that she has underlying history of heart disease but is not able to elaborate to any significant extent .",
+    "REFERENCE": "She states that she has underlying history of heart disease but is not able to go into detail to any significant extent .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 632,
+    "ORIGINAL": "He had a huge bladder calculus .",
+    "REFERENCE": "He had a huge bladder collection of calcium",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 633,
+    "ORIGINAL": "Cardiovascular : Chest pain in the retrosternal area , Occasional anginal pain and patient describes it as a sensation of tightness .",
+    "REFERENCE": "Cardiovascular : Chest pain behind the breast bone , Occasional anginal pain and patient describes it as a sensation of tightness .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 645,
+    "ORIGINAL": "PREOPERATIVE DIAGNOSIS : Right lung atelectasis .",
+    "REFERENCE": "PREOPERATIVE DIAGNOSIS : Right lung collapse of the lung .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 648,
+    "ORIGINAL": "No problems with edema .",
+    "REFERENCE": "No problems with swelling .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 652,
+    "ORIGINAL": "GEN : He is very pleasant and in no acute distress .",
+    "REFERENCE": "GEN : He is very pleasant and in no obvious distress .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 654,
+    "ORIGINAL": "HISTORY : The patient is a 46-year-old female who presented to the emergency room with left flank pain and difficulty urinating .",
+    "REFERENCE": "HISTORY : The patient is a 46-year-old female who presented to the emergency room with left side pain and difficulty peeing",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 659,
+    "ORIGINAL": "HISTORY : Patient is a 21-year-old white woman who presented with a chief complaint of chest pain .",
+    "REFERENCE": "HISTORY : Patient is a 21-year-old white woman who presented with a main problem of chest pain .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 661,
+    "ORIGINAL": "There was some slight edema of the fourth digit , on which he still is wearing his wedding band .",
+    "REFERENCE": "There was some slight swelling of the fourth finger , on which he still is wearing his wedding band .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 664,
+    "ORIGINAL": "SKIN : There is hyperpigmentation involving the distal calf of both legs .",
+    "REFERENCE": "SKIN : There are darker areas involving the end of the calves of both legs .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 669,
+    "ORIGINAL": "Parents do state that she does appear to breathe rapidly , tires somewhat with the feeding with increased respiratory effort and diaphoresis .",
+    "REFERENCE": "Parents do state that she does appear to breathe quickly, tires somewhat with the feeding with increased breathing effort and sweating .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 671,
+    "ORIGINAL": "EXTREMITIES : No weakness , edema or ulcers , normal gait , no cyanosis , clubbing or petechiae .",
+    "REFERENCE": "EXTREMITIES : No weakness , swelling or ulcers , normal walking , no blueing due to reduce blood flow , clubbing or tiny purple spots on the skin",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 673,
+    "ORIGINAL": "The patient has not used amphetamines for at least four to five months , according to the patient ; however , he had onset of chest pain this evening .",
+    "REFERENCE": "The patient has not used amphetamines for at least four to five months , according to the patient ; however , he had chest pain this evening .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 675,
+    "ORIGINAL": "Orogastric suction carried out with only scant clear stomach contents .",
+    "REFERENCE": "Suction of stomach through the mouth carried out with only a small amount clear stomach contents",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 676,
+    "ORIGINAL": "She was awake and moving extremities well .",
+    "REFERENCE": "She was awake and moving hands and feet well",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 677,
+    "ORIGINAL": "HISTORY OF PRESENT ILLNESS : This 57-year-old black female was seen in my office on Month DD , YYYY for further evaluation and management of hypertension .",
+    "REFERENCE": "HISTORY OF PRESENT ILLNESS : This 57-year-old black female was seen in my office on Month DD , YYYY for further evaluation and management of high blood pressure .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 678,
+    "ORIGINAL": "Findings are indicated above .",
+    "REFERENCE": "Findings shown above",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 679,
+    "ORIGINAL": "Finally , he has decided to have them get repaired .",
+    "REFERENCE": "Finally, he has decided to have them repaired",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 680,
+    "ORIGINAL": "Probably there is some restrictive element because of fibrosis .",
+    "REFERENCE": "Probably there is some restrictive element because of scarring of tissues.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 681,
+    "ORIGINAL": "The uterus was placed back into the abdominal cavity .",
+    "REFERENCE": "The womb was placed back into the abdomen",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 682,
+    "ORIGINAL": "This was viewed on the AP and lateral projections .",
+    "REFERENCE": "This was viewed from the front and sides.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 683,
+    "ORIGINAL": "Brother died from lymphoma .",
+    "REFERENCE": "Brother died from cancer of the immune system",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 684,
+    "ORIGINAL": "PAST MEDICAL AND SURGICAL HISTORY : Negative .",
+    "REFERENCE": "No past medical problems or surgeries.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 685,
+    "ORIGINAL": "Intrauterine pregnancy of 39 weeks .",
+    "REFERENCE": "Pregnant at 39 weeks",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 686,
+    "ORIGINAL": "The cords move normally with phonation and ventilation .",
+    "REFERENCE": "The cords move normally when speaking and breathing",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 687,
+    "ORIGINAL": "Hemostasis noted , and skin was closed with staples .",
+    "REFERENCE": "Bleeding had stopped, and skin was closed with staples",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 688,
+    "ORIGINAL": "Once the abdomen was opened , there was noted to be gross purulent drainage .",
+    "REFERENCE": "Once the abdomen was opened, there was noted to be a lot of pus draining.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 689,
+    "ORIGINAL": "She is evaluated in the emergency department with serial blood pressure examinations , which are noted to return to a more baseline state for her 130s/90s .",
+    "REFERENCE": "She is monitored in the emergency department by measuring her blood pressure, which are noted to return to a more normal measurement for her 130/90.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 690,
+    "ORIGINAL": "Pressure was held and the area was hemostatic .",
+    "REFERENCE": "Pressure was held and the area was not bleeding.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 691,
+    "ORIGINAL": "Her pericardial fluid was accumulated and she was seen by Dr. Y .",
+    "REFERENCE": "The fluid around her heart was accumulated and she was see by Dr. Y.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 692,
+    "ORIGINAL": "Once all four ports were placed , the right upper quadrant was then explored .",
+    "REFERENCE": "Once all four tubes were placed, the top right corner of her abdomen was then explored.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 693,
+    "ORIGINAL": "Options such as watchful waiting , robotic prostatectomy , seed implantation with and without radiation were discussed .",
+    "REFERENCE": "Options such as watch and wait, removing the prostate with the help of a robot, seed implantation with and without radiation were discussed.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 694,
+    "ORIGINAL": "Intrauterine pregnancy at term with previous cesarean section .",
+    "REFERENCE": "Pregnancy at term with previous cesarean (C-section)",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 695,
+    "ORIGINAL": "He also reportedly was on Lasix prior to hospitalization , possible",
+    "REFERENCE": "He also was reportedly on water pills (lasix) before his admission to the hospital, possible",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 696,
+    "ORIGINAL": "No EKG evidence of stress induced ischemia .",
+    "REFERENCE": "No EKG evidence of reduced blood flow to the heart muscles under stress",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 697,
+    "ORIGINAL": "The four cardiac chambers dimensions are within normal limits .",
+    "REFERENCE": "The sizes of the four parts of the heart are within normal limits.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 698,
+    "ORIGINAL": "Digital rectal examination was performed , which showed no masses .",
+    "REFERENCE": "Examination of the back passage was performed, which showed no lumps.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 699,
+    "ORIGINAL": "He then had a problem with seizures , hemiparesis , has been to the hospital , developed C-diff , and is in the nursing home currently .",
+    "REFERENCE": "He then had a problem with fits, weakness on one side, has been to the hospital, developed an infection in the gut, and is in the nursing home currently.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 700,
+    "ORIGINAL": "He has been on continuous positive airway pressure now for several months , and returns for followup to review his response to treatment .",
+    "REFERENCE": "He has been using a breathing mask now for several months, and returns for follow up to review how he is doing with the treatment.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 701,
+    "ORIGINAL": "The area was lavaged with some saline and cleared .",
+    "REFERENCE": "The area was washed out with some salt water and cleared.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 702,
+    "ORIGINAL": "She has had no diarrhea today , however .",
+    "REFERENCE": "She has had no loose stools today, however.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 703,
+    "ORIGINAL": "It was freely mobile and it did not seem to hold the skin .",
+    "REFERENCE": "It was moving around and it did not seem to hold the skin",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 704,
+    "ORIGINAL": "Symptoms are worse when sitting for any length of time , such as driving a motor vehicle .",
+    "REFERENCE": "Problems are worse when sitting for any length of time, such as driving a car.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 705,
+    "ORIGINAL": "Her WPW may have degenerated into a ventricular tachycardia , but this is unlikely .",
+    "REFERENCE": "Her Wolff-Parkinson-White (WPW) syndrome may have worsen into a ventricular tachycaria, but this is unlikely.",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 706,
+    "ORIGINAL": "On evaluation , EKG , echocardiogram was abnormal , a Cardiology consult was obtained .",
+    "REFERENCE": "On review, the heart tracing was abnormal, a heart specialist's opinion was obtained",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 707,
+    "ORIGINAL": "The cholesterol levels were abnormal .",
+    "REFERENCE": "The cholesterol levels were not normal .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 708,
+    "ORIGINAL": "If she has brain swelling , we will need to hyperventilate her to a pCO2 of 30 and a pH of 7 .",
+    "REFERENCE": "If she has brain swelling , we will need to increase her rate of breathing to get the partial pressure of carbon dioxid in her blood to 30 and pH to 7 .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 709,
+    "ORIGINAL": "The patient to take small bite and small sips to help decrease the risk of aspiration and penetration .",
+    "REFERENCE": "The patient is to take small bite and small sips to help decrease the risk of having the food or drink going down the wrong pipe and piercing the pipe.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 710,
+    "ORIGINAL": "I did state that the recurrence rate is significant and somewhere as high as 20 % despite enucleating these lesions .",
+    "REFERENCE": "I did state that the rate of the disease returning is significant and somewhere as high as 20 % despite removing these lesions .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 711,
+    "ORIGINAL": "The labia are dry .",
+    "REFERENCE": "The lips are dry.",
+    "grade": 1,
+    "fully_plain": true
+  },
+  {
+    "ID": 712,
+    "ORIGINAL": "PHYSICAL EXAMINATION : Physical exam is within normal limits with a taut normal size uterus and a small cervix , status post cone biopsy .",
+    "REFERENCE": "PHYSICAL EXAMINATION : Physical exam is within normal limits with a taut normal size womb and a small cervix , in a state after a cone of tissue sample was taken.",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 713,
+    "ORIGINAL": "Forearm , elbow and shoulder exams reveal no neurologic compromise .",
+    "REFERENCE": "Forearm, elbow and shoulder examinations reveal no problems with the nerves that control movement and sensation",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 714,
+    "ORIGINAL": "The patient was awakened and extubated and moved to the recovery room in satisfactory condition .",
+    "REFERENCE": "The patient was awakened and tube was removed from the airway and moved to the recovery room in satisfactory condition .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 715,
+    "ORIGINAL": "The meninges are clear .",
+    "REFERENCE": "The connective tissue coverings of the brain and spinal cord are clear.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 716,
+    "ORIGINAL": "EXTREMITIES : No edema .",
+    "REFERENCE": "Legs and arms: no swelling",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 717,
+    "ORIGINAL": "The patient has had hospitalization for this .",
+    "REFERENCE": "The patient has been admitted into hospital for this.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 718,
+    "ORIGINAL": "There is no abnormal adjacent stranding .",
+    "REFERENCE": "There is no abnormal stranding next to it.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 719,
+    "ORIGINAL": "The pneumatic ankle tourniquet was inflated to 250 mmHg .",
+    "REFERENCE": "The cuff around the ankle was inflated to a pressure of 250 mmHg .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 720,
+    "ORIGINAL": "Thereafter , the local anesthesia was injected into the area around the tumor .",
+    "REFERENCE": "Thereafter, the numbing medicine was injected into the area around the cancer.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 721,
+    "ORIGINAL": "PHYSICAL EXAMINATION : GENERAL : The patient was asleep , but easily aroused .",
+    "REFERENCE": "The patient was asleep, but easily woken up.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 723,
+    "ORIGINAL": "Description : Dental prophylaxis under general anesthesia .",
+    "REFERENCE": "Description : Dental prevention under whole body anesthesia .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 724,
+    "ORIGINAL": "This created a high-pressure situation that the right ventricle could not handle resulting in cardiac dysfunction and ultimately the patient 's demise .",
+    "REFERENCE": "This created a high-pressure situation that the right chamber of the heart could not handle resulting in disruption of the heart function and ultimately the patient 's demise .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 725,
+    "ORIGINAL": "He is to follow up in approximately 10 days for recheck as well as prescription for intended AFOs , which he will need up to 6 months .",
+    "REFERENCE": "He is to come back in approximately 10 days for recheck as well as prescription for intended foot-drop braces , which he will need up to 6 months .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 726,
+    "ORIGINAL": "Genitourinary : The external genitalia appeared to be normal .",
+    "REFERENCE": "The penis/vagina/genitals appeared to be normal.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 727,
+    "ORIGINAL": "She is postop day 21 of an exploratory laparotomy with ovarian cancer staging .",
+    "REFERENCE": "She is 21 days after an open abdominal operation which explored how widespread the ovarian cancer was.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 728,
+    "ORIGINAL": "At this time , he has been admitted for anemia with hemoglobin of 7 .",
+    "REFERENCE": "At this time , he has been admitted for low red blood cells with a red blood cell level of 7.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 729,
+    "ORIGINAL": "LYMPH NODES : No lymphadenopathy was appreciated in the neck , axillae or groin .",
+    "REFERENCE": "LYMPH NODES : No swelling or change of lymph nodes was felt in the neck , armpits or groin .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 730,
+    "ORIGINAL": "Her cystoscopy performed was unremarkable .",
+    "REFERENCE": "Examination of her bladder with an endoscope (or a tube?) showed no remarkable changes.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 731,
+    "ORIGINAL": "There is no numbness or paresthesias in the hand or arm .",
+    "REFERENCE": "There is no numbness or tingling in the hand or arm",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 732,
+    "ORIGINAL": "Prescription for prednisone as part of his chemotherapy has been given to him .",
+    "REFERENCE": "Prescription for steroid tablets as part of his cancer treatment has been given to him.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 733,
+    "ORIGINAL": "Enlargement of the main pulmonary artery as can be seen with pulmonary arterial hypertension .",
+    "REFERENCE": "Enlargement of the main artery (blood vessel) of the lung as can be seen with high blood tension in the artery of the lung.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 734,
+    "ORIGINAL": "I also did perform a light debridement of the nonviable subcutaneous tissue , muscle , and small bony fragments were also removed .",
+    "REFERENCE": "I also did perform a light removal of the dead subcutaneous tissue , muscle , and small bony fragments were also removed .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 735,
+    "ORIGINAL": "No sensory abnormalities .",
+    "REFERENCE": "No abnormal changes of the senses.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 736,
+    "ORIGINAL": "Description : Circumcision .",
+    "REFERENCE": "Description: removal of the foreskin",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 737,
+    "ORIGINAL": "Knee abrasions .",
+    "REFERENCE": "Knee cuts",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 738,
+    "ORIGINAL": "Photic stimulation was performed , but no clear-cut photic driving was seen .",
+    "REFERENCE": "Visual stimulation was performed, but no clear-cut changes in electrical activity of the brain was seen.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 739,
+    "ORIGINAL": "FAMILY HISTORY : Both parents died with myocardial infarctions .",
+    "REFERENCE": "Family history: Both parents died with heart attacks.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 740,
+    "ORIGINAL": "Extremities : 2+ bilateral pitting edema to the level of the knees .",
+    "REFERENCE": "Hands and feet: There is swelling in both feet up to the level of the knees (when pressed, causes an indentation in the skin for a few seconds)",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 741,
+    "ORIGINAL": "Following questions are mostly involved in a psychosocial donor evaluation .",
+    "REFERENCE": "Following questions are mostly involved in a donor evaluation of their psychological or social states.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 742,
+    "ORIGINAL": "Mild nonmobile descending aortic atherosclerosis .",
+    "REFERENCE": "Mild non-moving hardening of the part of aorta (the largest artery of the body) that goes down the chest and abdomen.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 743,
+    "ORIGINAL": "Gait and station testing were unremarkable .",
+    "REFERENCE": "Walking and standing tests were unremarkable .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 744,
+    "ORIGINAL": "DISCHARGE DIET : Regular as tolerated .",
+    "REFERENCE": "DISCHARGE DIET : Patient can have whatever they can tolerate.",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 745,
+    "ORIGINAL": "CHIEF COMPLAINT : Left breast cancer .",
+    "REFERENCE": "MAIN COMPLAINT : Left breast cancer .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 746,
+    "ORIGINAL": "No papilledema or intraocular hemorrhage noted .",
+    "REFERENCE": "No increased pressure or bleeding in the eye noted.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 747,
+    "ORIGINAL": "Description : Ultrasound abdomen , complete",
+    "REFERENCE": "Description: scan of the belly (abdomen) complete",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 748,
+    "ORIGINAL": "Her mother had oral cancer .",
+    "REFERENCE": "Her mother had mouth cancer",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 749,
+    "ORIGINAL": "At this time , we would rehydrate with intravenous fluids and reassess .",
+    "REFERENCE": "At this time, we would rehydrate the body with fluids through a vein in the arm, and reassess.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 750,
+    "ORIGINAL": "The eustachian tube was obstructed with bone wax .",
+    "REFERENCE": "The passage between the nose and the ears was blocked with bone wax.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 751,
+    "ORIGINAL": "There is a hernia on the left side .",
+    "REFERENCE": "The gut sticks out through the abdomen wall on the left side.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 752,
+    "ORIGINAL": "He was placed supine on the operating room table .",
+    "REFERENCE": "He was placed facing upwards on the operating room table.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 753,
+    "ORIGINAL": "The patient regained bowel function .",
+    "REFERENCE": "The patient was able to open their bowels again",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 754,
+    "ORIGINAL": "There is a neurology consultation in the computer system .",
+    "REFERENCE": "There is a nerve specialist's consultation notes in the computer system.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 755,
+    "ORIGINAL": "A urinalysis was not performed this time .",
+    "REFERENCE": "A urine test was not performed this time.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 756,
+    "ORIGINAL": "No hepatosplenomegaly .",
+    "REFERENCE": "No abnormally large liver or spleen",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 757,
+    "ORIGINAL": "She denies any abdominal pain or vaginal bleeding .",
+    "REFERENCE": "She denies any pain in the tummy or bleeding from the vagina.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 758,
+    "ORIGINAL": "He denies any alcohol .",
+    "REFERENCE": "He doesn't drink any alcohol",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 759,
+    "ORIGINAL": "Sample Name : Knee Arthroplasty",
+    "REFERENCE": "Sample Name: Knee replacement surgery",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 760,
+    "ORIGINAL": "NEUROLOGIC : Negative .",
+    "REFERENCE": "Neurological : normal",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 761,
+    "ORIGINAL": "On the night of presentation , the patient was found by a cousin in his bathroom lethargic and disoriented .",
+    "REFERENCE": "On the night of coming in , the patient was found by a cousin in his bathroom tired and disoriented .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 762,
+    "ORIGINAL": "Palpation of her right knee reveals no crepitus .",
+    "REFERENCE": "Feeling of her right knee reveals no crunchy feeling .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 763,
+    "ORIGINAL": "All questions were answered , and he wished to proceed with surgery as planned .",
+    "REFERENCE": "All questions were answered , and he wished to continue with surgery as planned .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 764,
+    "ORIGINAL": "Thyroid without nodules or masses .",
+    "REFERENCE": "Thyroid (gland in the neck which releases hormones in the body) was without lumps or bumps",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 766,
+    "ORIGINAL": "Vision and hearing appeared to be adequate for testing , although she did indicate that she needed to update her eyeglass prescription .",
+    "REFERENCE": "Vision and hearing appeared to be okay for testing , although she did indicate that she needed to update her glasses prescription .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 770,
+    "ORIGINAL": "Modifying Factors : Patient 's condition is aggravated by throwing .",
+    "REFERENCE": "Modifying Factors : Patient 's condition is made worse by throwing .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 771,
+    "ORIGINAL": "I have talked to him several times about a colonoscopy , which he has refused , and so we have been doing stools for occult blood .",
+    "REFERENCE": "I have talked to him several times about a procedure to have a look inside the bowels (colonoscopy), which he has refused, and so we have been testing some stool samples in the lab to look for blood (which may be invisible to the naked eye).",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 772,
+    "ORIGINAL": "Sample Name : Abscess Excision",
+    "REFERENCE": "Sample Name : removal of collection of pus",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 774,
+    "ORIGINAL": "Check renal ultrasound .",
+    "REFERENCE": "Check kidney scan",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 775,
+    "ORIGINAL": "INDICATION : Rectal bleeding .",
+    "REFERENCE": "Indication: bleeding through the back passage or blood in the stool.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 776,
+    "ORIGINAL": "The duodenum was normal .",
+    "REFERENCE": "The first part of the gut was normal",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 778,
+    "ORIGINAL": "There is no evidence of effusion or consolidation .",
+    "REFERENCE": "There is no evidence of fluid",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 779,
+    "ORIGINAL": "CHEST : Clear to auscultation bilaterally , no wheezes , rales , or rhonchi .",
+    "REFERENCE": "CHEST: Sounds clear on listening with a stethoscope, on both sides, no additional abnormal sounds.",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 783,
+    "ORIGINAL": "The knee was copiously irrigated and suction dried once again .",
+    "REFERENCE": "The knee was washed out thoroughly and dried with a suction (or mini-vacuum) once again",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 784,
+    "ORIGINAL": "She is not having painful urination , any blood in the urine , frequency or hesitancy .",
+    "REFERENCE": "She is not having painful peeing, any blood in the pee, needing to pee very often or having difficulty peeing.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 785,
+    "ORIGINAL": "Left carpal tunnel syndrome ( 354 .",
+    "REFERENCE": "Left wrist pressure causing nerve symptoms",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 786,
+    "ORIGINAL": "LUNGS : Clear to auscultation on the right .",
+    "REFERENCE": "LUNGS: clear on the right side when listening with a stethoscope",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 787,
+    "ORIGINAL": "Her strength was good in the bilateral upper and lower extremities without any distal to proximal variation .",
+    "REFERENCE": "Her strength was good in the bilaterally in arms and legs without any far to near variation .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 788,
+    "ORIGINAL": "He had a huge bladder calculus .",
+    "REFERENCE": "He had a huge bladder stone",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 789,
+    "ORIGINAL": "Cardiovascular : Chest pain in the retrosternal area , Occasional anginal pain and patient describes it as a sensation of tightness .",
+    "REFERENCE": "Heart and blood vessels: Chest pain just behind the breastbone, occasional chest pain when exercising or exerting themselves, which gets better with rest and patient describes it as feeling 'tightness'.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 790,
+    "ORIGINAL": "We excised a good bit of his synovium and synovial pouch .",
+    "REFERENCE": "We cut out a bit of the soft tissue of the joint.",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 794,
+    "ORIGINAL": "EXTREMITIES : He has full range of motion of all 4 extremities .",
+    "REFERENCE": "EXTREMITIES : He has full range of motion of all 4 arms and legs",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 795,
+    "ORIGINAL": "The patient had an episode of supraventricular tachycardia at peak stress .",
+    "REFERENCE": "The patient had an episode of high heart rate at highest stress .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 797,
+    "ORIGINAL": "Respiratory failure .",
+    "REFERENCE": "Breathing failure",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 798,
+    "ORIGINAL": "She specifically denies any blistering , herpetic genital lesions .",
+    "REFERENCE": "She specifically denies any blistering , or spreading genital skin problems .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 800,
+    "ORIGINAL": "She voided on the day of admission .",
+    "REFERENCE": "She went to the toilet on the day of admission .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 801,
+    "ORIGINAL": "An inflammatory process such as infection or ischemia must be considered .",
+    "REFERENCE": "An inflammatory process such as infection or reduced blood flow must be considered .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 803,
+    "ORIGINAL": "Toes were pink , warm , with good capillary refill .",
+    "REFERENCE": "Toes were pink , warm , with good blood flow.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 804,
+    "ORIGINAL": "I have asked her to increase her prednisone when she goes home .",
+    "REFERENCE": "I have asked her to increase her steroid when she goes home .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 806,
+    "ORIGINAL": "MEDICATIONS : Current medications , which are her outpatient medications , which she is not taking at the moment are lithium 300 mg p. o .",
+    "REFERENCE": "MEDICATIONS : Current medications , which are her outpatient medications , which she is not taking at the moment are lithium 300 mg orally",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 807,
+    "ORIGINAL": "Blood loss was essentially no .",
+    "REFERENCE": "Blood loss was essentially none",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 809,
+    "ORIGINAL": "Tympanic membranes clear bilaterally .",
+    "REFERENCE": "Ear drums clear bilaterally .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 810,
+    "ORIGINAL": "Tympanic membranes were noted to be intact .",
+    "REFERENCE": "Ear drums were noted to be intact",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 811,
+    "ORIGINAL": "Questionable history of coronary artery disease .",
+    "REFERENCE": "Questionable history of heart vessel disease .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 816,
+    "ORIGINAL": "P. r. n. for any recurrent nausea .",
+    "REFERENCE": "When required for any recurrent nausea .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 819,
+    "ORIGINAL": "Had another ultrasound , which was negative for deep vein thrombosis .",
+    "REFERENCE": "Had another ultrasound , which was negative for deep vein blockage",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 820,
+    "ORIGINAL": "Reports that an ambulance arrived at the scene and he was told he had a scalp laceration and to go into the emergency room .",
+    "REFERENCE": "Reports that an ambulance arrived at the scene and he was told he had a cut on the face and to go into the emergency room .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 823,
+    "ORIGINAL": "Currently is a nonacute abdomen .",
+    "REFERENCE": "Currently is a normal belly",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 826,
+    "ORIGINAL": "Pain and inability to ambulate brought him in .",
+    "REFERENCE": "Pain and inability to move around brought him in .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 829,
+    "ORIGINAL": "I have asked her to return should the syncopal spells continue .",
+    "REFERENCE": "I have asked her to return should the dizzy spells continue .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 830,
+    "ORIGINAL": "His blood pressure fluctuated and dropped in the 70s , correlating with additional sedation .",
+    "REFERENCE": "His blood pressure fluctuated and dropped in the 70s , at the same time as with additional sedation .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 831,
+    "ORIGINAL": "There was no significant intranasal bleeding , and for this reason , an open nasal packing was required .",
+    "REFERENCE": "There was no significant bleeding in the nose , and for this reason , an open nose blocking was required .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 833,
+    "ORIGINAL": "Skin is warm and dry without rash or lesions noted .",
+    "REFERENCE": "Skin is warm and dry without rash or cuts noted .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 836,
+    "ORIGINAL": "Currently however , the patient has no clinical symptoms according to her .",
+    "REFERENCE": "Currently however , the patient has no clinical problems according to her .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 837,
+    "ORIGINAL": "No adenopathy .",
+    "REFERENCE": "No node swelling .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 838,
+    "ORIGINAL": "Thank you for asking me to participate in his care .",
+    "REFERENCE": "Thank you for asking me to help with his care .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 839,
+    "ORIGINAL": "She reports that she had a brain MRI two years ago which was also unremarkable .",
+    "REFERENCE": "She reports that she had a brain MRI two years ago which was also normal",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 840,
+    "ORIGINAL": "He has had some low-grade fever .",
+    "REFERENCE": "He has had some low-grade temperature .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 841,
+    "ORIGINAL": "He reports that he has history of testicular cancer in the distant past and the most recent bone scan was negative .",
+    "REFERENCE": "He reports that he has history of testicular cancer in a long time ago and the most recent bone scan was normal.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 844,
+    "ORIGINAL": "She may need other neuropathic pain medications as needed .",
+    "REFERENCE": "She may need other nerve pain medications as needed .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 848,
+    "ORIGINAL": "Extremities without any edema .",
+    "REFERENCE": "Extremities without any swelling",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 849,
+    "ORIGINAL": "History of hyperlipidemia with elevated triglycerides .",
+    "REFERENCE": "History of high fat in the blood with elevated triglycerides .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 851,
+    "ORIGINAL": "MUSCULOSKELETAL : The upper and lower extremities are symmetric bilaterally .",
+    "REFERENCE": "MUSCULOSKELETAL : The arms and legs are the same either side",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 852,
+    "ORIGINAL": "A prophylactic dose of antibiotics was given .",
+    "REFERENCE": "A prevention dose of antibiotics was given .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 854,
+    "ORIGINAL": "Chronic hypokalemia secondary to chronic diarrhea .",
+    "REFERENCE": "Long term low potassium due to long term diarrhea .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 856,
+    "ORIGINAL": "FINDINGS : A detailed physical exam revealed a very active and intractable , well-nourished 11-month-old male with weight 10 .",
+    "REFERENCE": "FINDINGS : A detailed physical exam revealed a very active and hard to control , well-nourished 11-month-old male with weight 10 .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 857,
+    "ORIGINAL": "She states , `` Sometimes I hurt all over. ``",
+    "REFERENCE": "She says , `` Sometimes I hurt all over. ``",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 858,
+    "ORIGINAL": "She is discharged and given the above noted medications .",
+    "REFERENCE": "She is discharged and given the above documented medications .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 859,
+    "ORIGINAL": "No hepatosplenomegaly or tenderness .",
+    "REFERENCE": "No enlarged liver or spleen or pain when pushed .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 860,
+    "ORIGINAL": "Description : Patient with a family history of premature coronary artery disease came in for evaluation of recurrent chest pain",
+    "REFERENCE": "Description : Patient with a family history of early heart disease came in for evaluation of recurrent chest pain",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 861,
+    "ORIGINAL": "It is unknown whether he is under legal constraints at this time .",
+    "REFERENCE": "It is unknown whether he is under legal restrictions at this time .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 863,
+    "ORIGINAL": "Of note , she performed poorly when these tasks involved the time component .",
+    "REFERENCE": "Of note , she performed badly when these tasks involved the time component .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 864,
+    "ORIGINAL": "Abdomen : flat , soft , non-tender without bruitt or pulsatile mass .",
+    "REFERENCE": "Abdomen : flat , soft , non-tender without unusual sounds or pulsatile mass .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 867,
+    "ORIGINAL": "IMPRESSION : Negative for a facial bone fracture .",
+    "REFERENCE": "IMPRESSION :does not have a facial bone fracture .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 871,
+    "ORIGINAL": "No masses were appreciated .",
+    "REFERENCE": "No masses were seen.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 873,
+    "ORIGINAL": "ASSESSMENT : Allergic rhinitis .",
+    "REFERENCE": "ASSESSMENT : inflammation in the nose due to allergy",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 878,
+    "ORIGINAL": "Lumbar stenosis .",
+    "REFERENCE": "Lower back narrowing",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 879,
+    "ORIGINAL": "GENERAL : In no acute distress .",
+    "REFERENCE": "GENERAL : In no immediate distress .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 881,
+    "ORIGINAL": "He did not experience his left anterior chest pain with exercise .",
+    "REFERENCE": "He did not experience his left front chest pain with exercise .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 882,
+    "ORIGINAL": "Recurrent cellulitis .",
+    "REFERENCE": "Repeated skin infection",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 885,
+    "ORIGINAL": "He moves all extremities without difficulty .",
+    "REFERENCE": "He moves all arms and legs without difficulty .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 886,
+    "ORIGINAL": "The stomach appeared grossly normal .",
+    "REFERENCE": "The stomach appeared generally normal .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 891,
+    "ORIGINAL": "Also , would use it to control the atrial fibrillation .",
+    "REFERENCE": "Also , would use it to control the irregular heart beat",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 895,
+    "ORIGINAL": "PAST MEDICAL HISTORY : Essentially unremarkable .",
+    "REFERENCE": "PAST MEDICAL HISTORY : Essentially normal",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 900,
+    "ORIGINAL": "Overall the patient is a seemingly good historian .",
+    "REFERENCE": "Overall the patient is seemingly good at remembering their history",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 901,
+    "ORIGINAL": "SOCIAL HISTORY : Negative for smoking and drinking .",
+    "REFERENCE": "SOCIAL HISTORY : no for smoking and drinking .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 902,
+    "ORIGINAL": "HEART : Tachycardic .",
+    "REFERENCE": "HEART : fast heart beat",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 903,
+    "ORIGINAL": "Mother states that his temperature usually elevates at night .",
+    "REFERENCE": "Mother states that his temperature usually gets higher at night .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 905,
+    "ORIGINAL": "The patient had been on pain medication .",
+    "REFERENCE": "The patient had been on pain drugs",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 907,
+    "ORIGINAL": "GASTROINTESTINAL : Abdomen is soft and nontender .",
+    "REFERENCE": "GASTROINTESTINAL : Abdomen is soft and not painful when pressed",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 910,
+    "ORIGINAL": "The extremities are heavy .",
+    "REFERENCE": "The legs are heavy .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 911,
+    "ORIGINAL": "This could be on the basis of her renal failure .",
+    "REFERENCE": "This could be on the basis of her kidney failure .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 915,
+    "ORIGINAL": "There is no atrophy .",
+    "REFERENCE": "There is no reduction in size",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 918,
+    "ORIGINAL": "ABDOMEN : Bowel sounds are present .",
+    "REFERENCE": "ABDOMEN : gut sounds are present .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 919,
+    "ORIGINAL": "FAMILY HISTORY : The patient 's mother died from gastric cancer .",
+    "REFERENCE": "FAMILY HISTORY : The patient 's mother died from stomach cancer .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 920,
+    "ORIGINAL": "There is no evidence of fevers .",
+    "REFERENCE": "There is no evidence of high temperatures",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 922,
+    "ORIGINAL": "PLAN : I ordered yearly digoxin levels .",
+    "REFERENCE": "PLAN : I ordered yearly heart rate controlling medication levels .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 923,
+    "ORIGINAL": "LUNGS : Bilateral air entry .",
+    "REFERENCE": "LUNGS : air entry both sides.",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 933,
+    "ORIGINAL": "No active Crohn 's disease was found during the colonoscopy .",
+    "REFERENCE": "No active Crohn 's disease was found during the camera test through the gut .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 934,
+    "ORIGINAL": "Description : Patient admitted because of recurrent nausea and vomiting , with displacement of the GEJ feeding tube .",
+    "REFERENCE": "Description : Patient admitted because of continuous nausea and vomiting , with displacement of the gut feeding tube .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 935,
+    "ORIGINAL": "Shortly after the patient's initial assessment , the patient apparently began to complain of chest pain and appeared to the nurse to have mounting exhaustion and respiratory distress .",
+    "REFERENCE": "Shortly after the patient's initial assessment , the patient apparently began to complain of chest pain and appeared to the nurse to have worsening exhaustion and breathing distress .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 936,
+    "ORIGINAL": "Punched the wall 3 days prior to presentation , complained of ulnar-sided right hand pain , and was seen in the emergency room .",
+    "REFERENCE": "Punched the wall 3 days prior to coming in , complained of little finger sided right hand pain , and was seen in the emergency room .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 939,
+    "ORIGINAL": "No significant bleed .",
+    "REFERENCE": "No big bleed .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 940,
+    "ORIGINAL": "When asked about her return to work , she said that she was still on light duty due to limited physical activity because of residual left leg weakness .",
+    "REFERENCE": "When asked about her return to work , she said that she was still on light duty due to limited physical activity because of a little bit of left leg weakness .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 942,
+    "ORIGINAL": "No inflammation or intrinsic abnormality are identified .",
+    "REFERENCE": "No inflammation or anything unusual are identified .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 946,
+    "ORIGINAL": "URINARY OBSTRUCTION .",
+    "REFERENCE": "URINARY blockage",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 947,
+    "ORIGINAL": "The remainder of the cranial nerves exam was unremarkable .",
+    "REFERENCE": "The remainder of the cranial nerves exam was normal.",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 948,
+    "ORIGINAL": "The lower extremities are still numb from spinal anesthesia .",
+    "REFERENCE": "The lower legs are still numb from spinal numbing .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 949,
+    "ORIGINAL": "Altered mental status , possible exacerbation of Parkinson .",
+    "REFERENCE": "Altered mental status , possible worsening of Parkinson .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 950,
+    "ORIGINAL": "PAST MEDICAL HISTORY : Significant for gastroesophageal reflux disease , history of iron deficiency anemia , and asthma for which she takes an inhaler .",
+    "REFERENCE": "PAST MEDICAL HISTORY : Significant for acid reflux , history of iron deficiency anemia , and asthma for which she takes an inhaler .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 951,
+    "ORIGINAL": "PHYSICAL EXAMINATION : GENERAL : He is an elderly gentleman in no acute distress .",
+    "REFERENCE": "PHYSICAL EXAMINATION : GENERAL : He is an elderly gentleman in no obvious distress .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 952,
+    "ORIGINAL": "LOWER EXTREMITIES : Shows no edema .",
+    "REFERENCE": "LOWER EXTREMITIES : Shows no swelling",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 954,
+    "ORIGINAL": "Next , attention was drawn to the mid back .",
+    "REFERENCE": "Next , attention was drawn to the middle of the back .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 955,
+    "ORIGINAL": "ANESTHESIA : Conscious Sedation .",
+    "REFERENCE": "ANESTHESIA : Awake Sedation .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 956,
+    "ORIGINAL": "No complications were encountered throughout the procedure and the patient tolerated the procedure well .",
+    "REFERENCE": "No complications were encountered throughout the procedure and the patient underwent the procedure well .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 957,
+    "ORIGINAL": "The patient is a 52-year-old female morbidly obese black female who has a long history of reflux and gastroesophageal reflux disease type symptoms including complications such as hoarseness and chronic cough .",
+    "REFERENCE": "The patient is a 52-year-old female morbidly obese black female who has a long history of acid reflux disease type symptoms including complications such as hoarseness and long term cough .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 959,
+    "ORIGINAL": "REVIEW OF SYSTEMS : HEENT : Headaches , vision changes , dizziness , and sore throat .",
+    "REFERENCE": "REVIEW OF SYSTEMS : head, eyes, ear nose and throat : Headaches , vision changes , dizziness , and sore throat .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 960,
+    "ORIGINAL": "HISTORY : Status post subtotal thyroidectomy for thyroid carcinoma , histology not provided .",
+    "REFERENCE": "HISTORY : Status post partial removal of the thyroid for thyroid carcinoma , histology not provided .",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 963,
+    "ORIGINAL": "Skin : Skin temperature of the lower extremities is warm to cool , proximal to distal .",
+    "REFERENCE": "Skin : Skin temperature of the lower legs is warm to cool , close to far .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 964,
+    "ORIGINAL": "Hypertension , suboptimal control .",
+    "REFERENCE": "High blood pressure , not the best control .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 966,
+    "ORIGINAL": "First cycle of chemotherapy was complicated by sepsis despite growth factor support .",
+    "REFERENCE": "First cycle of chemotherapy was complicated by severe general infection despite growth factor support .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 967,
+    "ORIGINAL": "Obtain renal consult Dr. Y .",
+    "REFERENCE": "Obtain kidney consult Dr. Y .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 968,
+    "ORIGINAL": "She has been referred for a pacemaker implantation .",
+    "REFERENCE": "She has been referred for a pacemaker fitting surgery .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 970,
+    "ORIGINAL": "He is on aspirin prophylaxis .",
+    "REFERENCE": "He is on aspirin prevention",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 974,
+    "ORIGINAL": "Lymph nodes : No lymphadenopathy .",
+    "REFERENCE": "Lymph nodes : No lymph node swelling",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 975,
+    "ORIGINAL": "She did receive epidural anesthesia .",
+    "REFERENCE": "She did receive numbing agent via injection through the back .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 977,
+    "ORIGINAL": "CC : Found unresponsive .",
+    "REFERENCE": "Chief complaint : Found unresponsive .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 978,
+    "ORIGINAL": "The family is motivated for treatment .",
+    "REFERENCE": "The family really wants treatment .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 981,
+    "ORIGINAL": "The patient denies any previous history of rectal bleeding or pain .",
+    "REFERENCE": "The patient denies any previous history of back passage bleeding or pain .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 983,
+    "ORIGINAL": "SUBJECTIVE : This is a 12-year-old young man who comes in with about 10 days worth of sinus congestion .",
+    "REFERENCE": "SUBJECTIVE : This is a 12-year-old young man who comes in with about 10 days worth of sinus blockages",
+    "grade": 2,
+    "fully_plain": false
+  },
+  {
+    "ID": 985,
+    "ORIGINAL": "The patient had dialysis today , which is Saturday , for approximately one hour before the shunt no longer worked .",
+    "REFERENCE": "The patient had dialysis today , which is Saturday , for approximately one hour before the blood tube no longer worked .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 989,
+    "ORIGINAL": "Description : A very pleasant 66-year-old woman with recurrent metastatic ovarian cancer .",
+    "REFERENCE": "Description : A very pleasant 66-year-old woman with recurrent spreading ovarian cancer .",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 990,
+    "ORIGINAL": "Mild gait impairment ( 781 .",
+    "REFERENCE": "Mild walking impairment ( 781 .",
+    "grade": 3,
+    "fully_plain": true
+  },
+  {
+    "ID": 996,
+    "ORIGINAL": "CARDIOVASCULAR : She is slightly tachycardic but otherwise normal .",
+    "REFERENCE": "CARDIOVASCULAR : She had slightly high heart rate but otherwise normal .",
+    "grade": 3,
+    "fully_plain": false
+  },
+  {
+    "ID": 998,
+    "ORIGINAL": "Sample Name : Facial Laceration Closure",
+    "REFERENCE": "Sample Name : Facial cut Closure",
+    "grade": 2,
+    "fully_plain": true
+  },
+  {
+    "ID": 999,
+    "ORIGINAL": "Gastrointestinal tract : Bowel sounds present .",
+    "REFERENCE": "Gastrointestinal tract : gut sounds present .",
+    "grade": 3,
+    "fully_plain": true
+  }
+]

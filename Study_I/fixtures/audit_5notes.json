@@ -1,0 +1,105 @@
+[
+  {
+    "case_id": "easy_1",
+    "difficulty": "easy",
+    "original": "The patient was commenced on oral antibiotics for cellulitis and was advised to elevate the swollen leg.",
+    "reference": "The patient started antibiotic pills for a skin infection and was told to raise the swollen leg.",
+    "minimum_replacements": 4,
+    "target_terms": [
+      "commenced",
+      "oral antibiotics",
+      "cellulitis",
+      "advised",
+      "elevate"
+    ],
+    "safety_facts": [
+      "The treatment is taken by mouth.",
+      "The infection affects the skin.",
+      "The swollen leg should be raised."
+    ]
+  },
+  {
+    "case_id": "medium_1",
+    "difficulty": "medium",
+    "original": "CT angiography showed no pulmonary embolism, but bilateral pleural effusions and bibasal atelectasis persisted despite diuresis.",
+    "reference": "A blood-vessel scan showed no blood clot in the lungs, but fluid around both lungs and partial collapse at both lung bases remained despite water-removing treatment.",
+    "minimum_replacements": 5,
+    "target_terms": [
+      "CT angiography",
+      "pulmonary embolism",
+      "bilateral pleural effusions",
+      "bibasal atelectasis",
+      "persisted",
+      "diuresis"
+    ],
+    "safety_facts": [
+      "No pulmonary embolism was found.",
+      "The fluid and partial collapse affect both lungs.",
+      "The findings remained despite treatment."
+    ]
+  },
+  {
+    "case_id": "medium_2",
+    "difficulty": "medium",
+    "original": "Because of symptomatic bradycardia, metoprolol was withheld and atropine 0.5 mg IV was administered, with subsequent hemodynamic improvement.",
+    "reference": "Because the slow heartbeat caused symptoms, metoprolol was stopped and 0.5 mg of atropine was given through a vein; afterward, the patient's blood pressure and blood flow improved.",
+    "minimum_replacements": 5,
+    "target_terms": [
+      "symptomatic bradycardia",
+      "withheld",
+      "IV",
+      "administered",
+      "subsequent",
+      "hemodynamic improvement"
+    ],
+    "safety_facts": [
+      "Metoprolol was withheld.",
+      "Atropine was administered, not metoprolol.",
+      "The atropine dose was 0.5 mg and the route was intravenous.",
+      "Improvement occurred after atropine."
+    ]
+  },
+  {
+    "case_id": "hard_1",
+    "difficulty": "hard",
+    "original": "Following laparoscopic cholecystectomy, the patient developed an iatrogenic common bile duct transection with bile peritonitis, necessitating urgent ERCP and biliary stent placement.",
+    "reference": "After keyhole surgery to remove the gallbladder, an accidental cut through the main bile tube caused bile to inflame the lining of the belly, so the patient urgently needed a camera procedure through the mouth and a small tube placed in the bile duct.",
+    "minimum_replacements": 5,
+    "target_terms": [
+      "laparoscopic cholecystectomy",
+      "iatrogenic",
+      "common bile duct transection",
+      "bile peritonitis",
+      "necessitating",
+      "ERCP",
+      "biliary stent placement"
+    ],
+    "safety_facts": [
+      "The bile-duct injury was caused by medical treatment.",
+      "The injury occurred after gallbladder surgery.",
+      "The injury and inflammation made urgent ERCP and stent placement necessary."
+    ]
+  },
+  {
+    "case_id": "hard_2",
+    "difficulty": "hard",
+    "original": "In decompensated cirrhosis, lactulose was titrated to achieve three bowel movements daily for hepatic encephalopathy; however, worsening asterixis without focal neurologic deficit prompted evaluation for occult gastrointestinal bleeding.",
+    "reference": "Because the patient's severe liver scarring had worsened, the lactulose dose was adjusted to cause three bowel movements a day for brain problems from liver disease. However, worsening hand flapping, with no weakness or other nerve problem in one specific body area, led doctors to check for hidden bleeding in the stomach or intestines.",
+    "minimum_replacements": 6,
+    "target_terms": [
+      "decompensated cirrhosis",
+      "titrated",
+      "hepatic encephalopathy",
+      "asterixis",
+      "focal neurologic deficit",
+      "prompted evaluation",
+      "occult gastrointestinal bleeding"
+    ],
+    "safety_facts": [
+      "Lactulose was adjusted to produce three bowel movements each day.",
+      "The hand-flapping sign worsened.",
+      "There was no focal neurologic deficit.",
+      "Doctors evaluated for hidden gastrointestinal bleeding."
+    ]
+  }
+]

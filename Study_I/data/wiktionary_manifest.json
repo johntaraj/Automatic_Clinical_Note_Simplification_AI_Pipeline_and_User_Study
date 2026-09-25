@@ -1,0 +1,25 @@
+{
+  "source": "Simple English Wiktionary via wiktextract",
+  "source_file": "data\\archive\\wikitionary.jsonl",
+  "source_sha256": "60597c0fdcc36674d382edfed92db7359c6a4655954624c079a30cc58c0c5ec2",
+  "generated_at_utc": "2026-08-09T21:56:13.300461+00:00",
+  "tool": "tools/build_wiktionary.py",
+  "strategy": "keep headword + glosses only; skip proper-noun (pos=name) and redirect records; resolve inflection glosses to the lemma's first real gloss; drop unresolvable pointers, truncated glosses ending in ':' and glosses under 3 words; at most 3 senses per headword",
+  "stats": {
+    "headwords_after_filters": 51123,
+    "entries_written": 62814,
+    "unique_terms": 50812,
+    "resolved_inflection_pointers": 29123,
+    "kept_real_glosses": 33691,
+    "dropped_unresolvable_pointer": 190,
+    "dropped_truncated_or_too_short": 408,
+    "max_senses_per_word": 3,
+    "min_gloss_words": 3,
+    "records": 61704,
+    "skipped_proper_noun": 2635,
+    "skipped_redirect": 495,
+    "skipped_non_english": 0,
+    "raw_glosses": 69578,
+    "output_sha256": "e74ce5dd108ed7d8cf7fb0727332cfd9f2a14659cab902cd0709a62a1a3385f3"
+  }
+}
